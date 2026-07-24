@@ -1,0 +1,4259 @@
+[
+  {
+    "date": "01-01",
+    "item": "Métronome du Début-Temps",
+    "quantite": 1,
+    "kamas": 8400000,
+    "bonusDescription": null,
+    "bonusCategories": [
+      "aucun"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-02",
+    "item": "Michette",
+    "quantite": 4,
+    "kamas": 395000,
+    "bonusDescription": "15% ingrédients pour Paysans",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "01-03",
+    "item": "Capuche d'Armécréante",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge donjon Tempête Éliocalypse",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-04",
+    "item": "Cœur de Crapeur",
+    "quantite": 3,
+    "kamas": 16140000,
+    "bonusDescription": "+75% drop Larmes d'Ouronigride",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-05",
+    "item": "Frostiz",
+    "quantite": 10,
+    "kamas": 10995000,
+    "bonusDescription": "+200% Frostiz pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "01-06",
+    "item": "Poils de Barbe du Grand Pa Wabbit",
+    "quantite": 6,
+    "kamas": 2111000,
+    "bonusDescription": "Quête répétable village Amakna",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-07",
+    "item": "Boue du Boo",
+    "quantite": 6,
+    "kamas": 615000,
+    "bonusDescription": "+50% XP sur Gadouilleux",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-08",
+    "item": "Serviette de Plage",
+    "quantite": 6,
+    "kamas": 395000,
+    "bonusDescription": "+150% challenge donjon Château Ensablé",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-09",
+    "item": "Épée Sacrée",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Qualité des objets améliorée à Bonta",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-10",
+    "item": "Ceinture de Célérité",
+    "quantite": 1,
+    "kamas": 1253000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos roux",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-11",
+    "item": "Miroir de Dopeul",
+    "quantite": 6,
+    "kamas": 1231000,
+    "bonusDescription": "+50% drop sur Dopeuls de Cania",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-12",
+    "item": "Argent",
+    "quantite": 30,
+    "kamas": 4200000,
+    "bonusDescription": "+125% Argent pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "01-13",
+    "item": "Bave de Nessil",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Château Harebourg & Tour Clepsydre",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-14",
+    "item": "Bois de Tremble",
+    "quantite": 10,
+    "kamas": 10995000,
+    "bonusDescription": "+125% Bois de Tremble pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "01-15",
+    "item": "Botte trouée de Mégabwork",
+    "quantite": 6,
+    "kamas": 4551000,
+    "bonusDescription": "+50% drop sur Bworks de Cania",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-16",
+    "item": "Relique Familiale",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "2 challenges au lieu d'un Bordure de Brâkmar",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-17",
+    "item": "Glande d'Arak-haï",
+    "quantite": 9,
+    "kamas": 4551000,
+    "bonusDescription": "+125% challenge Arak-haï",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-18",
+    "item": "Poisson-Chaton",
+    "quantite": 40,
+    "kamas": 593000,
+    "bonusDescription": "+100% Poissons pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "01-19",
+    "item": "Pagne d'Alashasss",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP montures anomalies | +25% XP & butin Crocuzko",
+    "bonusCategories": [
+      "drop",
+      "elevage",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-20",
+    "item": "Poil de Rat Brâkmarien",
+    "quantite": 2,
+    "kamas": 6662000,
+    "bonusDescription": "+50% drop sur Rats Brâkmariens",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-21",
+    "item": "Bouteille de Gloutoburg",
+    "quantite": 1,
+    "kamas": 11984000,
+    "bonusDescription": "+25% objets créés pour Alchimistes",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "01-22",
+    "item": "Ortie",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+125% Ortie pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "01-23",
+    "item": "Rune So",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "15% runes utilisées par Sculptemages",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Sculptemages"
+    ]
+  },
+  {
+    "date": "01-24",
+    "item": "Bourgeon Abraknyde Sombre Irascible",
+    "quantite": 2,
+    "kamas": 9741000,
+    "bonusDescription": "+150% challenge donjon Chêne Mou",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-25",
+    "item": "Tibia de Koalak Fossoyeur",
+    "quantite": 5,
+    "kamas": 6662000,
+    "bonusDescription": "+75% XP Cimetière Primitif",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-26",
+    "item": "Bois de Chêne",
+    "quantite": 40,
+    "kamas": 1187000,
+    "bonusDescription": "+125% Bois de Chêne pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "01-27",
+    "item": "Carasau",
+    "quantite": 4,
+    "kamas": 395000,
+    "bonusDescription": "+25% objets créés pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "01-28",
+    "item": "Queue de Rat Pine",
+    "quantite": 2,
+    "kamas": 11654000,
+    "bonusDescription": "+150% challenge donjon Sphincter Cell",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-29",
+    "item": "Laine de Bouftou",
+    "quantite": 6,
+    "kamas": 593000,
+    "bonusDescription": "2 challenges au lieu d'un Coin des Bouftous",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-30",
+    "item": "Bourse Suspecte",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+50% drop Artisans Sombres",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "01-31",
+    "item": "Menthe Sauvage",
+    "quantite": 40,
+    "kamas": 1187000,
+    "bonusDescription": "+125% Menthe Sauvage pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "02-01",
+    "item": "Blessure du Sacrieur",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+50% XP & drop avec Idole Tolgnas",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-02",
+    "item": "Brioche à la viande de bouftou",
+    "quantite": 2,
+    "kamas": 4771000,
+    "bonusDescription": "+125% challenge Bouftous, Boufmouths, Boufcouls | +50% XP Chasseurs, Paysans, Pêcheurs",
+    "bonusCategories": [
+      "craft",
+      "pvm"
+    ],
+    "metiersConcernes": [
+      "Chasseur",
+      "Paysan",
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "02-03",
+    "item": "Bombe de Graboule",
+    "quantite": 6,
+    "kamas": 4551000,
+    "bonusDescription": "+50% XP sur Riktus des Magik Riktus",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-04",
+    "item": "Molaire de Blérice",
+    "quantite": 2,
+    "kamas": 19944000,
+    "bonusDescription": "+75% drop Crocs de Verre",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-05",
+    "item": "Fil de Néfileuse",
+    "quantite": 1,
+    "kamas": 4551000,
+    "bonusDescription": "+200% butin Percepteurs en donjons 80-110",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-06",
+    "item": "Marteau de Boisaille",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "15% ingrédients Forgerons",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Forgeron"
+    ]
+  },
+  {
+    "date": "02-07",
+    "item": "Lamelle de Champa Vert",
+    "quantite": 6,
+    "kamas": 1143000,
+    "bonusDescription": "+50% XP zones anomalies | +25% XP & drop Bord de la Forêt Maléfique",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-08",
+    "item": "Bois de Frêne",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+125% Bois de Frêne pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "02-09",
+    "item": "Tignasse de Kanihilan",
+    "quantite": 2,
+    "kamas": 13721000,
+    "bonusDescription": "+100% drop Grotte de Kanigroula",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-10",
+    "item": "Pic de Dragodinde Dorée",
+    "quantite": 6,
+    "kamas": 3628000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos dorés",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-11",
+    "item": "Bar Rikain",
+    "quantite": 40,
+    "kamas": 7190000,
+    "bonusDescription": "+125% Bar Rikain & Tanche pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "02-12",
+    "item": "Poils de Mulounoké",
+    "quantite": 5,
+    "kamas": 5563000,
+    "bonusDescription": "+125% challenge Mulous (Haut des Hurlements)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-13",
+    "item": "Bottes Karnaval",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Des Pochettes-Surprises ajoutées aux butins",
+    "bonusCategories": [
+      "autre"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-14",
+    "item": "Shigekax Passion",
+    "quantite": 9,
+    "kamas": 593000,
+    "bonusDescription": "+100% XP sous Malédiction du Ballotin",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-15",
+    "item": "Potion de Vieillesse",
+    "quantite": 1,
+    "kamas": 11984000,
+    "bonusDescription": "Coffres de Güss en fin de chasses aux trésors",
+    "bonusCategories": [
+      "autre"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-16",
+    "item": "Beignet Astrubien",
+    "quantite": 6,
+    "kamas": 593000,
+    "bonusDescription": "15% ingrédients pour Chasseurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "02-17",
+    "item": "Écorce de Champaknyde",
+    "quantite": 1,
+    "kamas": 17240000,
+    "bonusDescription": "+50% drop Fungus (Sidimote)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-18",
+    "item": "Écorce d'Abrakne Sombre",
+    "quantite": 6,
+    "kamas": 4551000,
+    "bonusDescription": "+50% XP Abraknydiens Sombres",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-19",
+    "item": "Carpe d'Iem",
+    "quantite": 40,
+    "kamas": 1187000,
+    "bonusDescription": "+125% Poisson-Chaton & Carpe d'Iem pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "02-20",
+    "item": "Croupion du Bitouf aérien",
+    "quantite": 3,
+    "kamas": 13062000,
+    "bonusDescription": "+150% challenge Feuillage et Tronc de l'Arbre Hakam",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-21",
+    "item": "Bière bwork",
+    "quantite": 9,
+    "kamas": 1737000,
+    "bonusDescription": "+75% drop Village & Campement des Bworks",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-22",
+    "item": "Peau de Dragueuse",
+    "quantite": 5,
+    "kamas": 7872000,
+    "bonusDescription": "+75% XP Sanctuaire des Dragoeufs",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-23",
+    "item": "Corne de Malbois",
+    "quantite": 2,
+    "kamas": 12116000,
+    "bonusDescription": "+150% challenge Tertre du long sommeil (Donjon Hell Mina)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-24",
+    "item": "Cuir d'Eskoglyphe",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "2 challenges au lieu d'un Base Abyssale (Merkator)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-25",
+    "item": "Goulobule rouge",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Donjon du Manoir de Katrepat",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-26",
+    "item": "Armure de Blindur",
+    "quantite": 2,
+    "kamas": 19153000,
+    "bonusDescription": "+125% challenge Marteaux-Aigris (Nimbos d'Ereboria)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-27",
+    "item": "Marinade Sucrée-Salée",
+    "quantite": 4,
+    "kamas": 14601000,
+    "bonusDescription": "+125% Viande Saignante & Viande Persillée (Chasseurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "02-28",
+    "item": "Plume de Domoizelle",
+    "quantite": 3,
+    "kamas": 5563000,
+    "bonusDescription": "+100% XP Arbre de Moon",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "02-29",
+    "item": "Nageoire de Compétition",
+    "quantite": 6,
+    "kamas": 395000,
+    "bonusDescription": "+50% XP tous métiers | +75% XP & drop monstres",
+    "bonusCategories": [
+      "craft",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-01",
+    "item": "La Chaîne Nhanor Kibrill",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "15% ingrédients pour Bijoutiers",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Bijoutier"
+    ]
+  },
+  {
+    "date": "03-02",
+    "item": "Crâne d'Aventurier",
+    "quantite": 5,
+    "kamas": 7630000,
+    "bonusDescription": "+150% challenge Vallée de la Morh'Kitu (Montagnes Koalak)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-03",
+    "item": "Bois de Charme",
+    "quantite": 20,
+    "kamas": 7190000,
+    "bonusDescription": "+125% Bois de Charme & Bois de Bambou Sombre pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "03-04",
+    "item": "Bottes Karnaval",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+50% XP sur Sylvesprits (Forêt Enneigée, Zone Korriandre)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-05",
+    "item": "Poil de Gliglitch",
+    "quantite": 3,
+    "kamas": 12116000,
+    "bonusDescription": "+50% XP zones anomalies | +25% XP & drop Landes de Cania (Gliglis)",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-06",
+    "item": "Baguette de Glace",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Qualité des objets améliorée à la Bourgade de Frigost",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-07",
+    "item": "Tête de lance de Fangshu",
+    "quantite": 4,
+    "kamas": 10599000,
+    "bonusDescription": "+125% challenge Kozarus (Aerdala)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-08",
+    "item": "Patte de Wabbit",
+    "quantite": 6,
+    "kamas": 1627000,
+    "bonusDescription": "+50% drop sur Wabbits, Wabbits mutants & Gawde du Wa",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-09",
+    "item": "Houblon",
+    "quantite": 50,
+    "kamas": 1187000,
+    "bonusDescription": "+125% Houblon pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "03-10",
+    "item": "Foudroyeur en Frêne",
+    "quantite": 1,
+    "kamas": 1165000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos indigo & volkornes saphir",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-11",
+    "item": "Dent de Crocodaille",
+    "quantite": 8,
+    "kamas": 1517000,
+    "bonusDescription": "2 challenges au lieu d'un Marécages d'Amakna, Marécages nauséabonds & sans fond",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-12",
+    "item": "Poisson Pané Frit",
+    "quantite": 3,
+    "kamas": 1737000,
+    "bonusDescription": "15% ingrédients pour Pêcheurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "03-13",
+    "item": "Œil de Harrogant",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+75% XP dans tous les donjons",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-14",
+    "item": "Trèfle à 5 feuilles",
+    "quantite": 40,
+    "kamas": 593000,
+    "bonusDescription": "+125% Trèfle à 5 Feuilles pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "03-15",
+    "item": "Gratrooll",
+    "quantite": 5,
+    "kamas": 7872000,
+    "bonusDescription": "2 challenges au lieu d'un sur Troolls de Litneg",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-16",
+    "item": "Jouet de Gamine Zoth",
+    "quantite": 4,
+    "kamas": 8774000,
+    "bonusDescription": "+50% XP sur Zoths (Otomai)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-17",
+    "item": "Cape du Piou Vert",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+2x Binouzetons sur Leprechauns",
+    "bonusCategories": [
+      "autre"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-18",
+    "item": "Rune Fui",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "15% runes utilisées par Façomages",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Façomage"
+    ]
+  },
+  {
+    "date": "03-19",
+    "item": "Manganèse",
+    "quantite": 30,
+    "kamas": 2001000,
+    "bonusDescription": "+125% Manganèse pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "03-20",
+    "item": "Queue de Mantaze",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP Vaisseau du Capitaine Meno",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-21",
+    "item": "Œil de Feutôme",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Percepteurs sous anomalies | +25% XP & drop Caserne du Jour sans fin (Ilyzaelle)",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-22",
+    "item": "Incus de Verglasseur",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Forgefroide de Missiz Frizz",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-23",
+    "item": "Gravure de Crachin",
+    "quantite": 1,
+    "kamas": 3276000,
+    "bonusDescription": "+100% vitesse d'apparition des bois pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "03-24",
+    "item": "Ailes de Scarafeuille Blanc",
+    "quantite": 6,
+    "kamas": 1099000,
+    "bonusDescription": "+50% XP sur Scarafeuilles",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-25",
+    "item": "Antenne de Bacterrib",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% drop sur Krobes (Zone Baleine)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-26",
+    "item": "Incisive de Glourmand",
+    "quantite": 1,
+    "kamas": 19944000,
+    "bonusDescription": "+125% challenge Gloursons",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-27",
+    "item": "Papillote au Citron",
+    "quantite": 4,
+    "kamas": 1781000,
+    "bonusDescription": "+125% Viande Minérale & Viande Frelatée pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "03-28",
+    "item": "Canine de Kanimate",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP Transporteur de Sylargh",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-29",
+    "item": "Boulon de Cybwork",
+    "quantite": 2,
+    "kamas": 17240000,
+    "bonusDescription": "+100% drop Grotte du Bworker",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-30",
+    "item": "Queue de Fennex",
+    "quantite": 6,
+    "kamas": 3980000,
+    "bonusDescription": "+50% XP Animaux du désert (Saharach 1)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "03-31",
+    "item": "Œuf de Dragoeuf Calcaire",
+    "quantite": 1,
+    "kamas": 2836000,
+    "bonusDescription": "+30% XP & drop île de Pwâk",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-01",
+    "item": "Fluide Glacial",
+    "quantite": 3,
+    "kamas": 395000,
+    "bonusDescription": "+50% XP & drop créatures marines (Pichons, Corailleurs, Crustorails, etc.)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-02",
+    "item": "Abreuvoir en Frêne",
+    "quantite": 1,
+    "kamas": 4200000,
+    "bonusDescription": "2 challenges au lieu d'un dans le Territoire Cacterre (Saharach 1)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-03",
+    "item": "Lanterne usée",
+    "quantite": 3,
+    "kamas": 15436000,
+    "bonusDescription": "+75% XP Mont des Tombeaux (Grobe)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-04",
+    "item": "Ceinture de Sécurité",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Qualité des objets améliorée à Sufokia",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-05",
+    "item": "Edelweiss",
+    "quantite": 40,
+    "kamas": 1407000,
+    "bonusDescription": "+125% Edelweiss pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "04-06",
+    "item": "Canine de Mergranlou",
+    "quantite": 5,
+    "kamas": 5563000,
+    "bonusDescription": "+75% drop Hauts des Hurlements (Mulous)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-07",
+    "item": "Orge",
+    "quantite": 50,
+    "kamas": 197000,
+    "bonusDescription": "+125% Orge pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "04-08",
+    "item": "Carapace Verte",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+75% XP Plage de la Tortue",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-09",
+    "item": "Plume de Gobvious",
+    "quantite": 5,
+    "kamas": 5343000,
+    "bonusDescription": "+150% challenge Théâtre de Dramak",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-10",
+    "item": "Anneau Fortifiant",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos pourpres & volkornes jade",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-11",
+    "item": "Bout de Blop Coco",
+    "quantite": 6,
+    "kamas": 593000,
+    "bonusDescription": "+50% XP zones anomalies | +25% XP & drop Lac de Cania",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-12",
+    "item": "Os de Jiangshi-Nobi",
+    "quantite": 3,
+    "kamas": 13721000,
+    "bonusDescription": "+50% drop Armée de Brume (Grobe)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-13",
+    "item": "Bois de Kaliptus",
+    "quantite": 40,
+    "kamas": 6377000,
+    "bonusDescription": "+125% Bois d'Ébène & Bois de Kaliptus pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "04-14",
+    "item": "Plume du Kwak de Vent",
+    "quantite": 4,
+    "kamas": 1407000,
+    "bonusDescription": "+100% drop Nid du Kwakwa",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-15",
+    "item": "Baffeur en Frêne",
+    "quantite": 1,
+    "kamas": 1165000,
+    "bonusDescription": "+25% objets créés pour Bricoleurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Bricoleur"
+    ]
+  },
+  {
+    "date": "04-16",
+    "item": "Greuvette",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+125% Greuvette & Crabe Sourimi pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "04-17",
+    "item": "Multygely",
+    "quantite": 1,
+    "kamas": 4507000,
+    "bonusDescription": "+75% drop Péninsule des Gelées",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-18",
+    "item": "Cuir de Cuirboule",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP Salons privés de Klime",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-19",
+    "item": "Or",
+    "quantite": 30,
+    "kamas": 7190000,
+    "bonusDescription": "+150% Or pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "04-20",
+    "item": "Nectar de l'Orient",
+    "quantite": 2,
+    "kamas": 6662000,
+    "bonusDescription": "+125% challenge Plantala",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-21",
+    "item": "Boule polie",
+    "quantite": 1,
+    "kamas": 5871000,
+    "bonusDescription": "Chasses : Coffres de Scheik en récompense",
+    "bonusCategories": [
+      "autre"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-22",
+    "item": "Dent de Tilamproie",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% drop Monstres ruines sous-marines (Zone Meno)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-23",
+    "item": "Bave de Ouassingue",
+    "quantite": 5,
+    "kamas": 5761000,
+    "bonusDescription": "+50% XP Monstres des Tourbières",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-24",
+    "item": "Pierre du Craqueleur",
+    "quantite": 6,
+    "kamas": 2836000,
+    "bonusDescription": "2 challenges au lieu d'un Montagne des Craqueleurs",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-25",
+    "item": "Viande Rassie",
+    "quantite": 6,
+    "kamas": 4947000,
+    "bonusDescription": "+125% Viande Rassie & Viande Exsudative pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "04-26",
+    "item": "Kamatrix",
+    "quantite": 1,
+    "kamas": 5981000,
+    "bonusDescription": "+100% kamas gagnés sur toutes les quêtes",
+    "bonusCategories": [
+      "kamas_bonus"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-27",
+    "item": "Oreille de Foufayteur",
+    "quantite": 6,
+    "kamas": 2990000,
+    "bonusDescription": "+125% challenge Ruffians de Cania",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-28",
+    "item": "Cristal",
+    "quantite": 1,
+    "kamas": 2374000,
+    "bonusDescription": "+100% quantité de minerai récolté par Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "04-29",
+    "item": "Plume de Tofu",
+    "quantite": 6,
+    "kamas": 989000,
+    "bonusDescription": "+50% drop sur Tofus",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "04-30",
+    "item": "Graine de Pandouille",
+    "quantite": 40,
+    "kamas": 4200000,
+    "bonusDescription": "+100% quantité de plantes récoltées par Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "05-01",
+    "item": "Capsule Explosive",
+    "quantite": 2,
+    "kamas": 1517000,
+    "bonusDescription": "+50% XP métiers | +25% chance 2e Fée d'Artifice & -15% ingrédients",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-02",
+    "item": "Langue de Champodonte",
+    "quantite": 1,
+    "kamas": 17240000,
+    "bonusDescription": "+100% XP Temple du Grand Ougah",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-03",
+    "item": "Croupion de Truchmuche",
+    "quantite": 4,
+    "kamas": 8510000,
+    "bonusDescription": "+75% challenges zones anomalies | +25% XP & drop Cirque de Cania (Truches)",
+    "bonusCategories": [
+      "pvm",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-04",
+    "item": "Longue-vue de Gob-Trotteur",
+    "quantite": 6,
+    "kamas": 989000,
+    "bonusDescription": "+50% drop Gobelins d'Amakna",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-05",
+    "item": "Fragment de Pierre Pointue",
+    "quantite": 6,
+    "kamas": 2748000,
+    "bonusDescription": "2 challenges au lieu d'un Plaines Rocheuses",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-06",
+    "item": "Bois d'Érable",
+    "quantite": 40,
+    "kamas": 2001000,
+    "bonusDescription": "+125% Bombu & Érable pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "05-07",
+    "item": "Dent de Klémort",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Tour de Solar & Bethel",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-08",
+    "item": "Pomme de Terre",
+    "quantite": 20,
+    "kamas": 197000,
+    "bonusDescription": "Quête répétable Château d'Amakna (niv. 20+)",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-09",
+    "item": "Sac du Petit Récolteur",
+    "quantite": 1,
+    "kamas": 2001000,
+    "bonusDescription": "+100% vitesse apparition ressources | Drop possible Fleurs de Rosal & Fringales de Silouate sur Protecteurs de ressources",
+    "bonusCategories": [
+      "drop",
+      "metier"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-10",
+    "item": "Pic de Dragodinde",
+    "quantite": 6,
+    "kamas": 2462000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos turquoise",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-11",
+    "item": "Fiole à élément",
+    "quantite": 1,
+    "kamas": 5981000,
+    "bonusDescription": "Chance de transformation via potion de forgemagie doublée",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-12",
+    "item": "Malt",
+    "quantite": 50,
+    "kamas": 4200000,
+    "bonusDescription": "+125% Malt pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "05-13",
+    "item": "Dédicace de Skeunk pour Émeraude",
+    "quantite": 1,
+    "kamas": 8400000,
+    "bonusDescription": "+150% challenge Repaire de Skeunk",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-14",
+    "item": "Bouclier de Bowisse",
+    "quantite": 1,
+    "kamas": 4529000,
+    "bonusDescription": "Qualité des objets améliorée à Amakna",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-15",
+    "item": "Collier de Khan Karkass",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "Drop Boufballes Surprises contenant Bouf'gommes aléatoires",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-16",
+    "item": "Belladone",
+    "quantite": 40,
+    "kamas": 7190000,
+    "bonusDescription": "+100% vitesse apparition Fleurs & Plantes pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "05-17",
+    "item": "Étoffe du Roissingue",
+    "quantite": 1,
+    "kamas": 21154000,
+    "bonusDescription": "+50% drop Monstres des Tourbières",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-18",
+    "item": "Pollen de Bulbiflore",
+    "quantite": 3,
+    "kamas": 6662000,
+    "bonusDescription": "+100% drop Percepteurs zones anomalies | +25% XP & drop Plantala",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-19",
+    "item": "Étain",
+    "quantite": 30,
+    "kamas": 2990000,
+    "bonusDescription": "+125% Étain & Silicate pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "05-20",
+    "item": "Cawotte",
+    "quantite": 2,
+    "kamas": 1407000,
+    "bonusDescription": "Quête répétable Forêt d'Amakna (niv. 20+)",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-21",
+    "item": "Capouze des Champs",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+50% XP métiers de fabrication vêtements & bijoux",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-22",
+    "item": "Sac du Petit Aventurier",
+    "quantite": 1,
+    "kamas": 2352000,
+    "bonusDescription": "+100% XP quêtes",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-23",
+    "item": "Brochet",
+    "quantite": 40,
+    "kamas": 2001000,
+    "bonusDescription": "+125% Brochet, Perche, Lotte pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "05-24",
+    "item": "Seigle",
+    "quantite": 40,
+    "kamas": 2990000,
+    "bonusDescription": "+150% vitesse apparition ressources Champs de Cania (Paysans)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "05-25",
+    "item": "Duvet du Kilibriss",
+    "quantite": 5,
+    "kamas": 13391000,
+    "bonusDescription": "+75% XP Plaines Herbeuses (Otomai)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-26",
+    "item": "Corne de Gamino",
+    "quantite": 4,
+    "kamas": 8927000,
+    "bonusDescription": "2 challenges au lieu d'un Labyrinthe du Minotoror",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-27",
+    "item": "Tanche en Matelote",
+    "quantite": 2,
+    "kamas": 17987000,
+    "bonusDescription": "+25% objets créés pour Pêcheurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "05-28",
+    "item": "Viande Sanguinolente",
+    "quantite": 6,
+    "kamas": 3980000,
+    "bonusDescription": "+125% Viande Sanguinolente pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "05-29",
+    "item": "Miséricorde du Chafer d'Élite",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+75% XP Cimetières des Torturés (Sidimote) & Héros (Cania)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "05-30",
+    "item": "Rune Pui",
+    "quantite": 3,
+    "kamas": 769000,
+    "bonusDescription": "15% runes utilisées par Forgemages",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Forgemage"
+    ]
+  },
+  {
+    "date": "05-31",
+    "item": "Lamelle de Dramanite",
+    "quantite": 3,
+    "kamas": 17987000,
+    "bonusDescription": "+100% drop Antre du Korriandre",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-01",
+    "item": "Pince de Crabe",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "2 challenges au lieu d'un sur les Monstres des plages",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-02",
+    "item": "Biscotte",
+    "quantite": 2,
+    "kamas": 3980000,
+    "bonusDescription": "Drop de Sébiles d'Elgero dans les donjons - Effet aléatoire",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-03",
+    "item": "Graine de la Discorde",
+    "quantite": 6,
+    "kamas": 1231000,
+    "bonusDescription": "+200% butin pour Percepteurs en donjons (40-70)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-04",
+    "item": "Bouclier du Bouftou",
+    "quantite": 1,
+    "kamas": 1165000,
+    "bonusDescription": "+5x apparition Protecteurs de ressources & +200% Archimonstres",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-05",
+    "item": "Coquille de Virustine",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% XP sur Krobes (Zone Baleine)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-06",
+    "item": "Œil de Cycloïde",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Donjon Comte Harebourg",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-07",
+    "item": "Griffe de Blérauve",
+    "quantite": 2,
+    "kamas": 19944000,
+    "bonusDescription": "+50% XP Bléro (Crocs de Verre)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-08",
+    "item": "Roue de Tivelo",
+    "quantite": 6,
+    "kamas": 4551000,
+    "bonusDescription": "+100% XP Montures sous anomalies | +25% XP & drop Route des Roulottes",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-09",
+    "item": "Orchidée Freyesque",
+    "quantite": 40,
+    "kamas": 2001000,
+    "bonusDescription": "+125% Orchidée Freyesque pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "06-10",
+    "item": "Lait de Dragodinde",
+    "quantite": 6,
+    "kamas": 2462000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos amande",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-11",
+    "item": "Bouteille de Bouchonnois",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Camp Comte Razof (Nimotopia)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-12",
+    "item": "Sang de Harpo",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Aquadôme de Merkator",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-13",
+    "item": "Bois de Bambou",
+    "quantite": 40,
+    "kamas": 3562000,
+    "bonusDescription": "+125% Bambou pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "06-14",
+    "item": "Clef des Champs",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Ecocraft -15% ingrédients pour Bricoleurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Bricoleur"
+    ]
+  },
+  {
+    "date": "06-15",
+    "item": "Coccyx du Corailleur",
+    "quantite": 6,
+    "kamas": 1407000,
+    "bonusDescription": "+100% XP Grotte Hesque",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-16",
+    "item": "Coquille de Dragoeuf Ardoise",
+    "quantite": 6,
+    "kamas": 2836000,
+    "bonusDescription": "2 challenges au lieu d'un Presqu'île des Dragoeufs",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-17",
+    "item": "Racine d'Abraknyde",
+    "quantite": 6,
+    "kamas": 1407000,
+    "bonusDescription": "+125% challenge sur Abraknydiens (BL uniquement)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-18",
+    "item": "Cendrepierre",
+    "quantite": 30,
+    "kamas": 8993000,
+    "bonusDescription": "+125% Cendrepierre pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "06-19",
+    "item": "Peau de Crachefoux",
+    "quantite": 4,
+    "kamas": 10599000,
+    "bonusDescription": "+75% drop Zone Feudala",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-20",
+    "item": "Blé",
+    "quantite": 50,
+    "kamas": 197000,
+    "bonusDescription": "+125% Blé pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "06-21",
+    "item": "Tambour de Gobaladée",
+    "quantite": 6,
+    "kamas": 395000,
+    "bonusDescription": "Drop x2 de Pollenectar sur créatures Monde des Douze",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-22",
+    "item": "Pince de Crustorail",
+    "quantite": 6,
+    "kamas": 1297000,
+    "bonusDescription": "2 challenges au lieu d'un Plage de Corail (Otomai)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-23",
+    "item": "Appendice Démoniaque",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+50% XP Possédés (Zone Kabahal)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-24",
+    "item": "Peau de Larve Champêtre",
+    "quantite": 1,
+    "kamas": 2396000,
+    "bonusDescription": "+50% drop Animaux des Champs (Cania)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-25",
+    "item": "Eau Ferrugineuse",
+    "quantite": 1,
+    "kamas": 395000,
+    "bonusDescription": "+150% vitesse apparition minerais Mine Istairameur (Temple Sadida)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-26",
+    "item": "Bouclier Volant",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Qualité des objets augmentée Pandala",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-27",
+    "item": "Tentacule de Grofond",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Temple de Koutoulou",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-28",
+    "item": "Grenat de Momistik",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+75% challenge sous anomalies | +25% XP & drop Pyramide Maudite (Saharach)",
+    "bonusCategories": [
+      "pvm",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "06-29",
+    "item": "Viande Noire",
+    "quantite": 2,
+    "kamas": 19944000,
+    "bonusDescription": "+125% Viande Gâtée & Noire pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "06-30",
+    "item": "Bonnet de Gobaliste",
+    "quantite": 6,
+    "kamas": 989000,
+    "bonusDescription": "+100% XP Akadémie des Gobs",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-01",
+    "item": "Écaille de Dragoss Charbon",
+    "quantite": 5,
+    "kamas": 5563000,
+    "bonusDescription": "+50% drop sur Dragoss (Village des Dragoeufs)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-02",
+    "item": "Œuf de Tofubine",
+    "quantite": 1,
+    "kamas": 7762000,
+    "bonusDescription": "+150% challenge Tofulailler Royal (130)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-03",
+    "item": "Potion Raide Dite",
+    "quantite": 3,
+    "kamas": 747000,
+    "bonusDescription": "Ecocraft -15% ingrédients pour Alchimistes",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "07-04",
+    "item": "Friture Amaknéenne",
+    "quantite": 4,
+    "kamas": 3584000,
+    "bonusDescription": "+200% Points de rêve Songes infinis | +50% XP & drop Amakna",
+    "bonusCategories": [
+      "autre",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-05",
+    "item": "Poils magiques de Tanuki",
+    "quantite": 2,
+    "kamas": 9191000,
+    "bonusDescription": "+100% drop Atelier Tanukouï San",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-06",
+    "item": "Truite",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+125% Goujon & Truite pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "07-07",
+    "item": "Maïs",
+    "quantite": 50,
+    "kamas": 7190000,
+    "bonusDescription": "+125% Maïs & Millet pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "07-08",
+    "item": "Nœud de Marin",
+    "quantite": 2,
+    "kamas": 4551000,
+    "bonusDescription": "+50% XP sur Pirates de Moon",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-09",
+    "item": "Rune Pod",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "Cordomages -15% runes utilisées",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Cordomage"
+    ]
+  },
+  {
+    "date": "07-10",
+    "item": "Arc Sifflant",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos prune",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-11",
+    "item": "Bauxite",
+    "quantite": 30,
+    "kamas": 5585000,
+    "bonusDescription": "+125% Bauxite pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "07-12",
+    "item": "Poils de barbe de Barbélier",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "2 challenges au lieu d'un Nimbos Clan Martegel",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-13",
+    "item": "Eau de Kwapa",
+    "quantite": 2,
+    "kamas": 9191000,
+    "bonusDescription": "+100% drop Vallée Dame des eaux (Akwadala)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-14",
+    "item": "Chaînes Brisées",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+75% XP combats Kolizéum",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-15",
+    "item": "Viande Goûtue",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+125% Viande Goûtue pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "07-16",
+    "item": "Boue Vénérable",
+    "quantite": 2,
+    "kamas": 16866000,
+    "bonusDescription": "+50% XP & drop sous anomalies | +25% XP & drop forêts Vulkania",
+    "bonusCategories": [
+      "drop",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-17",
+    "item": "Peau de Larve Verte",
+    "quantite": 6,
+    "kamas": 395000,
+    "bonusDescription": "+75% XP Prairies d'Astrub",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-18",
+    "item": "Mauvaise Pioche",
+    "quantite": 1,
+    "kamas": 395000,
+    "bonusDescription": "+25% chances de générer une seconde rune en concassant des objets",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-19",
+    "item": "Peau de Trithon",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP Palais de Dantinea",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-20",
+    "item": "Huile de Tournesol Sauvage",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+100% vitesse apparition céréales pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "07-21",
+    "item": "Fragment de pépite de Sakaï",
+    "quantite": 1,
+    "kamas": 18955000,
+    "bonusDescription": "+50% drop Gobelins de Sakaï",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-22",
+    "item": "Sardine à l'Étouffée",
+    "quantite": 3,
+    "kamas": 3144000,
+    "bonusDescription": "+75% XP Port de Givre & Bourgade Frigost",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-23",
+    "item": "Chacha",
+    "quantite": 1,
+    "kamas": 747000,
+    "bonusDescription": "+50% XP pour familiers",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-24",
+    "item": "Bois d'Orme",
+    "quantite": 10,
+    "kamas": 8993000,
+    "bonusDescription": "+125% Bambou Sacré & Orme pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "07-25",
+    "item": "Furoncle de la Mama Bwork",
+    "quantite": 3,
+    "kamas": 17240000,
+    "bonusDescription": "+150% challenge Gisgoul",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-26",
+    "item": "Pic de Malépik",
+    "quantite": 3,
+    "kamas": 12116000,
+    "bonusDescription": "2 challenges au lieu d'un Orée enchantée & Dédale Dark Vlad",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-27",
+    "item": "Boulette de Viande",
+    "quantite": 6,
+    "kamas": 593000,
+    "bonusDescription": "+125% Viande Hachée & Faisandée pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "07-28",
+    "item": "Lame brisée de Lichangoro",
+    "quantite": 4,
+    "kamas": 10599000,
+    "bonusDescription": "+100% XP Dojo du Vent (Aerdala)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-29",
+    "item": "Jus de Cacterre",
+    "quantite": 2,
+    "kamas": 9191000,
+    "bonusDescription": "+100% drop Caverne d'El Piko",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-30",
+    "item": "Cuir de Boostache Prépubère",
+    "quantite": 3,
+    "kamas": 989000,
+    "bonusDescription": "+100% XP Donjon Maison Fantôme | Bonus initiative & CC avec bénédiction Trooll (Foire du Trool)",
+    "bonusCategories": [
+      "autre",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "07-31",
+    "item": "Flèche de Crâmbo",
+    "quantite": 2,
+    "kamas": 19153000,
+    "bonusDescription": "+50% XP Chassouilleurs (Nimotopia)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-01",
+    "item": "Sauge",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+125% Sauge pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "08-02",
+    "item": "Plume de Truchideur",
+    "quantite": 4,
+    "kamas": 8400000,
+    "bonusDescription": "+125% challenge sur Truches",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-03",
+    "item": "Potion de cité : Bonta",
+    "quantite": 3,
+    "kamas": 5981000,
+    "bonusDescription": "Quête répétable sud des portes de Bonta",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-04",
+    "item": "Cendres Matures",
+    "quantite": 4,
+    "kamas": 8400000,
+    "bonusDescription": "+100% drop dans Cratère Minus (Donjons Vulkania)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-05",
+    "item": "Poisskaille",
+    "quantite": 10,
+    "kamas": 10995000,
+    "bonusDescription": "+200% Poisskaille pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "08-06",
+    "item": "Crème à bronzer",
+    "quantite": 6,
+    "kamas": 329000,
+    "bonusDescription": "2 challenges au lieu d'un dans Calanques d'Astrub",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-07",
+    "item": "Racine de Tronkoblop",
+    "quantite": 3,
+    "kamas": 2111000,
+    "bonusDescription": "+150% challenge Antre du Blop Multicolore Royal",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-08",
+    "item": "Aluminite",
+    "quantite": 1,
+    "kamas": 395000,
+    "bonusDescription": "15% ingrédients pour Mineurs (Ecocraft)",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "08-09",
+    "item": "Pétale de Tournesol Sauvage",
+    "quantite": 6,
+    "kamas": 395000,
+    "bonusDescription": "+50% drop sur Plantes des champs (Astrub)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-10",
+    "item": "Mangeoire en Frêne",
+    "quantite": 1,
+    "kamas": 6355000,
+    "bonusDescription": "+1 bébé dragodindes, volkornes, muldos reproducteurs",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-11",
+    "item": "Kapokaza",
+    "quantite": 3,
+    "kamas": 15436000,
+    "bonusDescription": "+75% drop Mont des Tombeaux (Grobe)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-12",
+    "item": "Viande de Brousse",
+    "quantite": 4,
+    "kamas": 12732000,
+    "bonusDescription": "+125% Viande Macérée & Viande de Brousse (Chasseurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "08-13",
+    "item": "Flaque Vénérable",
+    "quantite": 2,
+    "kamas": 16866000,
+    "bonusDescription": "2 challenges au lieu d'un contre monstres Vulkania",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-14",
+    "item": "Œil de Crocodaille albinos",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+125% challenge Crocodailles de Crocuzko",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-15",
+    "item": "Paupière d'Étoile",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+100% XP & drop Percepteurs sous anomalies temporelles",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-16",
+    "item": "Ginseng",
+    "quantite": 40,
+    "kamas": 5585000,
+    "bonusDescription": "+125% Ginseng & Graines de Pandouille (Alchimistes)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "08-17",
+    "item": "Bronze",
+    "quantite": 30,
+    "kamas": 593000,
+    "bonusDescription": "+125% Bronze pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "08-18",
+    "item": "Corne de Typhomet",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% drop sur Ravageurs (Cauchemar)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-19",
+    "item": "Bottes de Satisfaction",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Qualité des objets améliorée à Astrub",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-20",
+    "item": "Viande Avariée",
+    "quantite": 6,
+    "kamas": 3144000,
+    "bonusDescription": "+125% Viande Ladre & Viande Avariée (Chasseurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "08-21",
+    "item": "Terre Stérile",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Donjons Éliocalypse (Arbre, Blessures, Désert, Sentence)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-22",
+    "item": "Morue",
+    "quantite": 40,
+    "kamas": 8070000,
+    "bonusDescription": "+125% Morue & Espadon (Pêcheurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "08-23",
+    "item": "Poils de Boulglours",
+    "quantite": 2,
+    "kamas": 19944000,
+    "bonusDescription": "+75% drop Mont Torrideau & Ruche des Gloursons",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-24",
+    "item": "Pustule de Rat Sio",
+    "quantite": 3,
+    "kamas": 6662000,
+    "bonusDescription": "+100% XP Sousouricière du Rat Noir",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-25",
+    "item": "Millet",
+    "quantite": 50,
+    "kamas": 8993000,
+    "bonusDescription": "Récolte augmentée de 100% pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "08-26",
+    "item": "Collier d'Esclave",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+100% drop Percepteurs en Donjons 200",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-27",
+    "item": "Requin Marteau-Faucille",
+    "quantite": 40,
+    "kamas": 6377000,
+    "bonusDescription": "+125% Raie Bleue & Requin Marteau-Faucille (Pêcheurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "08-28",
+    "item": "Bois de Noyer",
+    "quantite": 40,
+    "kamas": 593000,
+    "bonusDescription": "+125% Bois de Noyer pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "08-29",
+    "item": "Fleur de Blopignon",
+    "quantite": 6,
+    "kamas": 2111000,
+    "bonusDescription": "+100% drop Donjon Clos des Blops",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-30",
+    "item": "Peau de Don Dorgan",
+    "quantite": 1,
+    "kamas": 5981000,
+    "bonusDescription": "+125% challenge contre Porcos",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "08-31",
+    "item": "Rune Ré Eau",
+    "quantite": 4,
+    "kamas": 769000,
+    "bonusDescription": "15% runes utilisées par Costumages",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Costumage"
+    ]
+  },
+  {
+    "date": "09-01",
+    "item": "Épine d'Armuguet",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP dans Chambre des Maléfices (Belladone)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-02",
+    "item": "Potion de Mini Soin Supérieure",
+    "quantite": 4,
+    "kamas": 395000,
+    "bonusDescription": "+300% régénération PV hors combat, +100% soins par consommables",
+    "bonusCategories": [
+      "autre"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-03",
+    "item": "Pétale d'encre",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+50% drop sur Yokianzhi d'encre et Yokianzhi de papier",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-04",
+    "item": "Planche Contreplaquée",
+    "quantite": 1,
+    "kamas": 395000,
+    "bonusDescription": "+10% objets créés pour Bûcherons",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "09-05",
+    "item": "Plume du Serpiplume",
+    "quantite": 4,
+    "kamas": 8927000,
+    "bonusDescription": "+150% challenge Labyrinthe du Minotoror (et son centre)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-06",
+    "item": "Poil de Renarbo",
+    "quantite": 5,
+    "kamas": 6662000,
+    "bonusDescription": "+50% XP sur Corbacs",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-07",
+    "item": "Sépale de Nerbe",
+    "quantite": 4,
+    "kamas": 10027000,
+    "bonusDescription": "2 challenges au lieu d'un pour Florifaune obscure (Jungle d'Otomai)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-08",
+    "item": "Écume de mer",
+    "quantite": 10,
+    "kamas": 10995000,
+    "bonusDescription": "+150% vitesse d'apparition des ressources Abysses de Sufokia",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-09",
+    "item": "Trident Cassé",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+75% XP dans Plaine des Porkass",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-10",
+    "item": "Aile de Dragodinde",
+    "quantite": 1,
+    "kamas": 2462000,
+    "bonusDescription": "+1 bébé dragodindes, volkornes, muldos ébène & améthyste",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-11",
+    "item": "Sueur de Dragodinde",
+    "quantite": 4,
+    "kamas": 3628000,
+    "bonusDescription": "+75% XP Territoire des Dragodindes Sauvages",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-12",
+    "item": "Flamme Spectrale",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+100% XP quêtes d'alignement, quête spéciale Bonta/Brâkmar",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-13",
+    "item": "Lin",
+    "quantite": 50,
+    "kamas": 2001000,
+    "bonusDescription": "+125% Lin pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "09-14",
+    "item": "Sueur Froide de Fantôme",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+50% XP sous anomalies temporelles, +25% XP/drop Bordure de Brâkmar",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-15",
+    "item": "Bractée de Drosérâle",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Donjon Laboratoire de Nileza",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-16",
+    "item": "Carapace de Ver des Sables",
+    "quantite": 1,
+    "kamas": 15436000,
+    "bonusDescription": "+75% drop Gorge des Vents Hurlants & Cité Oubliée (Vers de Saharach)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-17",
+    "item": "Substrat de Buisson",
+    "quantite": 1,
+    "kamas": 1165000,
+    "bonusDescription": "+150% vitesse d'apparition ressources Forêt d'Amakna",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-18",
+    "item": "Os de Chafer",
+    "quantite": 9,
+    "kamas": 989000,
+    "bonusDescription": "+100% XP Donjon des Squelettes",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-19",
+    "item": "Rhum de Qualité",
+    "quantite": 6,
+    "kamas": 4551000,
+    "bonusDescription": "+50% XP & drop Pirates (Berceau d'Alma, Moon, Otomai…)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-20",
+    "item": "Mijoté Récréatif",
+    "quantite": 4,
+    "kamas": 21594000,
+    "bonusDescription": "+125% Viande Fraîche & Viande Maigre (Chasseurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "09-21",
+    "item": "Épée d'Ha",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Qualité des objets améliorée à Brâkmar",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-22",
+    "item": "Sable Fin",
+    "quantite": 2,
+    "kamas": 3980000,
+    "bonusDescription": "2 challenges au lieu d'un Dunes des Ossements (Saharach)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-23",
+    "item": "Crinière Fleurie",
+    "quantite": 1,
+    "kamas": 5981000,
+    "bonusDescription": "+50% drop sur créatures Herboricoles (Plaines d'Otomai)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-24",
+    "item": "Pépite",
+    "quantite": 3,
+    "kamas": 1495000,
+    "bonusDescription": "+200% drop Percepteurs en Donjons",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-25",
+    "item": "Crabe Surprise",
+    "quantite": 3,
+    "kamas": 945000,
+    "bonusDescription": "Présents surprises dans butins monstres Donjons (bonne ou mauvaise surprise)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-26",
+    "item": "Obsidienne",
+    "quantite": 30,
+    "kamas": 10995000,
+    "bonusDescription": "+125% Obsidienne & Dolomite pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "09-27",
+    "item": "Tresse du Poolay",
+    "quantite": 1,
+    "kamas": 10599000,
+    "bonusDescription": "+100% XP Canopée du Kimbo",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-28",
+    "item": "Arc Déroutant",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Coffres de Sad à gagner en Chasses aux trésors",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-29",
+    "item": "Mât de Fantômat",
+    "quantite": 3,
+    "kamas": 12732000,
+    "bonusDescription": "+125% challenge Équipage du Grolandais (Ben le Ripate)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "09-30",
+    "item": "Dent en Or de Craqueleur",
+    "quantite": 1,
+    "kamas": 2836000,
+    "bonusDescription": "+100% drop Pitons Rocheux des Craqueleurs (Craqueleur Légendaire)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-01",
+    "item": "Aquarakne de Crânonier",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% XP sur zombies Fratrie des Oubliés : Calcinés & Submergés",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-02",
+    "item": "Bois de Pin",
+    "quantite": 40,
+    "kamas": 2462000,
+    "bonusDescription": "+125% Bois de Pin & Bois d'Oliviolet pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "10-03",
+    "item": "Arc Holic",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Quête répétable spéciale (Fontaine du village Amakna)",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-04",
+    "item": "Pom de Pin",
+    "quantite": 2,
+    "kamas": 1517000,
+    "bonusDescription": "2 challenges au lieu d'un Futaie enneigée (Albuera)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-05",
+    "item": "Kralamoure",
+    "quantite": 40,
+    "kamas": 2462000,
+    "bonusDescription": "+125% Poisson Pané & Sardine Brillante pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "10-06",
+    "item": "Étamine de Floribonde",
+    "quantite": 4,
+    "kamas": 10445000,
+    "bonusDescription": "+100% drop Laboratoire du Tynril",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-07",
+    "item": "Pic de Ravageur",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+75% XP Cauchemar des Ravageurs",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-08",
+    "item": "Viande Saignante",
+    "quantite": 5,
+    "kamas": 8400000,
+    "bonusDescription": "+100% quantités de viande récupérées par Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "10-09",
+    "item": "Poils de Pétartifoux",
+    "quantite": 4,
+    "kamas": 10599000,
+    "bonusDescription": "2 challenges au lieu d'un sur Firefoux (Feudala)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-10",
+    "item": "Dent de Dragodinde",
+    "quantite": 6,
+    "kamas": 2836000,
+    "bonusDescription": "+1 bébé dragodindes, volkornes, muldos ivoire",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-11",
+    "item": "Kolérat Mort",
+    "quantite": 1,
+    "kamas": 2836000,
+    "bonusDescription": "+75% drop Désolation de Sidimote",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-12",
+    "item": "Tige de Bambouto",
+    "quantite": 5,
+    "kamas": 6662000,
+    "bonusDescription": "+50% XP & drop dans zones Dimensions Divines",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-13",
+    "item": "Masque de vengance",
+    "quantite": 2,
+    "kamas": 9191000,
+    "bonusDescription": "+200% XP montures",
+    "bonusCategories": [
+      "elevage",
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-14",
+    "item": "Parmentier à l'Oignon",
+    "quantite": 4,
+    "kamas": 4705000,
+    "bonusDescription": "+150% challenge Pyramide d'Ombre",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-15",
+    "item": "Chanvre",
+    "quantite": 50,
+    "kamas": 197000,
+    "bonusDescription": "+125% Chanvre pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "10-16",
+    "item": "Corne du Boufcoul",
+    "quantite": 5,
+    "kamas": 5563000,
+    "bonusDescription": "+100% XP Caverne du Koulosse",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-17",
+    "item": "Bois de Noisetier",
+    "quantite": 40,
+    "kamas": 4859000,
+    "bonusDescription": "+125% Bois de Noisetier & Merisier pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "10-18",
+    "item": "Plastron de Tambouraï",
+    "quantite": 3,
+    "kamas": 13721000,
+    "bonusDescription": "+125% challenge Armée de Brume (Grobe)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-19",
+    "item": "Perche",
+    "quantite": 40,
+    "kamas": 4200000,
+    "bonusDescription": "+100% vitesse d'apparition Poissons (tous types)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-20",
+    "item": "Pétale de Papier",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP Mémoire d'Orukam & Souvenir d'Imagiro (Pandala 3)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-21",
+    "item": "Poêlée Paysanne",
+    "quantite": 4,
+    "kamas": 8993000,
+    "bonusDescription": "+25% objets fabriqués par Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "10-22",
+    "item": "Silicate",
+    "quantite": 30,
+    "kamas": 2990000,
+    "bonusDescription": "+50% XP pour Bûcherons, Mineurs & Alchimistes",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Alchimiste",
+      "Bûcheron",
+      "Mineur"
+    ]
+  },
+  {
+    "date": "10-23",
+    "item": "Symbole des Obscuranti",
+    "quantite": 1,
+    "kamas": 20142000,
+    "bonusDescription": "+50% drop sous anomalies temporelles, +25% XP & drop Dimension Obscure (Ombre)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-24",
+    "item": "Fer",
+    "quantite": 30,
+    "kamas": 197000,
+    "bonusDescription": "+125% Fer pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "10-25",
+    "item": "Poils de Smilomouth",
+    "quantite": 4,
+    "kamas": 8400000,
+    "bonusDescription": "+50% drop Forêt des Pins Perdus (Frigost)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-26",
+    "item": "Dent de Wabbit",
+    "quantite": 9,
+    "kamas": 1451000,
+    "bonusDescription": "+50% drop Wabbits",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-27",
+    "item": "Bâton Feuillu",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "15% ingrédients utilisés par Sculpteurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Sculpteur"
+    ]
+  },
+  {
+    "date": "10-28",
+    "item": "Mandragore",
+    "quantite": 40,
+    "kamas": 5585000,
+    "bonusDescription": "+125% Mandragore & Belladone pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "10-29",
+    "item": "Malléole de Yomi Givrefoux",
+    "quantite": 3,
+    "kamas": 16140000,
+    "bonusDescription": "+75% drop Crevasse Perge (Zone Givrefoux)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-30",
+    "item": "Akaslip d'Akakwa",
+    "quantite": 4,
+    "kamas": 9191000,
+    "bonusDescription": "+200% drop Percepteurs dans Donjons (120-150)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "10-31",
+    "item": "Poils de Barbe du Bwork Mage",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "Surprises de Trikortritt en butins monstres (Bonbons Halouine / Transformation Petite Chauffe-Soutrille)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-01",
+    "item": "Slip de Troollaraj",
+    "quantite": 1,
+    "kamas": 7762000,
+    "bonusDescription": "+50% XP & drop pour aventuriers équipés d'un slip",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-02",
+    "item": "Groin de Porkzebuth",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+75% drop zones Port des Ravageurs & Pandamonium",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-03",
+    "item": "Cape Abilité",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "15% ingrédients utilisés par Tailleurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Tailleur"
+    ]
+  },
+  {
+    "date": "11-04",
+    "item": "Fibre Criminelle",
+    "quantite": 1,
+    "kamas": 2836000,
+    "bonusDescription": "+200% apparition monstres Avis de Recherche",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-05",
+    "item": "Dent de Vatenbière",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Brasserie du Roi Dazak (Martegel)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-06",
+    "item": "Bois de Châtaignier",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+125% Bois de Châtaignier pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "11-07",
+    "item": "Pic de Prespic",
+    "quantite": 6,
+    "kamas": 593000,
+    "bonusDescription": "+50% drop Animaux forêt Astrub",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-08",
+    "item": "Patte de Li-Fo",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% XP sur Serviteurs de l'Indicible (Koutoulou)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-09",
+    "item": "Foulard du Sparo",
+    "quantite": 6,
+    "kamas": 2594000,
+    "bonusDescription": "+125% challenge Pirates Naufragés & Arche Otomaï",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-10",
+    "item": "Goujon",
+    "quantite": 40,
+    "kamas": 197000,
+    "bonusDescription": "+1 bébé dragodindes, volkornes, muldos orchidée & volkornes rubis",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-11",
+    "item": "Écaille de Crocodaille",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "Bénédiction Miss Triste : transformation temporaire en Crocodaille et Souffre-Douleur (+50 Puissance, +10 dommages fixes pendant 15 combats)",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-12",
+    "item": "Lanterne de Tourthon",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% drop Trithons (Dantinéa)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-13",
+    "item": "Graine de Scorbute",
+    "quantite": 6,
+    "kamas": 2836000,
+    "bonusDescription": "+150% challenge Laboratoire Brumen Tinctorias",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-14",
+    "item": "Rune Vi",
+    "quantite": 4,
+    "kamas": 769000,
+    "bonusDescription": "15% runes utilisées par Joaillomages",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Joaillomage"
+    ]
+  },
+  {
+    "date": "11-15",
+    "item": "Leurnettes",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "Quête répétable spéciale (Vieille chapelle Astrub)",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-16",
+    "item": "Peau de Ramane d'Égoutant",
+    "quantite": 6,
+    "kamas": 2111000,
+    "bonusDescription": "+50% XP Rats Strubiens & Maknéens",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-17",
+    "item": "Viande Séchée",
+    "quantite": 5,
+    "kamas": 7146000,
+    "bonusDescription": "+125% Viande Séchée pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "11-18",
+    "item": "Patte de la Gardienne des Égouts",
+    "quantite": 1,
+    "kamas": 13545000,
+    "bonusDescription": "2 challenges au lieu d'un Canaux Méphitiques & Entrailles de Brâkmar (Égouts)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-19",
+    "item": "Substrat de Bocage",
+    "quantite": 1,
+    "kamas": 3562000,
+    "bonusDescription": "15% ingrédients utilisés par Bûcherons",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "11-20",
+    "item": "Sang Coagulé",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+100% XP sous anomalies temporelles, +25% XP & drop Cavaliers Eliocalypse (hors donjons)",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-21",
+    "item": "Ailes de Moskito",
+    "quantite": 6,
+    "kamas": 395000,
+    "bonusDescription": "+50% XP Vermines des Champs (Amakna)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-22",
+    "item": "Griffe de Félygiène",
+    "quantite": 3,
+    "kamas": 13391000,
+    "bonusDescription": "+50% drop Kanigs des Dents de Pierre",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-23",
+    "item": "Fragment d'Ectorche",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+125% challenge Brûlâmes (Zone Ilyzaelle, Caserne du Jour sans fin)",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-24",
+    "item": "Avoine",
+    "quantite": 50,
+    "kamas": 593000,
+    "bonusDescription": "+125% Avoine pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "11-25",
+    "item": "Corne de Boufmouth de guerre",
+    "quantite": 5,
+    "kamas": 7388000,
+    "bonusDescription": "2 challenges au lieu d'un sur Boufmouths des Champs de Glace",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-26",
+    "item": "Antennes de Vilinsekt",
+    "quantite": 9,
+    "kamas": 989000,
+    "bonusDescription": "+50% drop Vilinsekts",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-27",
+    "item": "Bois d'If",
+    "quantite": 40,
+    "kamas": 6289000,
+    "bonusDescription": "+125% Bois d'If pour Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "11-28",
+    "item": "Poils de Barbe de Dragodinde",
+    "quantite": 1,
+    "kamas": 2836000,
+    "bonusDescription": "+20% chance de générer un second butin en donjons",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "11-29",
+    "item": "Kobalte",
+    "quantite": 30,
+    "kamas": 1187000,
+    "bonusDescription": "+125% Kobalte pour Mineurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "11-30",
+    "item": "Laine de Yokaï Givrefoux",
+    "quantite": 3,
+    "kamas": 16140000,
+    "bonusDescription": "+125% challenge Givrefoux",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-01",
+    "item": "Œil de Gouligane",
+    "quantite": 2,
+    "kamas": 21990000,
+    "bonusDescription": "+50% XP sur Goules (Sidimote)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-02",
+    "item": "Bouclier du Tournesol Sauvage",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+50% XP pour Bricoleurs, Forgerons, Sculpteurs, Façonneurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Bricoleur",
+      "Forgeron",
+      "Sculpteur"
+    ]
+  },
+  {
+    "date": "12-03",
+    "item": "Peau de Mansobèse",
+    "quantite": 4,
+    "kamas": 8642000,
+    "bonusDescription": "2 challenges au lieu d'un dans le Lac Gelé",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-04",
+    "item": "Bois d'Oliviolet",
+    "quantite": 40,
+    "kamas": 2462000,
+    "bonusDescription": "+100% quantité de Bois récupéré par Bûcherons",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Bûcheron"
+    ]
+  },
+  {
+    "date": "12-05",
+    "item": "Casque de Martoa",
+    "quantite": 6,
+    "kamas": 593000,
+    "bonusDescription": "+75% XP dans la Carrière d'Astrub",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-06",
+    "item": "Charbon",
+    "quantite": 6,
+    "kamas": 2594000,
+    "bonusDescription": "+100% jetons Kolizéum & Ovatons gagnés en PvP",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-07",
+    "item": "Étoffe de Dok Alako",
+    "quantite": 6,
+    "kamas": 3474000,
+    "bonusDescription": "+50% drop sur Koalaks & Koalaks sauvages",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-08",
+    "item": "Perce-Neige",
+    "quantite": 10,
+    "kamas": 10995000,
+    "bonusDescription": "+200% Perce-Neige pour Alchimistes",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Alchimiste"
+    ]
+  },
+  {
+    "date": "12-09",
+    "item": "Poil de Rat Bontarien",
+    "quantite": 2,
+    "kamas": 6662000,
+    "bonusDescription": "+100% XP dans Garde-manger du Rat Blanc",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-10",
+    "item": "Queue de Dragodinde",
+    "quantite": 1,
+    "kamas": 2462000,
+    "bonusDescription": "+1 bébé dragodinde, volkornes, muldos émeraude",
+    "bonusCategories": [
+      "elevage"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-11",
+    "item": "Pacmabottes",
+    "quantite": 2,
+    "kamas": 769000,
+    "bonusDescription": "15% ingrédients utilisés par Cordonniers",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Cordonnier"
+    ]
+  },
+  {
+    "date": "12-12",
+    "item": "Potion de cité : Brâkmar",
+    "quantite": 3,
+    "kamas": 5981000,
+    "bonusDescription": "Quête répétable spéciale (Portes de Brâkmar)",
+    "bonusCategories": [
+      "quete"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-13",
+    "item": "Dolomite",
+    "quantite": 30,
+    "kamas": 8993000,
+    "bonusDescription": "+100% vitesse apparition minerais (Mineurs)",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "12-14",
+    "item": "Paupière Dorée de Rykaon",
+    "quantite": 1,
+    "kamas": 21990000,
+    "bonusDescription": "+150% challenge Chambre de Tal Kasha",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-15",
+    "item": "Cuir de Porkass",
+    "quantite": 6,
+    "kamas": 1517000,
+    "bonusDescription": "+75% drop Plaine des Porkass",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-16",
+    "item": "Emballage de Nowel Écarlate",
+    "quantite": 2,
+    "kamas": 1737000,
+    "bonusDescription": "2 challenges au lieu d'un sur Île de Nowel",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-17",
+    "item": "Anguille",
+    "quantite": 40,
+    "kamas": 2990000,
+    "bonusDescription": "+125% Anguille & Dorade Grise pour Pêcheurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Pêcheur"
+    ]
+  },
+  {
+    "date": "12-18",
+    "item": "Chance d'Ecaflip",
+    "quantite": 1,
+    "kamas": 769000,
+    "bonusDescription": "+150% challenge dans tous les donjons",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-19",
+    "item": "Flocon de Neige",
+    "quantite": 2,
+    "kamas": 1737000,
+    "bonusDescription": "+50% XP sur monstres de Nowel",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-20",
+    "item": "Ebonite",
+    "quantite": 1,
+    "kamas": 1187000,
+    "bonusDescription": "10% ingrédients utilisés par Mineurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  },
+  {
+    "date": "12-21",
+    "item": "Canine Vampiresque",
+    "quantite": 6,
+    "kamas": 989000,
+    "bonusDescription": "2 challenges au lieu d'un au Cimetière d'Amakna & Cryptes",
+    "bonusCategories": [
+      "pvm"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-22",
+    "item": "Poisson Pané",
+    "quantite": 40,
+    "kamas": 879000,
+    "bonusDescription": "+150% vitesse apparition ressources au Port de Madrestam",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-23",
+    "item": "Viande Tendre",
+    "quantite": 6,
+    "kamas": 1737000,
+    "bonusDescription": "+125% Viande Tendre pour Chasseurs",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Chasseur"
+    ]
+  },
+  {
+    "date": "12-24",
+    "item": "Médaille en Chocolat",
+    "quantite": 1,
+    "kamas": 1737000,
+    "bonusDescription": "Chasses : Coffres de Milivar disponibles",
+    "bonusCategories": [
+      "autre"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-25",
+    "item": "Joli Cadeau de Nowel",
+    "quantite": 4,
+    "kamas": 5981000,
+    "bonusDescription": "Cadeaux de Nowel ajoutés aux butins des monstres",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-26",
+    "item": "Poil de Barbe du Shamansot",
+    "quantite": 4,
+    "kamas": 9873000,
+    "bonusDescription": "+100% drop Excavation du Mansot Royal",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-27",
+    "item": "Fronde de Boufronde",
+    "quantite": 2,
+    "kamas": 19153000,
+    "bonusDescription": "+50% XP sur Nimbos Marteaux-Aigris (Ereboria)",
+    "bonusCategories": [
+      "xp"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-28",
+    "item": "Kaokurimono",
+    "quantite": 3,
+    "kamas": 15436000,
+    "bonusDescription": "+200% drop pour Percepteurs dans donjons 160-190",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-29",
+    "item": "Riz",
+    "quantite": 40,
+    "kamas": 2990000,
+    "bonusDescription": "+125% Riz & Seigle pour Paysans",
+    "bonusCategories": [
+      "metier"
+    ],
+    "metiersConcernes": [
+      "Paysan"
+    ]
+  },
+  {
+    "date": "12-30",
+    "item": "Bidule Inutile",
+    "quantite": 1,
+    "kamas": 1561000,
+    "bonusDescription": "+50% drop sur Automates des Brigandins",
+    "bonusCategories": [
+      "drop"
+    ],
+    "metiersConcernes": []
+  },
+  {
+    "date": "12-31",
+    "item": "Ebonite",
+    "quantite": 1,
+    "kamas": 1187000,
+    "bonusDescription": "+10% chance de créer un second objet pour Mineurs",
+    "bonusCategories": [
+      "craft"
+    ],
+    "metiersConcernes": [
+      "Mineur"
+    ]
+  }
+]
