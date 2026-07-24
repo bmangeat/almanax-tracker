@@ -80,3 +80,17 @@ export function prochaineDate(
   const dates = offrandes.map((o) => o.date).sort();
   return dates.find((d) => d >= today) ?? dates[0];
 }
+
+function ordinalDuJour(date: string): number {
+  const [mois, jour] = date.split("-").map(Number);
+  // 2024 est bissextile : sert de référence pour inclure le 29 février.
+  return Date.UTC(2024, mois - 1, jour) / 86400000;
+}
+
+// Distance cyclique (0 à 365) entre `date` et `today` : 0 si c'est aujourd'hui,
+// 365 si c'était hier. Permet un tri par date centré sur le jour courant.
+export function distanceDepuisAujourdhui(date: string, today: string): number {
+  const NB_JOURS = 366;
+  const diff = ordinalDuJour(date) - ordinalDuJour(today);
+  return ((diff % NB_JOURS) + NB_JOURS) % NB_JOURS;
+}

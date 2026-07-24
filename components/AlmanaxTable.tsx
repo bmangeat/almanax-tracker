@@ -2,9 +2,15 @@
 
 import { useMemo, useState } from "react";
 import { OffrandeAlmanax, CATEGORIE_LABELS } from "@/lib/types";
-import { dateDuJour, formatDateAffichage, formatKamas, prochaineDate } from "@/lib/filters";
+import {
+  dateDuJour,
+  distanceDepuisAujourdhui,
+  formatDateAffichage,
+  formatKamas,
+  prochaineDate,
+} from "@/lib/filters";
 
-type SortKey = "date" | "kamas";
+type SortKey = "favori" | "date" | "item" | "kamas" | "bonus" | "categories";
 
 type Props = {
   offrandes: OffrandeAlmanax[];
@@ -25,20 +31,48 @@ const CATEGORIE_COLOR: Record<string, string> = {
   aucun: "bg-ink/5 text-ink/40",
 };
 
+function categoriesTriables(o: OffrandeAlmanax): string {
+  return o.bonusCategories
+    .map((c) => CATEGORIE_LABELS[c])
+    .sort()
+    .join(",");
+}
+
 export default function AlmanaxTable({ offrandes, estFavori, toggleFavori }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("date");
   const [sortDesc, setSortDesc] = useState(false);
 
+  const today = dateDuJour();
+
   const sorted = useMemo(() => {
     const copy = [...offrandes];
     copy.sort((a, b) => {
-      const v = sortKey === "date" ? a.date.localeCompare(b.date) : a.kamas - b.kamas;
+      let v: number;
+      switch (sortKey) {
+        case "favori":
+          v = Number(estFavori(a.date)) - Number(estFavori(b.date));
+          break;
+        case "date":
+          v = distanceDepuisAujourdhui(a.date, today) - distanceDepuisAujourdhui(b.date, today);
+          break;
+        case "item":
+          v = a.item.localeCompare(b.item);
+          break;
+        case "kamas":
+          v = a.kamas - b.kamas;
+          break;
+        case "bonus":
+          v = (a.bonusDescription ?? "").localeCompare(b.bonusDescription ?? "");
+          break;
+        case "categories":
+          v = categoriesTriables(a).localeCompare(categoriesTriables(b));
+          break;
+      }
       return sortDesc ? -v : v;
     });
     return copy;
-  }, [offrandes, sortKey, sortDesc]);
+  }, [offrandes, sortKey, sortDesc, today, estFavori]);
 
-  const today = dateDuJour();
   const dateAMettreEnAvant = useMemo(
     () => prochaineDate(offrandes, today),
     [offrandes, today]
@@ -58,22 +92,43 @@ export default function AlmanaxTable({ offrandes, estFavori, toggleFavori }: Pro
       <table className="w-full text-sm font-body">
         <thead>
           <tr className="border-b border-ink/10 text-left text-ink/60">
-            <th className="px-4 py-3 w-8" aria-label="Favori" />
+            <th
+              className="px-2 py-3 w-8 cursor-pointer select-none text-center"
+              onClick={() => toggleSort("favori")}
+              aria-label="Trier par favori"
+            >
+              ★{sortKey === "favori" ? (sortDesc ? " ↓" : " ↑") : ""}
+            </th>
             <th
               className="px-4 py-3 cursor-pointer select-none whitespace-nowrap"
               onClick={() => toggleSort("date")}
             >
               Date {sortKey === "date" ? (sortDesc ? "↓" : "↑") : ""}
             </th>
-            <th className="px-4 py-3">Offrande</th>
+            <th
+              className="px-4 py-3 cursor-pointer select-none whitespace-nowrap"
+              onClick={() => toggleSort("item")}
+            >
+              Offrande {sortKey === "item" ? (sortDesc ? "↓" : "↑") : ""}
+            </th>
             <th
               className="px-4 py-3 cursor-pointer select-none whitespace-nowrap"
               onClick={() => toggleSort("kamas")}
             >
               Kamas {sortKey === "kamas" ? (sortDesc ? "↓" : "↑") : ""}
             </th>
-            <th className="px-4 py-3">Bonus</th>
-            <th className="px-4 py-3">Catégories</th>
+            <th
+              className="px-4 py-3 cursor-pointer select-none whitespace-nowrap"
+              onClick={() => toggleSort("bonus")}
+            >
+              Bonus {sortKey === "bonus" ? (sortDesc ? "↓" : "↑") : ""}
+            </th>
+            <th
+              className="px-4 py-3 cursor-pointer select-none whitespace-nowrap"
+              onClick={() => toggleSort("categories")}
+            >
+              Catégories {sortKey === "categories" ? (sortDesc ? "↓" : "↑") : ""}
+            </th>
           </tr>
         </thead>
         <tbody>
