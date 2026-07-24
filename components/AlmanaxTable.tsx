@@ -83,6 +83,7 @@ export default function AlmanaxTable({ offrandes }: Props) {
                     <img
                       src={o.imgUrl}
                       alt={o.item}
+                      referrerPolicy="no-referrer"
                       className="w-8 h-8 shrink-0 object-contain"
                     />
                   ) : (

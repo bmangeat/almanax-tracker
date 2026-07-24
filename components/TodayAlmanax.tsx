@@ -31,6 +31,7 @@ export default function TodayAlmanax({ offrandes }: Props) {
           <img
             src={offrande.imgUrl}
             alt={offrande.item}
+            referrerPolicy="no-referrer"
             className="w-16 h-16 shrink-0 object-contain"
           />
         ) : (
