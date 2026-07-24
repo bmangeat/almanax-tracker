@@ -1,0 +1,13 @@
+{
+  "name": "Almanax Dofus — Offrandes filtrées",
+  "short_name": "Almanax",
+  "description": "Les 366 offrandes de l'Almanax Dofus, filtrées par kamas, catégorie et métier.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3ECD9",
+  "theme_color": "#3D5C3A",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

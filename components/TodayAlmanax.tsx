@@ -6,9 +6,11 @@ import { dateDuJour, formatDateAffichage, formatKamas } from "@/lib/filters";
 
 type Props = {
   offrandes: OffrandeAlmanax[];
+  estFavori: (date: string) => boolean;
+  toggleFavori: (date: string) => void;
 };
 
-export default function TodayAlmanax({ offrandes }: Props) {
+export default function TodayAlmanax({ offrandes, estFavori, toggleFavori }: Props) {
   const offrande = useMemo(() => {
     const today = dateDuJour();
     return offrandes.find((o) => o.date === today);
@@ -33,8 +35,17 @@ export default function TodayAlmanax({ offrandes }: Props) {
           <p className="text-xs uppercase tracking-[0.2em] text-moss font-body mb-1">
             Almanax du jour · {formatDateAffichage(offrande.date)}
           </p>
-          <p className="font-display text-lg text-ink">
+          <p className="font-display text-lg text-ink flex items-center gap-2">
             {offrande.quantite} {offrande.item}
+            <button
+              onClick={() => toggleFavori(offrande.date)}
+              aria-label={estFavori(offrande.date) ? "Retirer des favoris" : "Ajouter aux favoris"}
+              className={`text-lg leading-none ${
+                estFavori(offrande.date) ? "text-gold" : "text-ink/20 hover:text-ink/40"
+              }`}
+            >
+              {estFavori(offrande.date) ? "★" : "☆"}
+            </button>
           </p>
           <p className="text-sm text-ink/70 font-body mt-1 max-w-2xl">
             {offrande.bonusDescription ?? "—"}

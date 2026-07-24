@@ -8,6 +8,8 @@ type SortKey = "date" | "kamas";
 
 type Props = {
   offrandes: OffrandeAlmanax[];
+  estFavori: (date: string) => boolean;
+  toggleFavori: (date: string) => void;
 };
 
 const CATEGORIE_COLOR: Record<string, string> = {
@@ -23,7 +25,7 @@ const CATEGORIE_COLOR: Record<string, string> = {
   aucun: "bg-ink/5 text-ink/40",
 };
 
-export default function AlmanaxTable({ offrandes }: Props) {
+export default function AlmanaxTable({ offrandes, estFavori, toggleFavori }: Props) {
   const [sortKey, setSortKey] = useState<SortKey>("date");
   const [sortDesc, setSortDesc] = useState(false);
 
@@ -56,6 +58,7 @@ export default function AlmanaxTable({ offrandes }: Props) {
       <table className="w-full text-sm font-body">
         <thead>
           <tr className="border-b border-ink/10 text-left text-ink/60">
+            <th className="px-4 py-3 w-8" aria-label="Favori" />
             <th
               className="px-4 py-3 cursor-pointer select-none whitespace-nowrap"
               onClick={() => toggleSort("date")}
@@ -83,6 +86,17 @@ export default function AlmanaxTable({ offrandes }: Props) {
                 estEnAvant ? "bg-gold/10" : ""
               }`}
             >
+              <td className="px-2 py-3 text-center">
+                <button
+                  onClick={() => toggleFavori(o.date)}
+                  aria-label={estFavori(o.date) ? "Retirer des favoris" : "Ajouter aux favoris"}
+                  className={`text-lg leading-none ${
+                    estFavori(o.date) ? "text-gold" : "text-ink/20 hover:text-ink/40"
+                  }`}
+                >
+                  {estFavori(o.date) ? "★" : "☆"}
+                </button>
+              </td>
               <td className="px-4 py-3 whitespace-nowrap text-ink/70">
                 <div className="flex items-center gap-2">
                   {formatDateAffichage(o.date)}
