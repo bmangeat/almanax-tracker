@@ -21,10 +21,6 @@ export default function RootLayout({
   return (
     <html lang="fr">
       <head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap"
-          rel="stylesheet"
-        />
         <meta name="theme-color" content="#3D5C3A" />
       </head>
       <body>
