@@ -6,13 +6,13 @@ Bière bwork
 Bois d'Érable
 Bois de Pin
 Bonnet de Gobaliste
-Bourgeon Abraknyde Sombre Irascible
 Bouteille de Gloutoburg
 Canine Vampiresque
 Capuche d'Armécréante
 Casque de Martoa
 Cendrepierre
 Collier d'Esclave
+Concombre
 Coquille de Dragoeuf Ardoise
 Corne de Malbois
 Corne de Typhomet
@@ -32,7 +32,6 @@ Lame brisée de Lichangoro
 Langue de Champodonte
 Lanterne usée
 Longue-vue de Gob-Trotteur
-Masque de vengance
 Miséricorde du Chafer d'Élite
 Médaille en Chocolat
 Métronome du Début-Temps

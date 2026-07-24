@@ -52,17 +52,17 @@ export default function FilterBar({
 
         <div className="w-full sm:w-56">
           <label className="block text-xs uppercase tracking-wide text-ink/60 mb-1 font-body">
-            Kamas minimum (en K)
+            Kamas minimum
           </label>
           <input
             type="number"
             min={0}
-            placeholder="ex: 10000"
-            value={filtres.kamasMin ? filtres.kamasMin / 1000 : ""}
+            placeholder="ex: 5000"
+            value={filtres.kamasMin || ""}
             onChange={(e) =>
               onChange({
                 ...filtres,
-                kamasMin: e.target.value ? Number(e.target.value) * 1000 : 0,
+                kamasMin: e.target.value ? Number(e.target.value) : 0,
               })
             }
             className="w-full rounded-lg border border-ink/20 bg-parchment px-3 py-2 text-sm font-body focus:outline-none focus:ring-2 focus:ring-moss"

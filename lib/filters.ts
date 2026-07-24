@@ -59,5 +59,5 @@ export function formatDateAffichage(date: string): string {
 }
 
 export function formatKamas(kamas: number): string {
-  return new Intl.NumberFormat("fr-FR").format(Math.round(kamas / 1000)) + " K";
+  return new Intl.NumberFormat("fr-FR").format(Math.round(kamas)) + " kamas";
 }

@@ -6,6 +6,7 @@ import { OffrandeAlmanax } from "@/lib/types";
 import { Filtres, FILTRES_PAR_DEFAUT, filtrerOffrandes, extraireMetiersDisponibles } from "@/lib/filters";
 import FilterBar from "@/components/FilterBar";
 import AlmanaxTable from "@/components/AlmanaxTable";
+import TodayAlmanax from "@/components/TodayAlmanax";
 
 const offrandes = almanaxData as OffrandeAlmanax[];
 
@@ -32,6 +33,7 @@ export default function Home() {
         </header>
 
         <div className="space-y-6">
+          <TodayAlmanax offrandes={offrandes} />
           <FilterBar
             filtres={filtres}
             onChange={setFiltres}

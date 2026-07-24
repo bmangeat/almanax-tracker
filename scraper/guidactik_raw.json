@@ -1,0 +1,2935 @@
+{
+  "source": "https://guidactik.com/dofus/calendrier-almanax-sur-dofus-quetes-kamas-dolmanax-offrandes-tout-savoir/",
+  "fetchedAt": "2026-07-24",
+  "note": "Table complète des 366 jours (colonnes: jour, mois, quantite+item, kamas reels, description complete, categorie indispensable/vide), extraite du DataTable Almanax2 de la page.",
+  "rows": [
+    [
+      "1",
+      "Janvier",
+      "1x Métronome du Début-Temps",
+      "8400",
+      "Onome attend les aventuriers qui veulent célébrer la nouvelle année près du temple de Xélor. Sa bénédiction accorde un sortilège temporaire, le bond du Début-Temps, que vous serez capable de lancer durant 12 heures.",
+      "Indispensable"
+    ],
+    [
+      "2",
+      "Janvier",
+      "4x Michette",
+      "395",
+      "Métier : Ecocraft 15% pour les Paysans",
+      "Indispensable"
+    ],
+    [
+      "3",
+      "Janvier",
+      "1x Capuche d'Armécréante",
+      "21990",
+      "Challenge : +150% dans la Tempête de l'Eliocalypse (donjon 200)",
+      ""
+    ],
+    [
+      "4",
+      "Janvier",
+      "3x Cœur de Crapeur",
+      "16140",
+      "Drop : +75 % dans les Larmes d'Ouronigride (zone 160)",
+      ""
+    ],
+    [
+      "5",
+      "Janvier",
+      "10x Frostiz",
+      "10995",
+      "Récolte : +200% Frostiz (Paysan 200) ",
+      ""
+    ],
+    [
+      "6",
+      "Janvier",
+      "6x Poils de Barbe du Grand Pa Wabbit",
+      "2111",
+      "Une quête répétable spéciale est disponible aujourd'hui près de l'atelier des paysans du village d'Amakna. ",
+      "Indispensable"
+    ],
+    [
+      "7",
+      "Janvier",
+      "6x Boue du Boo",
+      "615",
+      "EXP : +50% sur les Gadouilleux (Marécages d'Amakna)",
+      ""
+    ],
+    [
+      "8",
+      "Janvier",
+      "6x Serviette de Plage",
+      "395",
+      "Challenge : +150% dans le Château Ensablé (Donjon Calanques d'Astrub, niveau 20).",
+      ""
+    ],
+    [
+      "9",
+      "Janvier",
+      "1x Épée Sacrée",
+      "769",
+      "Métiers : La qualité des objets fabriqués dans la ville de Bonta est augmentée.",
+      "Indispensable"
+    ],
+    [
+      "10",
+      "Janvier",
+      "1x Ceinture de Célérité",
+      "1253",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos roux donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Janvier",
+      "6x Miroir de Dopeul",
+      "1231",
+      "Drop : +50 sur les Dopeuls de Cania",
+      ""
+    ],
+    [
+      "12",
+      "Janvier",
+      "30x Argent",
+      "4200",
+      "Récolte : +125% d'Argent (Mineurs)",
+      ""
+    ],
+    [
+      "13",
+      "Janvier",
+      "2x Bave de Nessil",
+      "21990",
+      "Challenge : +150 % dans les 4 zones des remparts du  Château Harebourg et dans la Tour de la Clepsydre (hors donjons)",
+      "Indispensable"
+    ],
+    [
+      "14",
+      "Janvier",
+      "10x Bois de Tremble",
+      "10995",
+      "Récolte : +215% de Bois de Tremble (Bûcherons)",
+      ""
+    ],
+    [
+      "15",
+      "Janvier",
+      "6x Botte trouée de Mégabwork",
+      "4551",
+      "Drop : +50 % sur les Bworks de Cania",
+      ""
+    ],
+    [
+      "16",
+      "Janvier",
+      "6x Relique Familiale",
+      "1517",
+      "Challenge : 2 challenges au lieu d'un dans la Bordure de Brâkmar.",
+      ""
+    ],
+    [
+      "17",
+      "Janvier",
+      "9x Glande d'Arak-haï",
+      "4551",
+      "Challenges : +125 % sur les Arak-haï (Bordure de la Forêt des Abraknydes)",
+      ""
+    ],
+    [
+      "18",
+      "Janvier",
+      "40x Poisson-Chaton",
+      "593",
+      "Récolte : +100% de Poisson (tous types) pour les Pêcheurs",
+      "Indispensable"
+    ],
+    [
+      "19",
+      "Janvier",
+      "2x Pagne d'Alashasss",
+      "21990",
+      "XP Montures / Bonus de zone : +100 % XP Monture dans les zones sous anomalie temporelle. +25 % EXP et Drop sur Crocuzko.",
+      ""
+    ],
+    [
+      "20",
+      "Janvier",
+      "2x Poil de Rat Brâkmarien",
+      "6662",
+      "Drop : +50 % sur les Rats Brâkmariens",
+      ""
+    ],
+    [
+      "21",
+      "Janvier",
+      "1x Bouteille de Gloutoburg",
+      "11984",
+      "Métier : Les Alchimistes ont 25 % de chances de créer un second objet gratuitement",
+      "Indispensable"
+    ],
+    [
+      "22",
+      "Janvier",
+      "40x Ortie",
+      "197",
+      "Récolte : +125% d'Ortie (Alchimistes)",
+      ""
+    ],
+    [
+      "23",
+      "Janvier",
+      "2x Rune So",
+      "769",
+      "Métier : Les Sculptemages ont 15 % de chances de ne pas consumer une rune.",
+      "Indispensable"
+    ],
+    [
+      "24",
+      "Janvier",
+      "2x Bourgeon d'Abraknyde Sombre Irascible",
+      "9741",
+      "Challenge : +150 % dans le donjon de la Clairière du Chêne Mou.",
+      ""
+    ],
+    [
+      "25",
+      "Janvier",
+      "5x Tibia de Koalak Fossoyeur",
+      "6662",
+      "EXP : +75 % dans le Cimetière Primitif (Montagnes Koalaks)",
+      ""
+    ],
+    [
+      "26",
+      "Janvier",
+      "40x Bois de Chêne",
+      "1187",
+      "Récolte : +125% de Bois de Chêne (Bûcherons)",
+      ""
+    ],
+    [
+      "27",
+      "Janvier",
+      "4x Carasau",
+      "395",
+      "Métier : Les Paysans ont 25 % de chances de créer un second objet gratuitement",
+      "Indispensable"
+    ],
+    [
+      "28",
+      "Janvier",
+      "2x Queue de Rat Pine",
+      "11654",
+      "Challenge : +150% dans le donjon du Repaire de Sphincter Cell",
+      ""
+    ],
+    [
+      "29",
+      "Janvier",
+      "6x Laine de Bouftou",
+      "593",
+      "Challenge : 2 challenges au lieu d'un dans le Coin des Bouftous.",
+      ""
+    ],
+    [
+      "30",
+      "Janvier",
+      "6x Bourse Suspecte",
+      "1517",
+      "Drop : +50 % sur les Artisans sombres.",
+      ""
+    ],
+    [
+      "31",
+      "Janvier",
+      "40x Menthe Sauvage",
+      "1187",
+      "Récolte : +125% de Menthe Sauvage (Alchimistes)",
+      ""
+    ],
+    [
+      "1",
+      "Février",
+      "1x Blessure du Sacrieur",
+      "769",
+      "XP / DROP : +50 % XP et Drop en utilisant une Idole de Tolgnas en combat",
+      "Indispensable"
+    ],
+    [
+      "2",
+      "Février",
+      "2x Brioche à la viande de bouftou",
+      "4771",
+      "Challenge et Métier : +125 % Challenge sur tous les Bouftous, Boufmouths et Boufcouls. +50% d'expérience pour les Chasseurs, les Paysans et les Pêcheurs.",
+      "Indispensable"
+    ],
+    [
+      "3",
+      "Février",
+      "6x Bombe de Graboule",
+      "4551",
+      "EXP : +50 % sur les Riktus des Magik Riktus (Route des roulottes)",
+      ""
+    ],
+    [
+      "4",
+      "Février",
+      "2x Molaire de Blérice",
+      "19944",
+      "Drop : +75 % dans les Crocs de verre.",
+      ""
+    ],
+    [
+      "5",
+      "Février",
+      "1x Fil de Néfileuse",
+      "4551",
+      "Percepteurs : +200 % de butin dans les donjons de niveaux 80 à 110.",
+      ""
+    ],
+    [
+      "6",
+      "Février",
+      "2x Marteau de Boisaille",
+      "769",
+      "Métier : Ecocraft 15% pour les Forgerons.",
+      "Indispensable"
+    ],
+    [
+      "7",
+      "Février",
+      "6x Lamelle de Champa Vert",
+      "1143",
+      "EXP et Drop : +50 % d'EXP dans les zones sous anomalie temporelle. +25 % EXP et Drop dans le Bord de la Forêt Maléfique.",
+      ""
+    ],
+    [
+      "8",
+      "Février",
+      "40x Bois de Frêne",
+      "197",
+      "Récolte : +125% Bois de Frêne (Bûcherons)",
+      ""
+    ],
+    [
+      "9",
+      "Février",
+      "2x Tignasse de Kanihilan",
+      "13721",
+      "Drop : +100 % dans la Grotte de Kanigroula.",
+      ""
+    ],
+    [
+      "10",
+      "Février",
+      "6x Pic de Dragodinde Dorée",
+      "3628",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos dorés donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Février",
+      "40x Bar Rikain",
+      "7190",
+      "Récolte : +125% Bar Rikain et de Tanche par les Pêcheurs",
+      ""
+    ],
+    [
+      "12",
+      "Février",
+      "5x Poils de Mulounoké",
+      "5563",
+      "Challenge : +125 % sur les Mulous (Haut des Hurlements)",
+      ""
+    ],
+    [
+      "13",
+      "Février",
+      "1x Bottes Karnaval",
+      "769",
+      "Divers : Des Pochettes-Surprises ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des Beignets de Karnaval ou bien de se retrouver déguisé en monstre Tout-Fou.",
+      ""
+    ],
+    [
+      "14",
+      "Février",
+      "9x Shigekax Passion",
+      "593",
+      "EXP : +100% d'EXP pour les joueurs sous Malédiction du Ballotin",
+      "Indispensable"
+    ],
+    [
+      "15",
+      "Février",
+      "1x Potion de Vieillesse",
+      "11984",
+      "Chasses : Des Coffres de Güss peuvent être gagnés à la fin des chasses aux trésors.",
+      ""
+    ],
+    [
+      "16",
+      "Février",
+      "6x Beignet Astrubien",
+      "593",
+      "Métier : Ecocraft de 15% pour les Chasseurs",
+      "Indispensable"
+    ],
+    [
+      "17",
+      "Février",
+      "1x Écorce de Champaknyde",
+      "17240",
+      "Drop : +50 % sur les Fungus (Sidimote)",
+      ""
+    ],
+    [
+      "18",
+      "Février",
+      "6x Écorce d'Abrakne Sombre",
+      "4551",
+      "EXP : +50 % sur les Abraknydiens Sombres (Abraknyde Ancestral, niveau 70-90)",
+      ""
+    ],
+    [
+      "19",
+      "Février",
+      "40x Carpe d'Iem",
+      "1187",
+      "Récolte : +125% Poisson-Chaton et de Carpe d'Iem (Pêcheurs)",
+      ""
+    ],
+    [
+      "20",
+      "Février",
+      "3x Croupion du Bitouf aérien",
+      "13062",
+      "Challenge : +150 % dans le Feuillage et le Tronc de l'arbre Hakam.",
+      ""
+    ],
+    [
+      "21",
+      "Février",
+      "9x Bière bwork",
+      "1737",
+      "Drop : +75 % dans le Village des Bworks et le Campement des Bworks.",
+      ""
+    ],
+    [
+      "22",
+      "Février",
+      "5x Peau de Dragueuse",
+      "7872",
+      "EXP : +75 % dans le Sanctuaire des Dragoeufs",
+      ""
+    ],
+    [
+      "23",
+      "Février",
+      "2x Corne de Malbois",
+      "12116",
+      "Challenge : +150% dans le Tertre du long sommeil (Donjon Hell Mina)",
+      ""
+    ],
+    [
+      "24",
+      "Février",
+      "2x Cuir d'Eskoglyphe",
+      "21990",
+      "Challenge : Deux challenges au lieu d'un dans la Base Abyssale (Zone Merkator)",
+      ""
+    ],
+    [
+      "25",
+      "Février",
+      "1x Goulobule rouge",
+      "21990",
+      "Drop : +100 % dans le donjon du Manoir de Katrepat (Donjon d'Anerice)",
+      ""
+    ],
+    [
+      "26",
+      "Février",
+      "2x Armure de Blindur",
+      "19153",
+      "Challenge : +125 % sur les Marteaux-Aigris (Nimbos d'Ereboria)",
+      ""
+    ],
+    [
+      "27",
+      "Février",
+      "4x Marinade Sucrée-Salée",
+      "14601",
+      "Récolte : +125% de Viande Saignante et de Viande Persillée (Chasseurs)",
+      ""
+    ],
+    [
+      "28",
+      "Février",
+      "3x Plume de Domoizelle",
+      "5563",
+      "EXP : +100% dans l'Arbre de Moon",
+      ""
+    ],
+    [
+      "29",
+      "Février",
+      "6x Nageoire de Compétition",
+      "395",
+      "Métier & XP & Drop : +75% d'EXP et de Drop contre les monstres. +50 % d'expérience pour tous les métiers.",
+      "Indispensable"
+    ],
+    [
+      "1",
+      "Mars",
+      "1x La Chaîne Nhanor Kibrill",
+      "769",
+      "Métier : Ecocraft de 15% pour les Bijoutiers",
+      "Indispensable"
+    ],
+    [
+      "2",
+      "Mars",
+      "5x Crâne d'Aventurier",
+      "7630",
+      "Challenge : +150 % dans la Vallée de la Morh'Kitu (Montagnes Koalak)",
+      ""
+    ],
+    [
+      "3",
+      "Mars",
+      "20x Bois de Charme",
+      "7190",
+      "Récolte : +125% de Bois de Charme et de Bois de Bambou Sombre (Bûcherons)",
+      ""
+    ],
+    [
+      "4",
+      "Mars",
+      "3x Volve de Fistulor",
+      "17987",
+      "EXP : +50 % sur les Sylvesprits (Foret Enneigée, Zone Korriandre)",
+      ""
+    ],
+    [
+      "5",
+      "Mars",
+      "3x Poil de Gliglitch",
+      "12116",
+      "Anomalies & EXP & Drop : +50% EXP/Drop dans les zones sous anomalie temporelle. +25% EXP et Drop dans les Landes de Cania (Gliglis)",
+      ""
+    ],
+    [
+      "6",
+      "Mars",
+      "1x Baguette de Glace",
+      "769",
+      "Métier : La qualité des objets fabriqués dans la ville de la Bourgade de Frigost est augmentée.",
+      "Indispensable"
+    ],
+    [
+      "7",
+      "Mars",
+      "4x Tête de lance de Fangshu",
+      "10599",
+      "Challenge : +125 % sur les Kozarus (Aerdala)",
+      ""
+    ],
+    [
+      "8",
+      "Mars",
+      "6x Patte de Wabbit",
+      "1627",
+      "Drop : +50 % sur les Wabbits, Wabbits mutants et Gawde du Wa.",
+      ""
+    ],
+    [
+      "9",
+      "Mars",
+      "50x Houblon",
+      "1187",
+      "Récolte : +125% Houblon (Paysans)",
+      ""
+    ],
+    [
+      "10",
+      "Mars",
+      "1x Foudroyeur en Frêne",
+      "1165",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos indigo ainsi que de volkornes saphir donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Mars",
+      "8x Dent de Crocodaille",
+      "1517",
+      "Challenge : Deux challenges au lieu d'un dans les Marécages d'Amakna, Marécages nauséabonds et Marécages sans fond",
+      ""
+    ],
+    [
+      "12",
+      "Mars",
+      "3x Poisson Pané Frit",
+      "1737",
+      "Métier : Ecocraft de 15% pour les Pêcheurs",
+      "Indispensable"
+    ],
+    [
+      "13",
+      "Mars",
+      "2x Œil de Harrogant",
+      "21990",
+      "EXP : +75% dans tous les donjons",
+      ""
+    ],
+    [
+      "14",
+      "Mars",
+      "40x Trèfle à 5 feuilles",
+      "593",
+      "Récolte : +125% de Trèfles à 5 Feuilles (Alchimistes)",
+      ""
+    ],
+    [
+      "15",
+      "Mars",
+      "5x Gratrooll",
+      "7872",
+      "Challenges : Deux challenges au lieu d'un sur les Troolls de Litneg.",
+      ""
+    ],
+    [
+      "16",
+      "Mars",
+      "4x Jouet de Gamine Zoth",
+      "8774",
+      "EXP : +50 % sur les Zoths (Otomai)",
+      ""
+    ],
+    [
+      "17",
+      "Mars",
+      "1x Cape du Piou Vert",
+      "769",
+      "Event : Les aventuriers en quête de binouzetons peuvent récupérer deux fois plus de pièces sur les Leprechauns.",
+      ""
+    ],
+    [
+      "18",
+      "Mars",
+      "2x Rune Fui",
+      "769",
+      "Métier : Les Façomages ont 15 % de chances de ne pas consumer une rune.",
+      "Indispensable"
+    ],
+    [
+      "19",
+      "Mars",
+      "30x Manganèse",
+      "2001",
+      "Récolte : +125% de Manganèse (Mineurs)",
+      ""
+    ],
+    [
+      "20",
+      "Mars",
+      "2x Queue de Mantaze",
+      "21990",
+      "EXP : +100 % dans le Vaisseau du Capitaine Meno.",
+      ""
+    ],
+    [
+      "21",
+      "Mars",
+      "2x Œil de Feutôme",
+      "21990",
+      "EXP et Drop : +100% de drop par les Percepteurs sous anomalie temporelle. +25% EXP et Drop dans la Caserne du  Jour sans fin (Zone Ilyzaelle)",
+      ""
+    ],
+    [
+      "22",
+      "Mars",
+      "2x Incus de Verglasseur",
+      "21990",
+      "Drop : +100 % dans la Forgefroide de Missiz Frizz",
+      ""
+    ],
+    [
+      "23",
+      "Mars",
+      "1x Gravure de Crachin",
+      "3276",
+      "Récolte : La vitesse d'apparition des bois (Bucherons) est augmentée de 100 %.",
+      ""
+    ],
+    [
+      "24",
+      "Mars",
+      "6x Ailes de Scarafeuille Blanc",
+      "1099",
+      "EXP :+50 % sur les Scarafeuilles.",
+      ""
+    ],
+    [
+      "25",
+      "Mars",
+      "2x Antenne de Bacterrib",
+      "21990",
+      "Drop : +50 % sur les Krobes (Zone Baleine)",
+      ""
+    ],
+    [
+      "26",
+      "Mars",
+      "1x Incisive de Glourmand",
+      "19944",
+      "Challenge : +125 % sur les Gloursons",
+      ""
+    ],
+    [
+      "27",
+      "Mars",
+      "4x Papillote au Citron",
+      "1781",
+      "Récolte : +125% de Viande Minérale et de Viande Frelatée (Chasseurs)",
+      ""
+    ],
+    [
+      "28",
+      "Mars",
+      "2x Canine de Kanimate",
+      "21990",
+      "EXP : +100 % dans le Transporteur de Sylargh",
+      ""
+    ],
+    [
+      "29",
+      "Mars",
+      "2x Boulon de Cybwork",
+      "17240",
+      "Drop : +100% dans la Grotte du Bworker.",
+      ""
+    ],
+    [
+      "30",
+      "Mars",
+      "6x Queue de Fennex",
+      "3980",
+      "EXP : +50 % sur les Animaux du désert (Saharach 1)",
+      ""
+    ],
+    [
+      "31",
+      "Mars",
+      "1x Œuf de Dragoeuf Calcaire",
+      "2836",
+      "Quete & EXP & Drop : +30% d'EXP et de drop sur l'île de Pwâk. Une quête répétable spéciale est disponible aujourd'hui près du Temple des Zobals. Réalisable à partir du niveau 20, elle est indépendante de la quête d'offrande",
+      "Indispensable"
+    ],
+    [
+      "1",
+      "Avril",
+      "3x Fluide Glacial",
+      "395",
+      "EXP et Drop : +50 % sur toutes les créatures marines : Pichons, monstres des plages, corailleurs, crustorails, tortues de Moon, crabe Hijacob, gélikan, Kralamoure Géant, monstres des abysses de Sufokia, Mercemers, Submergés, Crocodailles de Crocuzko.",
+      "Indispensable"
+    ],
+    [
+      "2",
+      "Avril",
+      "1x Abreuvoir en Frêne",
+      "4200",
+      "Challenge : Deux challenges au lieu d'un dans le Territoire Cacterre (Saharach 1)",
+      ""
+    ],
+    [
+      "3",
+      "Avril",
+      "3x Lanterne usée",
+      "15436",
+      "EXP : +75 % dans le Mont des Tombeaux (Grobe)",
+      ""
+    ],
+    [
+      "4",
+      "Avril",
+      "1x Ceinture de Sécurité",
+      "769",
+      "Métier : La qualité des objets fabriqués dans Sufokia est augmentée.",
+      "Indispensable"
+    ],
+    [
+      "5",
+      "Avril",
+      "40x Edelweiss",
+      "1407",
+      "Récolte : +125% d'Edelweiss (Alchimistes)",
+      ""
+    ],
+    [
+      "6",
+      "Avril",
+      "5x Canine de Mergranlou",
+      "5563",
+      "Drop : +75 % dans les Hauts des Hurlements (Mulous)",
+      ""
+    ],
+    [
+      "7",
+      "Avril",
+      "50x Orge",
+      "197",
+      "Récolte : +125% d'Orge (Paysans)",
+      ""
+    ],
+    [
+      "8",
+      "Avril",
+      "6x Carapace Verte",
+      "1517",
+      "EXP : +75 % dans la Plage de la Tortue.",
+      ""
+    ],
+    [
+      "9",
+      "Avril",
+      "5x Plume de Gobvious",
+      "5343",
+      "Challenge : +150 % dans le Théâtre de Dramak.",
+      ""
+    ],
+    [
+      "10",
+      "Avril",
+      "2x Anneau Fortifiant",
+      "769",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos pourpres ainsi que de volkornes jade donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Avril",
+      "6x Bout de Blop Coco",
+      "593",
+      "Anomalies & EXP & Drop : +50% d'EXP dans les zones sous anomalie temporelle. +25% EXP & Drop dans le Lac de Cania.",
+      ""
+    ],
+    [
+      "12",
+      "Avril",
+      "3x Os de Jiangshi-Nobi",
+      "13721",
+      "Drop : +50 % sur l'Armée de Brume (Grobe)",
+      ""
+    ],
+    [
+      "13",
+      "Avril",
+      "40x Bois de Kaliptus",
+      "6377",
+      "Récolte : +125% de Bois d'Ébène et de Bois de Kaliptus (Bûcherons)",
+      ""
+    ],
+    [
+      "14",
+      "Avril",
+      "4x Plume du Kwak de Vent",
+      "1407",
+      "Drop: +100% dans le Nid du Kwakwa.",
+      ""
+    ],
+    [
+      "15",
+      "Avril",
+      "1x Baffeur en Frêne",
+      "1165",
+      "Métier : Les Bricoleurs ont 25 % de chances de créer un second objet gratuitement.",
+      "Indispensable"
+    ],
+    [
+      "16",
+      "Avril",
+      "40x Greuvette",
+      "197",
+      "Récolte : +125% de Greuvette et de Crabe Sourimi (Pêcheurs)",
+      ""
+    ],
+    [
+      "17",
+      "Avril",
+      "1x Multygely",
+      "4507",
+      "Drop : +75 % dans la péninsule des Gelées",
+      ""
+    ],
+    [
+      "18",
+      "Avril",
+      "2x Cuir de Cuirboule",
+      "21990",
+      "EXP : +100 % dans les Salons privés de Klime.",
+      ""
+    ],
+    [
+      "19",
+      "Avril",
+      "30x Or",
+      "7190",
+      "Récolte : +150% d'Or (Mineurs)",
+      ""
+    ],
+    [
+      "20",
+      "Avril",
+      "2x Nectar de l'Orient",
+      "6662",
+      "Challenge : +125% sur les monstres de Plantala",
+      ""
+    ],
+    [
+      "21",
+      "Avril",
+      "1x Boule polie",
+      "5871",
+      "Chasses : Des Coffres de Scheik peuvent être gagnés à la fin des chasses aux trésors.",
+      ""
+    ],
+    [
+      "22",
+      "Avril",
+      "2x Dent de Tilamproie",
+      "21990",
+      "Drop : +50 % sur les Monstres des ruines sous-marines (Zone Meno)",
+      ""
+    ],
+    [
+      "23",
+      "Avril",
+      "5x Bave de Ouassingue",
+      "5761",
+      "EXP : +50 % sur les Monstres des Tourbières.",
+      ""
+    ],
+    [
+      "24",
+      "Avril",
+      "6x Pierre du Craqueleur",
+      "2836",
+      "Challenge : Deux challenges au lieu d'un dans la Montagne des Craqueleurs.",
+      ""
+    ],
+    [
+      "25",
+      "Avril",
+      "6x Viande Rassie",
+      "4947",
+      "Récolte : +125% de Viande Rassie et de Viande Exsudative (Chasseurs)",
+      ""
+    ],
+    [
+      "26",
+      "Avril",
+      "1x Kamatrix",
+      "5981",
+      "Les gains de kamas sont augmentés de 100 % pour toutes les quêtes.",
+      "Indispensable"
+    ],
+    [
+      "27",
+      "Avril",
+      "6x Oreille de Foufayteur",
+      "2990",
+      "Challenge : +125 % sur les Ruffians de Cania.",
+      ""
+    ],
+    [
+      "28",
+      "Avril",
+      "1x Cristal",
+      "2374",
+      "Récolte : Les quantités de minerai récupérées par les Mineurs sont augmentées de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "29",
+      "Avril",
+      "6x Plume de Tofu",
+      "989",
+      "Drop : +50 % sur les Tofus.",
+      ""
+    ],
+    [
+      "30",
+      "Avril",
+      "40x Graine de Pandouille",
+      "4200",
+      "Récolte : Les quantités de Plantes récupérées par les Alchimistes sont augmentées de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "1",
+      "Mai",
+      "2x Capsule Explosive",
+      "1517",
+      "Métier : +50% EXP pour tous les métiers. Pour chaque Fée d'Artifice fabriquée, les personnages ont 25 % de chances de créer une seconde Fée et 15 % de chances d'économiser des ingrédients. Ils peuvent aussi récupérer 2 fois plus de Capsules Explosives en combattant des Bworks Mages.",
+      "Indispensable"
+    ],
+    [
+      "2",
+      "Mai",
+      "1x Langue de Champodonte",
+      "17240",
+      "EXP : +100 % dans le Temple du Grand Ougah.",
+      ""
+    ],
+    [
+      "3",
+      "Mai",
+      "4x Croupion de Truchmuche",
+      "8510",
+      "EXP et Drop : +75% sur les challenges dans toutes les zones sous anomalie temporelle. +25% d'EXP et de drop dans le Cirque de Cania (Truches)",
+      ""
+    ],
+    [
+      "4",
+      "Mai",
+      "6x Longue-vue de Gob-Trotteur",
+      "989",
+      "Drop : +50 % sur les Gobelins d'Amakna.",
+      ""
+    ],
+    [
+      "5",
+      "Mai",
+      "6x Fragment de Pierre Pointue",
+      "2748",
+      "Challenge : Deux challenges au lieu d'un dans les Plaines Rocheuses.",
+      ""
+    ],
+    [
+      "6",
+      "Mai",
+      "40x Bois d'Érable",
+      "2001",
+      "Récolte : +125% de Bombu et d'Érable (Bûcherons)",
+      ""
+    ],
+    [
+      "7",
+      "Mai",
+      "1x Dent de Klémort",
+      "21990",
+      "Challenge: +150 % dans la Tour de Solar et la Tour de Bethel.",
+      ""
+    ],
+    [
+      "8",
+      "Mai",
+      "20x Pomme de Terre",
+      "197",
+      "Une quête répétable spéciale est disponible aujourd'hui près du château d'Amakna. Réalisable à partir du niveau 20, elle est indépendante de la quête d'offrande.",
+      "Indispensable"
+    ],
+    [
+      "9",
+      "Mai",
+      "1x Sac du Petit Récolteur",
+      "2001",
+      "Récolte : La vitesse d'apparition des ressources de tous types est augmentée de 100 %. De plus, les récolteurs peuvent récupérer des Fleurs de Rosal ou des Fringales de Silouate en affrontant les Protecteurs de ressources.",
+      "Indispensable"
+    ],
+    [
+      "10",
+      "Mai",
+      "6x Pic de Dragodinde",
+      "2462",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos turquoise donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Mai",
+      "1x Fiole à élément",
+      "5981",
+      "Métier : Les chances de transformer une arme via une potion de forgemagie élémentaire sont doublées.",
+      "Indispensable"
+    ],
+    [
+      "12",
+      "Mai",
+      "50x Malt",
+      "4200",
+      "Récolte : +125% de Malt (Paysans)",
+      ""
+    ],
+    [
+      "13",
+      "Mai",
+      "1x Dédicace de Skeunk pour Émeraude",
+      "8400",
+      "Challenge : +150% dans le Repaire de Skeunk.",
+      ""
+    ],
+    [
+      "14",
+      "Mai",
+      "1x Bouclier de Bowisse",
+      "4529",
+      "Métier : La qualité des objets fabriqués dans le village et la forêt d'Amakna est augmentée.",
+      "Indispensable"
+    ],
+    [
+      "15",
+      "Mai",
+      "2x Collier de Khan Karkass",
+      "769",
+      "Des Boufballes Surprises ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des Bouf'gommes de différents parfums.",
+      ""
+    ],
+    [
+      "16",
+      "Mai",
+      "40x Belladone",
+      "7190",
+      "Récolte : La vitesse d'apparition des fleurs et des plantes cueillies par les Alchimistes est augmentée de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "17",
+      "Mai",
+      "1x Étoffe du Roissingue",
+      "21154",
+      "Drop : +50 % sur les Monstres des Tourbières.",
+      ""
+    ],
+    [
+      "18",
+      "Mai",
+      "3x Pollen de Bulbiflore",
+      "6662",
+      "EXP & Drop : Drop +100% par un Percepteur sous une anomalie temporelle. +25% EXP et Drop à Plantala.",
+      ""
+    ],
+    [
+      "19",
+      "Mai",
+      "30x Étain",
+      "2990",
+      "Récolte : +125% d'Étain et de Silicate (Mineurs)",
+      ""
+    ],
+    [
+      "20",
+      "Mai",
+      "2x Cawotte",
+      "1407",
+      "Une quête répétable spéciale est disponible aujourd'hui à l'est de l'atelier des bûcherons de la forêt d'Amakna. ",
+      "Indispensable"
+    ],
+    [
+      "21",
+      "Mai",
+      "1x Capouze des Champs",
+      "769",
+      "Métier : +50% EXP pour les métiers de fabrication de vêtements et de parures (Bijoutier, Cordonnier et Tailleur).",
+      "Indispensable"
+    ],
+    [
+      "22",
+      "Mai",
+      "1x Sac du Petit Aventurier",
+      "2352",
+      "EXP : +100% EXP pour toutes les quêtes.",
+      "Indispensable"
+    ],
+    [
+      "23",
+      "Mai",
+      "40x Brochet",
+      "2001",
+      "Récolte : +125% de Brochet, de Perche et de Lotte (Pêcheurs)",
+      ""
+    ],
+    [
+      "24",
+      "Mai",
+      "40x Seigle",
+      "2990",
+      "Récolte : La vitesse d'apparition des ressources est augmentée de 150 % dans les Champs de Cania (Paysan)",
+      ""
+    ],
+    [
+      "25",
+      "Mai",
+      "5x Duvet du Kilibriss",
+      "13391",
+      "EXP : +75 % dans les Plaines Herbeuses (Otomai)",
+      ""
+    ],
+    [
+      "26",
+      "Mai",
+      "4x Corne de Gamino",
+      "8927",
+      "Challenge : Deux challenges au lieu d'un dans le Labyrinthe du Minotoror.",
+      ""
+    ],
+    [
+      "27",
+      "Mai",
+      "2x Tanche en Matelote",
+      "17987",
+      "Métier : Les Pêcheurs ont 25 % de chances de créer un second objet gratuitement.",
+      "Indispensable"
+    ],
+    [
+      "28",
+      "Mai",
+      "6x Viande Sanguinolente",
+      "3980",
+      "Récolte : +125% de Viande Sanguinolente (Chasseurs)",
+      ""
+    ],
+    [
+      "29",
+      "Mai",
+      "6x Miséricorde du Chafer d'Élite",
+      "1517",
+      "EXP : +75 % dans les Cimetières des Torturés (Sidimote) et des Héros (Cania)",
+      ""
+    ],
+    [
+      "30",
+      "Mai",
+      "3x Rune Pui",
+      "769",
+      "Métier : Les Forgemages ont 15 % de chances de ne pas consumer une rune.",
+      "Indispensable"
+    ],
+    [
+      "31",
+      "Mai",
+      "3x Lamelle de Dramanite",
+      "17987",
+      "Drop : +100 % dans l'Antre du Korriandre.",
+      ""
+    ],
+    [
+      "1",
+      "Juin",
+      "6x Pince de Crabe",
+      "1517",
+      "Challenge : Deux challenges au lieu d'un sur les Monstres des plages.",
+      ""
+    ],
+    [
+      "2",
+      "Juin",
+      "2x Biscotte",
+      "3980",
+      "Drop : Des Sébiles d'Elgero ont été ajoutées aux butins des monstres des donjons. Lorsqu'elles sont utilisées, elles font disparaître les kamas... et permettent de bénéficier d'un effet aléatoire de charité bien ordonnée.",
+      "Indispensable"
+    ],
+    [
+      "3",
+      "Juin",
+      "6x Graine de la Discorde",
+      "1231",
+      "Drop : +200% pour les Percepteurs dans les donjons de niveaux 40 à 70.",
+      ""
+    ],
+    [
+      "4",
+      "Juin",
+      "1x Bouclier du Bouftou",
+      "1165",
+      "Métier / Archimonstre : Les protecteurs de ressources ont 5 fois plus de chances d'apparaître. La vitesse d'apparition des Archimonstres est augmentée de 200 %.",
+      "Indispensable"
+    ],
+    [
+      "5",
+      "Juin",
+      "2x Coquille de Virustine",
+      "21990",
+      "EXP : +50 % sur les Krobes (Zone Baleine)",
+      ""
+    ],
+    [
+      "6",
+      "Juin",
+      "2x Œil de Cycloïde",
+      "21990",
+      "Drop : +100 % dans le Donjon du Comte Harebourg.",
+      ""
+    ],
+    [
+      "7",
+      "Juin",
+      "2x Griffe de Blérauve",
+      "19944",
+      "EXP : +50 % sur les créatures de type Bléro (Crocs de Verre)",
+      ""
+    ],
+    [
+      "8",
+      "Juin",
+      "6x Roue de Tivelo",
+      "4551",
+      "EXP & Drop : +100 % d'EXP pour les montures sous anomalie temporelle. +25% EXP et Drop dans la Route des Roulottes",
+      ""
+    ],
+    [
+      "9",
+      "Juin",
+      "40x Orchidée Freyesque",
+      "2001",
+      "Récolte : +125% d'Orchidée Freyesque (Alchimistes)",
+      ""
+    ],
+    [
+      "10",
+      "Juin",
+      "6x Lait de Dragodinde",
+      "2462",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos amande donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Juin",
+      "1x Bouteille de Bouchonnois",
+      "21990",
+      "Drop : +100 % dans le Camp du Comte Razof (donjon de Nimotopia)",
+      ""
+    ],
+    [
+      "12",
+      "Juin",
+      "1x Sang de Harpo",
+      "21990",
+      "Challenge : +150 % dans l'Aquadôme de Merkator",
+      ""
+    ],
+    [
+      "13",
+      "Juin",
+      "40x Bois de Bambou",
+      "3562",
+      "Récolte : +125% de Bambou (Bûcherons)",
+      ""
+    ],
+    [
+      "14",
+      "Juin",
+      "1x Clef des Champs",
+      "769",
+      "Métier : Ecocraft de 15 % pour les Bricoleurs",
+      "Indispensable"
+    ],
+    [
+      "15",
+      "Juin",
+      "6x Coccyx du Corailleur",
+      "1407",
+      "EXP : +100 % dans la Grotte Hesque",
+      ""
+    ],
+    [
+      "16",
+      "Juin",
+      "6x Coquille de Dragoeuf Ardoise",
+      "2836",
+      "Challenge : Deux challenges au lieu d'un sur la Presqu'île des Dragoeufs.",
+      ""
+    ],
+    [
+      "17",
+      "Juin",
+      "6x Racine d'Abraknyde",
+      "1407",
+      "Challenge : +125 % sur les Abraknydiens (Monstres BL uniquement)",
+      ""
+    ],
+    [
+      "18",
+      "Juin",
+      "30x Cendrepierre",
+      "8993",
+      "Récolte : +125% de Cendrepierre (Mineurs)",
+      ""
+    ],
+    [
+      "19",
+      "Juin",
+      "4x Peau de Crachefoux",
+      "10599",
+      "Drop : +75 % dans la zone de Feudala",
+      ""
+    ],
+    [
+      "20",
+      "Juin",
+      "50x Blé",
+      "197",
+      "Récolte : +125% de Blé (Paysans)",
+      ""
+    ],
+    [
+      "21",
+      "Juin",
+      "6x Tambour de Gobaladée",
+      "395",
+      "Les amateurs de musique peuvent récupérer deux fois plus de pollenectar sur les créatures du Monde des Douze (hors dimensions, zones sous-marines et intérieurs).",
+      "Indispensable"
+    ],
+    [
+      "22",
+      "Juin",
+      "6x Pince de Crustorail",
+      "1297",
+      "Challenge : Deux challenges au lieu d'un dans la zone Plage de Corail (Otomai)",
+      ""
+    ],
+    [
+      "23",
+      "Juin",
+      "1x Appendice Démoniaque",
+      "21990",
+      "EXP : +50 % sur les Possédés (Zone Kabahal)",
+      ""
+    ],
+    [
+      "24",
+      "Juin",
+      "1x Peau de Larve Champêtre",
+      "2396",
+      "Drop : +50 % sur les Animaux des champs (Cania)",
+      ""
+    ],
+    [
+      "25",
+      "Juin",
+      "1x Eau Ferrugineuse",
+      "395",
+      "Récolte : La vitesse d'apparition des ressources est augmentée de 150 % dans la zone de la Mine Istairameur (Temple Sadida d'Amakna)",
+      ""
+    ],
+    [
+      "26",
+      "Juin",
+      "1x Bouclier Volant",
+      "769",
+      "Métier : La qualité des objets fabriqués sur l'île de Pandala est augmentée.",
+      "Indispensable"
+    ],
+    [
+      "27",
+      "Juin",
+      "2x Tentacule de Grofond",
+      "21990",
+      "Drop : +100% dans le Temple de Koutoulou",
+      ""
+    ],
+    [
+      "28",
+      "Juin",
+      "2x Grenat de Momistik",
+      "21990",
+      "Challenge & EXP & Drop : +75% de bonus en challenge sous anomalie temporelle. +25% EXP et DROP dans la Pyramide Maudite (Saharach)",
+      ""
+    ],
+    [
+      "29",
+      "Juin",
+      "2x Viande Noire",
+      "19944",
+      "Récolte : +125% de Viande Gâtée et de Viande Noire (Chasseurs)",
+      ""
+    ],
+    [
+      "30",
+      "Juin",
+      "6x Bonnet de Gobaliste",
+      "989",
+      "EXP : +100% dans l'Akadémie des Gobs.",
+      ""
+    ],
+    [
+      "1",
+      "Juillet",
+      "5x Écaille de Dragoss Charbon",
+      "5563",
+      "Drop : +50 % sur les Dragoss (Village des Dragoeufs uniquement)",
+      ""
+    ],
+    [
+      "2",
+      "Juillet",
+      "1x Œuf de Tofubine",
+      "7762",
+      "Challenge : +150% dans le Tofulailler Royal (Niveau 130)",
+      ""
+    ],
+    [
+      "3",
+      "Juillet",
+      "3x Potion Raide Dite",
+      "747",
+      "Métier : Ecocraft de 15% pour les Alchimistes",
+      "Indispensable"
+    ],
+    [
+      "4",
+      "Juillet",
+      "4x Friture Amaknéenne",
+      "3584",
+      "Songes & Drop & EXP : +200% de Points de rêve en Songes infinis. +50% EXP et drop en Amakna.",
+      "Indispensable"
+    ],
+    [
+      "5",
+      "Juillet",
+      "2x Poils magiques de Tanuki",
+      "9191",
+      "Drop : +100 % dans l'Atelier du Tanukouï San.",
+      ""
+    ],
+    [
+      "6",
+      "Juillet",
+      "40x Truite",
+      "197",
+      "Récolte : +125% de Goujon et de Truite (Pêcheurs)",
+      ""
+    ],
+    [
+      "7",
+      "Juillet",
+      "50x Maïs",
+      "7190",
+      "Récolte : +125% Maïs et de Millet (Paysans)",
+      ""
+    ],
+    [
+      "8",
+      "Juillet",
+      "2x Nœud de Marin",
+      "4551",
+      "EXP : +50% sur les Pirates de Moon.",
+      ""
+    ],
+    [
+      "9",
+      "Juillet",
+      "2x Rune Pod",
+      "769",
+      "Métier : Les Cordomages ont 15 % de chances de ne pas consumer une rune.",
+      "Indispensable"
+    ],
+    [
+      "10",
+      "Juillet",
+      "1x Arc Sifflant",
+      "769",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos prune donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Juillet",
+      "30x Bauxite",
+      "5585",
+      "Récolte : +125% de Bauxite (Mineurs)",
+      ""
+    ],
+    [
+      "12",
+      "Juillet",
+      "2x Poils de barbe de Barbélier",
+      "21990",
+      "Challenge : Deux challenges au lieu d'un sur les Nimbos du Clan Martegel.",
+      ""
+    ],
+    [
+      "13",
+      "Juillet",
+      "2x Eau de Kwapa",
+      "9191",
+      "Drop : +100 % dans la Vallée de la Dame des eaux (Akwadala)",
+      ""
+    ],
+    [
+      "14",
+      "Juillet",
+      "6x Chaînes Brisées",
+      "1517",
+      "EXP : +75% lors des combats du Kolizéum.",
+      ""
+    ],
+    [
+      "15",
+      "Juillet",
+      "2x Viande Goûtue",
+      "21990",
+      "Récolte : +125% de Viande Goûtue (Chasseurs)",
+      ""
+    ],
+    [
+      "16",
+      "Juillet",
+      "2x Boue Vénérable",
+      "16866",
+      "Anomalies & EXP & Drop : +50% drop sous anomalie temporelle. +25% EXP et dans les forêts de Vulkania (Cratères exclus)",
+      ""
+    ],
+    [
+      "17",
+      "Juillet",
+      "6x Peau de Larve Verte",
+      "395",
+      "EXP : +75 % dans les Prairies d'Astrub",
+      ""
+    ],
+    [
+      "18",
+      "Juillet",
+      "1x Mauvaise Pioche",
+      "395",
+      "Pour chaque rune obtenue en brisant des objets, les concasseurs ont 10 % de chances de créer une seconde rune.",
+      "Indispensable"
+    ],
+    [
+      "19",
+      "Juillet",
+      "1x Peau de Trithon",
+      "21990",
+      "EXP : +100 % dans le Palais de Dantinea",
+      ""
+    ],
+    [
+      "20",
+      "Juillet",
+      "1x Huile de Tournesol Sauvage",
+      "769",
+      "Récolte : La vitesse d'apparition des céréales récoltées par les Paysans est augmentée de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "21",
+      "Juillet",
+      "1x Fragment de pépite de Sakaï",
+      "18955",
+      "Drop : +50 % sur les Gobelins de Sakaï.",
+      ""
+    ],
+    [
+      "22",
+      "Juillet",
+      "3x Sardine à l'Étouffée",
+      "3144",
+      "EXP : +75 % dans le Port de givre et la Bourgade de Frigost",
+      ""
+    ],
+    [
+      "23",
+      "Juillet",
+      "1x Chacha",
+      "747",
+      "+50% d'EXP pour les familiers",
+      "Indispensable"
+    ],
+    [
+      "24",
+      "Juillet",
+      "10x Bois d'Orme",
+      "8993",
+      "Récolte : +125% de Bambou Sacré et d'Orme (Bûcherons)",
+      ""
+    ],
+    [
+      "25",
+      "Juillet",
+      "3x Furoncle de la Mama Bwork",
+      "17240",
+      "Challenges : +150% dans la zone de Gisgoul.",
+      ""
+    ],
+    [
+      "26",
+      "Juillet",
+      "3x Pic de Malépik",
+      "12116",
+      "Challenge : Deux challenges au lieu d'un dans l'Orée enchantée et le Dédale du Dark Vlad (Forêt Maléfique)",
+      ""
+    ],
+    [
+      "27",
+      "Juillet",
+      "6x Boulette de Viande",
+      "593",
+      "Récolte : +125% de Viande Hachée et de Viande Faisandée (Chasseurs)",
+      ""
+    ],
+    [
+      "28",
+      "Juillet",
+      "4x Lame brisée de Lichangoro",
+      "10599",
+      "EXP : +100 % dans le Dojo du Vent (Aerdala)",
+      ""
+    ],
+    [
+      "29",
+      "Juillet",
+      "2x Jus de Cacterre",
+      "9191",
+      "Drop : +100 % dans la Caverne d'El Piko.",
+      ""
+    ],
+    [
+      "30",
+      "Juillet",
+      "3x Cuir de Boostache Prépubère",
+      "989",
+      "Drop & EXP : +100% dans le donjon de la Maison Fantôme. Leonzi Trool attend les aventuriers à la Foire du Trool. Sa bénédiction permet de trooller à tout va (bonus d'initiative et coups critiques durant 15 combats).",
+      "Indispensable"
+    ],
+    [
+      "31",
+      "Juillet",
+      "2x Flèche de Crâmbo",
+      "19153",
+      "EXP : +50 % sur les Chassouilleurs (Nimotopia)",
+      ""
+    ],
+    [
+      "1",
+      "Août",
+      "40x Sauge",
+      "197",
+      "Récolte : +125% de Sauge (Alchimistes)",
+      ""
+    ],
+    [
+      "2",
+      "Août",
+      "4x Plume de Truchideur",
+      "8400",
+      "Challenge : +125% sur les Truches",
+      ""
+    ],
+    [
+      "3",
+      "Août",
+      "3x Potion de cité : Bonta",
+      "5981",
+      "Une quête répétable spéciale est disponible aujourd'hui au sud des portes de Bonta. Réalisable à partir du niveau 20, elle est indépendante de la quête d'offrande.",
+      "Indispensable"
+    ],
+    [
+      "4",
+      "Août",
+      "4x Cendres Matures",
+      "8400",
+      "Drop : +100 % dans le Cratère Minus (Donjons de Vulkania)",
+      ""
+    ],
+    [
+      "5",
+      "Août",
+      "10x Poisskaille",
+      "10995",
+      "Récolte : +200% de Poisskaille (Pêcheurs)",
+      ""
+    ],
+    [
+      "6",
+      "Août",
+      "6x Crème à bronzer",
+      "329",
+      "Challenge : Deux challenges au lieu d'un dans les Calanques d'Astrub.",
+      ""
+    ],
+    [
+      "7",
+      "Août",
+      "3x Racine de Tronkoblop",
+      "2111",
+      "Challenges : +150 % dans l'Antre du Blop Multicolore Royal.",
+      ""
+    ],
+    [
+      "8",
+      "Août",
+      "1x Aluminite",
+      "395",
+      "Métier : Ecocraft de 15% pour les Mineurs",
+      "Indispensable"
+    ],
+    [
+      "9",
+      "Août",
+      "6x Pétale de Tournesol Sauvage",
+      "395",
+      "Drop : +50 % sur les Plantes des champs (Astrub)",
+      ""
+    ],
+    [
+      "10",
+      "Août",
+      "1x Mangeoire en Frêne",
+      "6355",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos capables de se reproduire donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Août",
+      "3x Kapokaza",
+      "15436",
+      "Drop : +75 % dans le Mont des Tombeaux (Grobe)",
+      ""
+    ],
+    [
+      "12",
+      "Août",
+      "4x Viande de Brousse",
+      "12732",
+      "Récolte : +125% de Viande Macérée et de Viande de Brousse (Chasseurs)",
+      ""
+    ],
+    [
+      "13",
+      "Août",
+      "2x Flaque Vénérable",
+      "16866",
+      "Challenge : Deux challenges au lieu d'un sur tous les monstres de Vulkania.",
+      ""
+    ],
+    [
+      "14",
+      "Août",
+      "1x Œil de Crocodaille albinos",
+      "21990",
+      "Challenge : +125 % sur les Crocodailles de Crocuzko.",
+      ""
+    ],
+    [
+      "15",
+      "Août",
+      "6x Paupière d'Étoile",
+      "1517",
+      "EXP & Drop : Les gains d'expérience, les chances d'obtenir du butin et le butin généré par les Percepteurs sont augmentés de 100 % sous anomalie temporelle.",
+      ""
+    ],
+    [
+      "16",
+      "Août",
+      "40x Ginseng",
+      "5585",
+      "Récolte : +125% de Ginseng et de Graines de Pandouille (Alchimistes)",
+      ""
+    ],
+    [
+      "17",
+      "Août",
+      "30x Bronze",
+      "593",
+      "Récolte : +125% de Bronze (Mineurs)",
+      ""
+    ],
+    [
+      "18",
+      "Août",
+      "2x Corne de Typhomet",
+      "21990",
+      "Drop : +50% sur les Ravageurs (Cauchemar)",
+      ""
+    ],
+    [
+      "19",
+      "Août",
+      "1x Bottes de Satisfaction",
+      "769",
+      "Métier : La qualité des objets fabriqués dans la ville d'Astrub est augmentée.",
+      "Indispensable"
+    ],
+    [
+      "20",
+      "Août",
+      "6x Viande Avariée",
+      "3144",
+      "Récolte : +125% de Viande Ladre et de Viande Avariée (Chasseurs)",
+      ""
+    ],
+    [
+      "21",
+      "Août",
+      "1x Terre Stérile",
+      "21990",
+      "Challenge : +150 % dans les 4 donjons de l'Eliocalypse (Arbre, Blessures, Désert et Sentence).",
+      ""
+    ],
+    [
+      "22",
+      "Août",
+      "40x Morue",
+      "8070",
+      "Récolte : +125% de Morue et d'Espadon (Pêcheurs)",
+      ""
+    ],
+    [
+      "23",
+      "Août",
+      "2x Poils de Boulglours",
+      "19944",
+      "Drop : +75 % dans le Mont Torrideau et la Ruche des Gloursons.",
+      ""
+    ],
+    [
+      "24",
+      "Août",
+      "3x Pustule de Rat Sio",
+      "6662",
+      "EXP : +100% dans la Sousouricière du Rat Noir.",
+      ""
+    ],
+    [
+      "25",
+      "Août",
+      "50x Millet",
+      "8993",
+      "Récolte : Les quantités de céréales récupérées par les Paysans de tous niveaux sont augmentées de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "26",
+      "Août",
+      "1x Collier d'esclave",
+      "21990",
+      "Drop : +100% pour les Percepteurs dans les donjons de niveau 200.",
+      ""
+    ],
+    [
+      "27",
+      "Août",
+      "40x Requin Marteau-Faucille",
+      "6377",
+      "Récolte : +125% de Raie Bleue et de Requin Marteau-Faucille (Pêcheurs)",
+      ""
+    ],
+    [
+      "28",
+      "Août",
+      "40x Bois de Noyer",
+      "593",
+      "Récolte : +125% de bois de Noyer (Bûcherons)",
+      ""
+    ],
+    [
+      "29",
+      "Août",
+      "6x Fleur de Blopignon",
+      "2111",
+      "Drop : +100% dans le donjon du Clos des Blops.",
+      ""
+    ],
+    [
+      "30",
+      "Août",
+      "1x Peau de Don Dorgan",
+      "5981",
+      "Challenges : +125% sur les Porcos.",
+      ""
+    ],
+    [
+      "31",
+      "Août",
+      "4x Rune Ré Eau",
+      "769",
+      "Métier : Les Costumages ont 15 % de chances de ne pas consumer une rune",
+      ""
+    ],
+    [
+      "1",
+      "Septembre",
+      "2x Épine d'Armuguet",
+      "21990",
+      "EXP : +100% dans la Chambre des maléfices (Belladone)",
+      ""
+    ],
+    [
+      "2",
+      "Septembre",
+      "4x Potion de Mini Soin Supérieure",
+      "395",
+      "La régénération des Points de Vie est augmentée de 300 % (hors combat), et les soins par consommables (vie et énergie) sont augmentés de 100 %.",
+      ""
+    ],
+    [
+      "3",
+      "Septembre",
+      "1x Pétale d'encre",
+      "21990",
+      "Drop : +50% sur les Yokianzhi d'encre et Yokianzhi de papier",
+      ""
+    ],
+    [
+      "4",
+      "Septembre",
+      "1x Planche Contreplaquée",
+      "395",
+      "Métier : Les Bûcherons ont 10 % de chances de créer un second objet.",
+      "Indispensable"
+    ],
+    [
+      "5",
+      "Septembre",
+      "4x Plume du Serpiplume",
+      "8927",
+      "Challenge : +150% dans la zone et le donjon du Labyrinthe du Minotoror (et son centre).",
+      ""
+    ],
+    [
+      "6",
+      "Septembre",
+      "5x Poil de Renarbo",
+      "6662",
+      "EXP : +50% sur les Corbacs.",
+      ""
+    ],
+    [
+      "7",
+      "Septembre",
+      "4x Sépale de Nerbe",
+      "10027",
+      "Challenge : Deux challenges au lieu d'un pour la Florifaune obscure (Jungle d'Otomai)",
+      ""
+    ],
+    [
+      "8",
+      "Septembre",
+      "10x Écume de mer",
+      "10995",
+      "Récolte : La vitesse d'apparition des ressources est augmentée de 150 % dans les Profondeurs/Abysses de Sufokia.",
+      ""
+    ],
+    [
+      "9",
+      "Septembre",
+      "6x Trident Cassé",
+      "1517",
+      "EXP : +75% dans la Plaine des Porkass.",
+      ""
+    ],
+    [
+      "10",
+      "Septembre",
+      "1x Aile de Dragodinde",
+      "2462",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos ébène ainsi que de volkornes améthyste donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Septembre",
+      "4x Sueur de dragodinde",
+      "3628",
+      "EXP : +75% dans le Territoire des Dragodindes Sauvages.",
+      ""
+    ],
+    [
+      "12",
+      "Septembre",
+      "6x Flamme Spectrale",
+      "1517",
+      "Les récompenses en points d'expérience des quêtes d'alignement sont augmentées de 100 %. De plus, une quête répétable spéciale est disponible aujourd'hui à l'intérieur des milices de Bonta ou de Brâkmar. ",
+      ""
+    ],
+    [
+      "13",
+      "Septembre",
+      "50x Lin",
+      "2001",
+      "Récolte : +125% de Lin (Paysans)",
+      ""
+    ],
+    [
+      "14",
+      "Septembre",
+      "6x Sueur Froide de Fantôme",
+      "1517",
+      "EXP & Drop : +50% d'EXP sous anomalie temporelle. +25% d'EXP et de Drop dans la Bordure de Brâkmar.",
+      ""
+    ],
+    [
+      "15",
+      "Septembre",
+      "2x Bractée de Drosérâle",
+      "21990",
+      "Challenge : +150 % dans le donjon du Laboratoire de Nileza.",
+      ""
+    ],
+    [
+      "16",
+      "Septembre",
+      "1x Carapace de Ver des Sables",
+      "15436",
+      "Drop : +75 % dans la Gorge des Vents Hurlants et la Cité Oubliée (Vers de Saharach)",
+      ""
+    ],
+    [
+      "17",
+      "Septembre",
+      "1x Substrat de Buisson",
+      "1165",
+      "Récolte : La vitesse d'apparition des ressources est augmentée de 150 % dans la Forêt d'Amakna.",
+      ""
+    ],
+    [
+      "18",
+      "Septembre",
+      "9x Os de Chafer",
+      "989",
+      "EXP : +100 % dans le Donjon des Squelettes.",
+      ""
+    ],
+    [
+      "19",
+      "Septembre",
+      "6x Rhum de Qualité",
+      "4551",
+      "EXP & Drop : +50% sur tous les monstres considérés comme des pirates (Berceau d'Alma, Moon, Otomai, ...)",
+      ""
+    ],
+    [
+      "20",
+      "Septembre",
+      "4x Mijoté Récréatif",
+      "21594",
+      "Récolte : +125% de Viande Fraîche et de Viande Maigre (Chasseurs)",
+      ""
+    ],
+    [
+      "21",
+      "Septembre",
+      "1x Épée d'Ha",
+      "769",
+      "Métier : La qualité des objets fabriqués dans la ville de Brâkmar est augmentée.",
+      ""
+    ],
+    [
+      "22",
+      "Septembre",
+      "2x Sable Fin",
+      "3980",
+      "Challenge : Deux challenges au lieu d'un dans les Dunes des ossements (Saharach)",
+      ""
+    ],
+    [
+      "23",
+      "Septembre",
+      "1x Crinière fleurie",
+      "5981",
+      "Drop : +50% sur les créatures Herboricoles (Monstres des Plaines d'Otomai)",
+      ""
+    ],
+    [
+      "24",
+      "Septembre",
+      "3x Pépite",
+      "1495",
+      "Drop : +200% pour les Percepteurs dans tous les donjons.",
+      ""
+    ],
+    [
+      "25",
+      "Septembre",
+      "3x Crabe Surprise",
+      "945",
+      "Des Présents surprenants ont été ajoutés aux butins des monstres des donjons. Lorsqu'ils sont utilisés, ils permettent d'obtenir une bonne ou mauvaise surprise.",
+      ""
+    ],
+    [
+      "26",
+      "Septembre",
+      "30x Obsidienne",
+      "10995",
+      "Récolte : +125% de Dolomite et d'Obsidienne (Mineurs)",
+      ""
+    ],
+    [
+      "27",
+      "Septembre",
+      "1x Tresse du Poolay",
+      "10599",
+      "EXP : +100% dans la Canopée du Kimbo.",
+      ""
+    ],
+    [
+      "28",
+      "Septembre",
+      "1x Arc Déroutant",
+      "769",
+      "Des Coffres de Sad peuvent être gagnés à la fin des chasses aux trésors.",
+      ""
+    ],
+    [
+      "29",
+      "Septembre",
+      "3x Mât de Fantômat",
+      "12732",
+      "Challenge : +125% sur les fantômes de l'Équipage du Grolandais (Ben le Ripate).",
+      ""
+    ],
+    [
+      "30",
+      "Septembre",
+      "1x Dent en Or de Craqueleur",
+      "2836",
+      "Drop : +100% dans les Pitons rocheux des Craqueleurs (Craqueleur Légendaire).",
+      ""
+    ],
+    [
+      "1",
+      "Octobre",
+      "2x Aquarakne de Crânonier",
+      "21990",
+      "EXP : +50% sur les zombies de la Fratrie des Oubliés : les Calcinés et les Submergés.",
+      ""
+    ],
+    [
+      "2",
+      "Octobre",
+      "40x Bois de Pin",
+      "2462",
+      "Récolte : +125% de Bois de Pin et de Bois d'Oliviolet (Bûcherons)",
+      ""
+    ],
+    [
+      "3",
+      "Octobre",
+      "1x Arc Holic",
+      "769",
+      "Une quête répétable spéciale est disponible aujourd'hui près de la fontaine du village d'Amakna. ",
+      "Indispensable"
+    ],
+    [
+      "4",
+      "Octobre",
+      "2x Pom de Pin",
+      "1517",
+      "Challenge : Deux challenges au lieu d'un dans la Futaie enneigée (Albuera)",
+      ""
+    ],
+    [
+      "5",
+      "Octobre",
+      "40x Kralamoure",
+      "2462",
+      "Récolte : +125% de Poisson Pané, de Sardine Brillante -Pêcheurs)",
+      ""
+    ],
+    [
+      "6",
+      "Octobre",
+      "4x Étamine de Floribonde",
+      "10445",
+      "Drop : +100% dans le Laboratoire du Tynril.",
+      ""
+    ],
+    [
+      "7",
+      "Octobre",
+      "1x Pic de Ravageur",
+      "21990",
+      "EXP : +75% dans le Cauchemar des Ravageurs.",
+      ""
+    ],
+    [
+      "8",
+      "Octobre",
+      "5x Viande Saignante",
+      "8400",
+      "Récolte : Les quantités de viande récupérées par les Chasseurs sont augmentées de 100 %.",
+      ""
+    ],
+    [
+      "9",
+      "Octobre",
+      "4x Poils de Pétartifoux",
+      "10599",
+      "Challenge : Deux challenges au lieu d'un sur les Firefoux (Feudala)",
+      ""
+    ],
+    [
+      "10",
+      "Octobre",
+      "6x Dent de Dragodinde",
+      "2836",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos ivoire donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Octobre",
+      "1x Kolérat Mort",
+      "2836",
+      "Drop : +75% dans la Désolation de Sidimote.",
+      ""
+    ],
+    [
+      "12",
+      "Octobre",
+      "5x Tige de Bambouto",
+      "6662",
+      "EXP et Drop : +50 % dans toutes les zones des dimensions divines.",
+      "Indispensable"
+    ],
+    [
+      "13",
+      "Octobre",
+      "4x Concombre",
+      "9191",
+      "EXP : +50 % sur les Kwapa (Akwadala)",
+      ""
+    ],
+    [
+      "14",
+      "Octobre",
+      "4x Parmentier à l'Oignon",
+      "4705",
+      "Elevage : Les gains d'expérience des montures sont augmentés de 200 %.",
+      ""
+    ],
+    [
+      "15",
+      "Octobre",
+      "50x Chanvre",
+      "197",
+      "Récolte : +125% de Chanvre (Paysans)",
+      ""
+    ],
+    [
+      "16",
+      "Octobre",
+      "5x Corne du Boufcoul",
+      "5563",
+      "EXP : +100 % dans la Caverne du Koulosse.",
+      ""
+    ],
+    [
+      "17",
+      "Octobre",
+      "40x Bois de Noisetier",
+      "4859",
+      "Récolte : +125%% de Bois de Noisetier et de Bois de Merisier (Bûcherons)",
+      ""
+    ],
+    [
+      "18",
+      "Octobre",
+      "3x Plastron de Tambouraï",
+      "13721",
+      "Challenge : +125% sur l'Armée de brume (Grobe)",
+      ""
+    ],
+    [
+      "19",
+      "Octobre",
+      "40x Perche",
+      "4200",
+      "Récolte : La vitesse d'apparition des poissons de tous types est augmentée de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "20",
+      "Octobre",
+      "1x Pétale de Papier",
+      "21990",
+      "EXP : + 100% dans la Mémoire d'Orukam et du Souvenir d'Imagiro (Pandala 3).",
+      ""
+    ],
+    [
+      "21",
+      "Octobre",
+      "4x Poêlée Paysanne",
+      "8993",
+      "Métier : Les quantités d'objets fabriqués par les Chasseurs sont augmentées de 25 %.",
+      ""
+    ],
+    [
+      "22",
+      "Octobre",
+      "30x Silicate",
+      "2990",
+      "Métier : 50% d'EXP pour les Bûcherons, les Mineurs et les Alchimistes.",
+      ""
+    ],
+    [
+      "23",
+      "Octobre",
+      "1x Symbole des Obscuranti",
+      "20142",
+      "EXP et Drop : +50% de drop sous anomalie temporelle. +25% EXP et drop dans la Dimension Obscure (Ombre)",
+      ""
+    ],
+    [
+      "24",
+      "Octobre",
+      "30x Fer",
+      "197",
+      "Récolte : +125% de Fer (Mineurs)",
+      ""
+    ],
+    [
+      "25",
+      "Octobre",
+      "4x Poils de Smilomouth",
+      "8400",
+      "Drop : +50% dans la Forêt des Pins Perdus (Frigost)",
+      ""
+    ],
+    [
+      "26",
+      "Octobre",
+      "9x Dent de Wabbit",
+      "1451",
+      "EXP : +50% sur les créatures de type Wabbits, Wabbits mutants et Gawde du Wa.",
+      ""
+    ],
+    [
+      "27",
+      "Octobre",
+      "1x Bâton Feuillu",
+      "769",
+      "Métier : Ecocraft de 15% pour les Sculpteurs économisent 15 %",
+      "Indispensable"
+    ],
+    [
+      "28",
+      "Octobre",
+      "40x Mandragore",
+      "5585",
+      "Récolte : +125% de Mandragore et de Belladone (Alchimistes)",
+      ""
+    ],
+    [
+      "29",
+      "Octobre",
+      "3x Malléole de Yomi Givrefoux",
+      "16140",
+      "Drop : +75 % dans la Crevasse Perge (Zone Givrefoux)",
+      ""
+    ],
+    [
+      "30",
+      "Octobre",
+      "4x Akaslip d'Akakwa",
+      "9191",
+      "Drop : +200% pour les Percepteurs dans les donjons de niveaux 120 à 150.",
+      ""
+    ],
+    [
+      "31",
+      "Octobre",
+      "6x Poils de Barbe du Bwork Mage",
+      "1517",
+      "Des Surprises de Trikortritt ont été ajoutées aux butins des monstres. Lorsqu'elles sont utilisées, elles permettent d'obtenir des Bonbons d'Halouine ou bien de se retrouver transformé en Petite Chauffe-Soutrille.",
+      ""
+    ],
+    [
+      "1",
+      "Novembre",
+      "1x Slip de Troollaraj",
+      "7762",
+      "EXP & Drop : +50% pour tous les aventuriers qui sont équipés d'un slip.",
+      "Indispensable"
+    ],
+    [
+      "2",
+      "Novembre",
+      "2x Groin de Porkzebuth",
+      "21990",
+      "Drop : +75% dans les zones du Port des Ravageurs et de Pandamonium.",
+      ""
+    ],
+    [
+      "3",
+      "Novembre",
+      "1x Cape Abilité",
+      "769",
+      "Métier : Ecocraft de 15% pour les Tailleurs ",
+      "Indispensable"
+    ],
+    [
+      "4",
+      "Novembre",
+      "1x Fibre criminelle",
+      "2836",
+      "Archimonstre : La vitesse d'apparition des monstres d'Avis de recherche est augmentée de 200 %. .",
+      "Indispensable"
+    ],
+    [
+      "5",
+      "Novembre",
+      "2x Dent de Vatenbière",
+      "21990",
+      "Challenge : +150% dans la Brasserie du roi Dazak (Martegel)",
+      ""
+    ],
+    [
+      "6",
+      "Novembre",
+      "40x Bois de Châtaignier",
+      "197",
+      "Récolte : +125% de Bois de Châtaignier (Bûcherons)",
+      ""
+    ],
+    [
+      "7",
+      "Novembre",
+      "6x Pic de Prespic",
+      "593",
+      "Drop : +50% sur les Animaux de la forêt d'Astrub",
+      ""
+    ],
+    [
+      "8",
+      "Novembre",
+      "2x Patte de Li-Fo",
+      "21990",
+      "EXP : +50 % sur les Serviteurs de l'Indicible (Zone Koutoulou)",
+      ""
+    ],
+    [
+      "9",
+      "Novembre",
+      "6x Foulard du Sparo",
+      "2594",
+      "Challenge: +125% sur les Pirates naufragés et les Pirates de l'Arche d'Otomaï.",
+      ""
+    ],
+    [
+      "10",
+      "Novembre",
+      "40x Goujon",
+      "197",
+      "Elevage : Toutes les variétés de dragodindes, volkornes et muldos orchidée ainsi que de volkornes rubis donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Novembre",
+      "6x Écaille de Crocodaille",
+      "1517",
+      "Miss Triste attend les aventuriers qui veulent se refaire une laideur près de la fontaine du village d'Amakna. Sa bénédiction transforme temporairement en Crocodaille et en Souffre-Douleur (bonus de 50 Puissance et 10 dommages fixes durant 15 combats).",
+      ""
+    ],
+    [
+      "12",
+      "Novembre",
+      "2x Lanterne de Tourthon",
+      "21990",
+      "Drop : +50% sur les Trithons (Zone Dantinéa)",
+      ""
+    ],
+    [
+      "13",
+      "Novembre",
+      "6x Graine de Scorbute",
+      "2836",
+      "Challenge : +150% dans le Laboratoire de Brumen Tinctorias.",
+      ""
+    ],
+    [
+      "14",
+      "Novembre",
+      "4x Rune Vi",
+      "769",
+      "Métier : Les Joaillomages ont 15 % de chances de ne pas consumer une rune",
+      "Indispensable"
+    ],
+    [
+      "15",
+      "Novembre",
+      "1x Leurnettes",
+      "769",
+      "Une quête répétable spéciale est disponible aujourd'hui près de la vieille chapelle d'Astrub. ",
+      "Indispensable"
+    ],
+    [
+      "16",
+      "Novembre",
+      "6x Peau de Ramane d'Égoutant",
+      "2111",
+      "EXP : +50% sur les Rats Strubiens et Maknéens.",
+      ""
+    ],
+    [
+      "17",
+      "Novembre",
+      "5x Viande Séchée",
+      "7146",
+      "Récolte : +125% de Viande séchée (Chasseurs)",
+      ""
+    ],
+    [
+      "18",
+      "Novembre",
+      "1x Patte de la Gardienne des Égouts",
+      "13545",
+      "Challenge : Deux challenges au lieu d'un dans les Canaux Méphitiques et des Entrailles de Brâkmar (Égouts des cités)",
+      ""
+    ],
+    [
+      "19",
+      "Novembre",
+      "1x Substrat de Bocage",
+      "3562",
+      "Métier : Ecocraft de 15% pour les Bûcherons",
+      ""
+    ],
+    [
+      "20",
+      "Novembre",
+      "2x Sang coagulé",
+      "21990",
+      "EXP & Drop : +100% d'EXP sous anomalie temporelle. +25% d'EXP et drop dans les zones (hors donjons) des Cavaliers de l'Eliocalypse.",
+      ""
+    ],
+    [
+      "21",
+      "Novembre",
+      "6x Ailes de Moskito",
+      "395",
+      "EXP : +50% sur les Vermines des champs (Amakna)",
+      ""
+    ],
+    [
+      "22",
+      "Novembre",
+      "3x Griffe de Félygiène",
+      "13391",
+      "Drop : +50 % sur les Kanigs des Dents de Pierre.",
+      ""
+    ],
+    [
+      "23",
+      "Novembre",
+      "2x Fragment d'Ectorche",
+      "21990",
+      "Challenge : +125 % sur les Brûlâmes (Zone Ilyzaelle, Caserne du Jour sans fin)",
+      ""
+    ],
+    [
+      "24",
+      "Novembre",
+      "50x Avoine",
+      "593",
+      "Récolte : +125% d'Avoine (Paysans)",
+      ""
+    ],
+    [
+      "25",
+      "Novembre",
+      "5x Corne de Boufmouth de guerre",
+      "7388",
+      "Challenge : Deux challenges au lieu d'un sur les Boufmouths des Champs de glace.",
+      ""
+    ],
+    [
+      "26",
+      "Novembre",
+      "9x Antennes de Vilinsekt",
+      "989",
+      "Drop : +50 % sur les Vilinsekts.",
+      ""
+    ],
+    [
+      "27",
+      "Novembre",
+      "40x Bois d'If",
+      "6289",
+      "Récolte : +125% de Bois d'If (Bûcherons)",
+      ""
+    ],
+    [
+      "28",
+      "Novembre",
+      "1x Poils de Barbe de Dragodinde",
+      "2836",
+      "Drop : 20 % de chances de générer un second butin dans les donjons.",
+      "Indispensable"
+    ],
+    [
+      "29",
+      "Novembre",
+      "30x Kobalte",
+      "1187",
+      "Récolte : +125% de Kobalte (Mineurs)",
+      ""
+    ],
+    [
+      "30",
+      "Novembre",
+      "3x Laine de Yokaï Givrefoux",
+      "16140",
+      "Challenge : +125 % sur les Givrefoux.",
+      ""
+    ],
+    [
+      "1",
+      "Décembre",
+      "2x Œil de Gouligane",
+      "21990",
+      "EXP : +50 % sur les Goules (Sidimote)",
+      ""
+    ],
+    [
+      "2",
+      "Décembre",
+      "1x Bouclier du tournesol sauvage",
+      "769",
+      "Métier : +50% EXP pour les Bricoleurs, les Forgerons, les Sculpteurs  et les Façonneurs.",
+      ""
+    ],
+    [
+      "3",
+      "Décembre",
+      "4x Peau de Mansobèse",
+      "8642",
+      "Challenge : Deux challenges au lieu d'un dans le Lac Gelé.",
+      ""
+    ],
+    [
+      "4",
+      "Décembre",
+      "40x Bois d'Oliviolet",
+      "2462",
+      "Récolte : Les quantités de Bois récupérées par les Bûcherons sont augmentées de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "5",
+      "Décembre",
+      "6x Casque de Martoa",
+      "593",
+      "EXP : +75% dans la Carrière d'Astrub.",
+      ""
+    ],
+    [
+      "6",
+      "Décembre",
+      "6x Charbon",
+      "2594",
+      "PvP : La quantité de jetons (Ovatons, Kolizétons) gagnée en Kolizéum est augmentée de 100 %.",
+      "Indispensable"
+    ],
+    [
+      "7",
+      "Décembre",
+      "6x Étoffe de Dok Alako",
+      "3474",
+      "Drop : +50 % sur les Koalaks et les Koalaks sauvages.",
+      ""
+    ],
+    [
+      "8",
+      "Décembre",
+      "10x Perce-Neige",
+      "10995",
+      "Récolte : +200% de Perce-Neige (Alchimistes)",
+      ""
+    ],
+    [
+      "9",
+      "Décembre",
+      "2x Poil de Rat Bontarien",
+      "6662",
+      "EXP : +100 % dans le Garde-manger du Rat Blanc.",
+      ""
+    ],
+    [
+      "10",
+      "Décembre",
+      "1x Queue de Dragodinde",
+      "2462",
+      "Toutes les variétés de dragodindes, volkornes et muldos émeraude donnent naissance à un bébé supplémentaire.",
+      ""
+    ],
+    [
+      "11",
+      "Décembre",
+      "2x Pacmabottes",
+      "769",
+      "Métier : Ecocraft de 15% pour les Cordonniers",
+      ""
+    ],
+    [
+      "12",
+      "Décembre",
+      "3x Potion de cité : Brâkmar",
+      "5981",
+      "Une quête répétable spéciale est disponible aujourd'hui près des portes de Brâkmar",
+      "Indispensable"
+    ],
+    [
+      "13",
+      "Décembre",
+      "30x Dolomite",
+      "8993",
+      "Métier : La vitesse d'apparition des minerais de tous types est augmentée de 100 % (Mineurs)",
+      "Indispensable"
+    ],
+    [
+      "14",
+      "Décembre",
+      "1x Paupière Dorée de Rykaon",
+      "21990",
+      "Challenge : +150% dans la Chambre de Tal Kasha.",
+      ""
+    ],
+    [
+      "15",
+      "Décembre",
+      "6x Cuir de Porkass",
+      "1517",
+      "Drop : +75 % dans la plaine des Porkass.",
+      ""
+    ],
+    [
+      "16",
+      "Décembre",
+      "2x Emballage de Nowel Écarlate",
+      "1737",
+      "Challenge : Deux challenges au lieu d'un sur l'île de Nowel.",
+      ""
+    ],
+    [
+      "17",
+      "Décembre",
+      "40x Anguille",
+      "2990",
+      "Récolte : +125% d'Anguille et de Dorade Grise (Pêcheurs)",
+      ""
+    ],
+    [
+      "18",
+      "Décembre",
+      "1x Chance d'Ecaflip",
+      "769",
+      "Challenge : +150% dans tous les donjons.",
+      "Indispensable"
+    ],
+    [
+      "19",
+      "Décembre",
+      "2x Flocon de Neige",
+      "1737",
+      "EXP : +50 % sur les monstres de Nowel.",
+      ""
+    ],
+    [
+      "20",
+      "Décembre",
+      "1x Ebonite",
+      "1187",
+      "Métier : Les Mineurs ont 10 % de chances de créer un second objet gratuitement",
+      "Indispensable"
+    ],
+    [
+      "21",
+      "Décembre",
+      "6x Canine Vampiresque",
+      "989",
+      "Challenge : Deux challenges au lieu dans le Cimetière d'Amakna et les Cryptes du Cimetière.",
+      ""
+    ],
+    [
+      "22",
+      "Décembre",
+      "40x Poisson Pané",
+      "879",
+      "Récolte : La vitesse d'apparition des ressources est augmentée de 150 % dans le Port de Madrestam.",
+      ""
+    ],
+    [
+      "23",
+      "Décembre",
+      "6x Viande Tendre",
+      "1737",
+      "Récolte : +125% de Viande Tendre (Chasseurs)",
+      ""
+    ],
+    [
+      "24",
+      "Décembre",
+      "1x Médaille en Chocolat",
+      "1737",
+      "Chasses : Des Coffres de Milivar peuvent être gagnés à la fin des chasses aux trésors.",
+      ""
+    ],
+    [
+      "25",
+      "Décembre",
+      "4x Joli cadeau de Nowel",
+      "5981",
+      "Drops : Des Cadeaux de Nowel ont été ajoutés sur tous les monstres. ",
+      "Indispensable"
+    ],
+    [
+      "26",
+      "Décembre",
+      "4x Poil de barbe du Shamansot",
+      "9873",
+      "Drop : +100% dans l'Excavation du Mansot Royal.",
+      ""
+    ],
+    [
+      "27",
+      "Décembre",
+      "2x Fronde de Boufronde",
+      "19153",
+      "EXP : +50% sur les Nimbos Marteaux-Aigris (Ereboria)",
+      ""
+    ],
+    [
+      "28",
+      "Décembre",
+      "3x Kaokurimono",
+      "15436",
+      "Drop : +200% pour les Percepteurs dans les donjons de niveaux 160 à 190.",
+      ""
+    ],
+    [
+      "29",
+      "Décembre",
+      "40x Riz",
+      "2990",
+      "Récolte : +125% de Seigle et de Riz (Paysans)",
+      ""
+    ],
+    [
+      "30",
+      "Décembre",
+      "1x Bidule inutile",
+      "1561",
+      "Drop : +50% sur les Automates des Brigandins.",
+      ""
+    ],
+    [
+      "31",
+      "Décembre",
+      "6x Viande Ladre",
+      "2396",
+      "Challenge & EXP & Drop : +75% pour les challenges sous anomalie temporelle. +25% d'EXP et de drop dans la Forêt des Masques (Moon)",
+      ""
+    ]
+  ]
+}

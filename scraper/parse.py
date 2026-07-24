@@ -46,9 +46,9 @@ METIERS = [
     "Bûcherons", "Bûcheron", "Alchimistes", "Alchimiste", "Paysans", "Paysan",
     "Mineurs", "Mineur", "Pêcheurs", "Pêcheur", "Chasseurs", "Chasseur",
     "Forgerons", "Forgeron", "Sculpteurs", "Sculpteur", "Sculptemages",
-    "Façomages", "Cordonniers", "Cordonnier", "Tailleurs", "Tailleur",
-    "Bijoutiers", "Bijoutier", "Joaillomages", "Bricoleurs", "Bricoleur",
-    "Costumages", "Forgemages", "Cordomages",
+    "Façomages", "Façonneurs", "Façonneur", "Cordonniers", "Cordonnier",
+    "Tailleurs", "Tailleur", "Bijoutiers", "Bijoutier", "Joaillomages",
+    "Bricoleurs", "Bricoleur", "Costumages", "Forgemages", "Cordomages",
 ]
 
 def normalize_metier(m):
@@ -85,7 +85,7 @@ def parse_file(path):
             date = parse_date(m.group("date"))
             qty = int(m.group("qty"))
             item = m.group("item").strip()
-            kamas = int(m.group("kamas")) * 1000
+            kamas = int(m.group("kamas"))
             rest = m.group("rest")
 
             categories = set()
