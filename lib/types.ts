@@ -18,6 +18,7 @@ export type OffrandeAlmanax = {
   bonusDescription: string | null;
   bonusCategories: BonusCategorie[];
   metiersConcernes: string[];
+  imgUrl: string | null;
 };
 
 export const CATEGORIE_LABELS: Record<BonusCategorie, string> = {

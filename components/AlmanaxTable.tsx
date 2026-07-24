@@ -77,7 +77,21 @@ export default function AlmanaxTable({ offrandes }: Props) {
                 {formatDateAffichage(o.date)}
               </td>
               <td className="px-4 py-3 font-medium text-ink">
-                {o.quantite} {o.item}
+                <div className="flex items-center gap-2">
+                  {o.imgUrl ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={o.imgUrl}
+                      alt={o.item}
+                      className="w-8 h-8 shrink-0 object-contain"
+                    />
+                  ) : (
+                    <div className="w-8 h-8 shrink-0 rounded bg-ink/5" aria-hidden />
+                  )}
+                  <span>
+                    {o.quantite} {o.item}
+                  </span>
+                </div>
               </td>
               <td className="px-4 py-3 whitespace-nowrap text-gold font-semibold">
                 {formatKamas(o.kamas)}
