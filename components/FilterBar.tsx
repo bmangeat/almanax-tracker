@@ -1,6 +1,12 @@
 "use client";
 
-import { BonusCategorie, CATEGORIE_LABELS } from "@/lib/types";
+import {
+  BonusCategorie,
+  CATEGORIE_LABELS,
+  GROUPES_METIER_ORDRE,
+  GROUPE_METIER_LABELS,
+  groupeMetier,
+} from "@/lib/types";
 import { Filtres } from "@/lib/filters";
 
 const CATEGORIES_AFFICHEES: BonusCategorie[] = [
@@ -81,11 +87,21 @@ export default function FilterBar({
             className="w-full rounded-lg border border-ink/20 bg-parchment px-3 py-2 text-sm font-body focus:outline-none focus:ring-2 focus:ring-moss"
           >
             <option value="">Tous les métiers</option>
-            {metiersDisponibles.map((m) => (
-              <option key={m} value={m}>
-                {m}
-              </option>
-            ))}
+            {GROUPES_METIER_ORDRE.map((groupe) => {
+              const metiersDuGroupe = metiersDisponibles.filter(
+                (m) => groupeMetier(m) === groupe
+              );
+              if (metiersDuGroupe.length === 0) return null;
+              return (
+                <optgroup key={groupe} label={GROUPE_METIER_LABELS[groupe]}>
+                  {metiersDuGroupe.map((m) => (
+                    <option key={m} value={m}>
+                      {m}
+                    </option>
+                  ))}
+                </optgroup>
+              );
+            })}
           </select>
         </div>
       </div>

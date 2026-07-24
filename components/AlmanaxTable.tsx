@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { OffrandeAlmanax, CATEGORIE_LABELS } from "@/lib/types";
-import { formatDateAffichage, formatKamas } from "@/lib/filters";
+import { dateDuJour, formatDateAffichage, formatKamas, prochaineDate } from "@/lib/filters";
 
 type SortKey = "date" | "kamas";
 
@@ -36,6 +36,12 @@ export default function AlmanaxTable({ offrandes }: Props) {
     return copy;
   }, [offrandes, sortKey, sortDesc]);
 
+  const today = dateDuJour();
+  const dateAMettreEnAvant = useMemo(
+    () => prochaineDate(offrandes, today),
+    [offrandes, today]
+  );
+
   function toggleSort(key: SortKey) {
     if (sortKey === key) {
       setSortDesc(!sortDesc);
@@ -68,13 +74,24 @@ export default function AlmanaxTable({ offrandes }: Props) {
           </tr>
         </thead>
         <tbody>
-          {sorted.map((o) => (
+          {sorted.map((o) => {
+            const estEnAvant = o.date === dateAMettreEnAvant;
+            return (
             <tr
               key={o.date}
-              className="border-b border-ink/5 last:border-0 hover:bg-parchmentDark/40"
+              className={`border-b border-ink/5 last:border-0 hover:bg-parchmentDark/40 ${
+                estEnAvant ? "bg-gold/10" : ""
+              }`}
             >
               <td className="px-4 py-3 whitespace-nowrap text-ink/70">
-                {formatDateAffichage(o.date)}
+                <div className="flex items-center gap-2">
+                  {formatDateAffichage(o.date)}
+                  {estEnAvant && (
+                    <span className="px-2 py-0.5 rounded-full text-xs whitespace-nowrap bg-gold/20 text-gold font-medium">
+                      {o.date === today ? "Aujourd'hui" : "Prochain"}
+                    </span>
+                  )}
+                </div>
               </td>
               <td className="px-4 py-3 font-medium text-ink">
                 <div className="flex items-center gap-2">
@@ -83,7 +100,6 @@ export default function AlmanaxTable({ offrandes }: Props) {
                     <img
                       src={o.imgUrl}
                       alt={o.item}
-                      referrerPolicy="no-referrer"
                       className="w-8 h-8 shrink-0 object-contain"
                     />
                   ) : (
@@ -113,7 +129,8 @@ export default function AlmanaxTable({ offrandes }: Props) {
                 </div>
               </td>
             </tr>
-          ))}
+            );
+          })}
         </tbody>
       </table>
       {sorted.length === 0 && (

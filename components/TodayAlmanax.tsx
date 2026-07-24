@@ -2,18 +2,11 @@
 
 import { useMemo } from "react";
 import { OffrandeAlmanax, CATEGORIE_LABELS } from "@/lib/types";
-import { formatDateAffichage, formatKamas } from "@/lib/filters";
+import { dateDuJour, formatDateAffichage, formatKamas } from "@/lib/filters";
 
 type Props = {
   offrandes: OffrandeAlmanax[];
 };
-
-function dateDuJour(): string {
-  const now = new Date();
-  const mois = String(now.getMonth() + 1).padStart(2, "0");
-  const jour = String(now.getDate()).padStart(2, "0");
-  return `${mois}-${jour}`;
-}
 
 export default function TodayAlmanax({ offrandes }: Props) {
   const offrande = useMemo(() => {
@@ -31,7 +24,6 @@ export default function TodayAlmanax({ offrandes }: Props) {
           <img
             src={offrande.imgUrl}
             alt={offrande.item}
-            referrerPolicy="no-referrer"
             className="w-16 h-16 shrink-0 object-contain"
           />
         ) : (

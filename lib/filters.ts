@@ -61,3 +61,22 @@ export function formatDateAffichage(date: string): string {
 export function formatKamas(kamas: number): string {
   return new Intl.NumberFormat("fr-FR").format(Math.round(kamas)) + " kamas";
 }
+
+export function dateDuJour(): string {
+  const now = new Date();
+  const mois = String(now.getMonth() + 1).padStart(2, "0");
+  const jour = String(now.getDate()).padStart(2, "0");
+  return `${mois}-${jour}`;
+}
+
+// Parmi les offrandes données (potentiellement filtrées), trouve la date du
+// jour si elle y figure, sinon la prochaine à venir (avec retour au 1er
+// janvier si toutes les dates restantes sont déjà passées).
+export function prochaineDate(
+  offrandes: OffrandeAlmanax[],
+  today: string
+): string | null {
+  if (offrandes.length === 0) return null;
+  const dates = offrandes.map((o) => o.date).sort();
+  return dates.find((d) => d >= today) ?? dates[0];
+}

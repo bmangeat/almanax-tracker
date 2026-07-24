@@ -33,3 +33,39 @@ export const CATEGORIE_LABELS: Record<BonusCategorie, string> = {
   autre: "Autre",
   aucun: "Aucun bonus",
 };
+
+export type GroupeMetier = "recolte" | "craft" | "fm";
+
+export const GROUPE_METIER_LABELS: Record<GroupeMetier, string> = {
+  recolte: "Récolte",
+  craft: "Craft",
+  fm: "Forgemagie (FM)",
+};
+
+export const GROUPES_METIER_ORDRE: GroupeMetier[] = ["recolte", "craft", "fm"];
+
+const METIER_GROUPES: Record<string, GroupeMetier> = {
+  Bûcheron: "recolte",
+  Alchimiste: "recolte",
+  Paysan: "recolte",
+  Mineur: "recolte",
+  Pêcheur: "recolte",
+  Chasseur: "recolte",
+  Forgeron: "craft",
+  Sculpteur: "craft",
+  Cordonnier: "craft",
+  Tailleur: "craft",
+  Bijoutier: "craft",
+  Bricoleur: "craft",
+  Façonneur: "craft",
+  Sculptemages: "fm",
+  Façomage: "fm",
+  Joaillomage: "fm",
+  Costumage: "fm",
+  Forgemage: "fm",
+  Cordomage: "fm",
+};
+
+export function groupeMetier(metier: string): GroupeMetier {
+  return METIER_GROUPES[metier] ?? "craft";
+}

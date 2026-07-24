@@ -23,7 +23,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/33011.png"
+    "imgUrl": "/items/33011.png"
   },
   {
     "date": "01-03",
@@ -47,7 +47,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51472.png"
+    "imgUrl": "/items/51472.png"
   },
   {
     "date": "01-05",
@@ -61,7 +61,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34552.png"
+    "imgUrl": "/items/34552.png"
   },
   {
     "date": "01-06",
@@ -73,7 +73,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54114.png"
+    "imgUrl": "/items/54114.png"
   },
   {
     "date": "01-07",
@@ -85,7 +85,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15116.png"
+    "imgUrl": "/items/15116.png"
   },
   {
     "date": "01-08",
@@ -97,7 +97,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/55130.png"
+    "imgUrl": "/items/55130.png"
   },
   {
     "date": "01-09",
@@ -121,7 +121,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/10017.png"
+    "imgUrl": "/items/10017.png"
   },
   {
     "date": "01-11",
@@ -133,7 +133,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15092.png"
+    "imgUrl": "/items/15092.png"
   },
   {
     "date": "01-12",
@@ -147,7 +147,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39028.png"
+    "imgUrl": "/items/39028.png"
   },
   {
     "date": "01-13",
@@ -159,7 +159,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15828.png"
+    "imgUrl": "/items/15828.png"
   },
   {
     "date": "01-14",
@@ -173,7 +173,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38677.png"
+    "imgUrl": "/items/38677.png"
   },
   {
     "date": "01-15",
@@ -185,7 +185,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15648.png"
+    "imgUrl": "/items/15648.png"
   },
   {
     "date": "01-16",
@@ -197,7 +197,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15094.png"
+    "imgUrl": "/items/15094.png"
   },
   {
     "date": "01-17",
@@ -209,7 +209,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164064.png"
+    "imgUrl": "/items/164064.png"
   },
   {
     "date": "01-18",
@@ -223,7 +223,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41277.png"
+    "imgUrl": "/items/41277.png"
   },
   {
     "date": "01-19",
@@ -249,7 +249,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54673.png"
+    "imgUrl": null
   },
   {
     "date": "01-21",
@@ -277,7 +277,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36642.png"
+    "imgUrl": "/items/36642.png"
   },
   {
     "date": "01-23",
@@ -291,7 +291,7 @@
     "metiersConcernes": [
       "Sculptemages"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/78013.png"
+    "imgUrl": "/items/78013.png"
   },
   {
     "date": "01-24",
@@ -303,7 +303,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/108230.png"
+    "imgUrl": "/items/108230.png"
   },
   {
     "date": "01-25",
@@ -315,7 +315,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47640.png"
+    "imgUrl": "/items/47640.png"
   },
   {
     "date": "01-26",
@@ -329,7 +329,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38092.png"
+    "imgUrl": "/items/38092.png"
   },
   {
     "date": "01-27",
@@ -343,7 +343,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/33007.png"
+    "imgUrl": "/items/33007.png"
   },
   {
     "date": "01-28",
@@ -355,7 +355,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/65521.png"
+    "imgUrl": "/items/65521.png"
   },
   {
     "date": "01-29",
@@ -367,7 +367,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/57056.png"
+    "imgUrl": "/items/57056.png"
   },
   {
     "date": "01-30",
@@ -379,7 +379,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/141010.png"
+    "imgUrl": "/items/141010.png"
   },
   {
     "date": "01-31",
@@ -393,7 +393,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36052.png"
+    "imgUrl": "/items/36052.png"
   },
   {
     "date": "02-01",
@@ -405,7 +405,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/9013.png"
+    "imgUrl": "/items/9013.png"
   },
   {
     "date": "02-02",
@@ -422,7 +422,7 @@
       "Paysan",
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/33071.png"
+    "imgUrl": "/items/33071.png"
   },
   {
     "date": "02-03",
@@ -434,7 +434,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15983.png"
+    "imgUrl": "/items/15983.png"
   },
   {
     "date": "02-04",
@@ -446,7 +446,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47681.png"
+    "imgUrl": "/items/47681.png"
   },
   {
     "date": "02-05",
@@ -458,7 +458,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164065.png"
+    "imgUrl": "/items/164065.png"
   },
   {
     "date": "02-06",
@@ -472,7 +472,7 @@
     "metiersConcernes": [
       "Forgeron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/7001.png"
+    "imgUrl": "/items/7001.png"
   },
   {
     "date": "02-07",
@@ -485,7 +485,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/119013.png"
+    "imgUrl": "/items/119013.png"
   },
   {
     "date": "02-08",
@@ -499,7 +499,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38017.png"
+    "imgUrl": "/items/38017.png"
   },
   {
     "date": "02-09",
@@ -511,7 +511,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54699.png"
+    "imgUrl": "/items/54699.png"
   },
   {
     "date": "02-10",
@@ -523,7 +523,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47598.png"
+    "imgUrl": "/items/47598.png"
   },
   {
     "date": "02-11",
@@ -537,7 +537,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41290.png"
+    "imgUrl": "/items/41290.png"
   },
   {
     "date": "02-12",
@@ -549,7 +549,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54008.png"
+    "imgUrl": "/items/54008.png"
   },
   {
     "date": "02-13",
@@ -561,7 +561,7 @@
       "autre"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/11256.png"
+    "imgUrl": "/items/11256.png"
   },
   {
     "date": "02-14",
@@ -573,7 +573,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/42004.png"
+    "imgUrl": "/items/42004.png"
   },
   {
     "date": "02-15",
@@ -585,7 +585,7 @@
       "autre"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12002.png"
+    "imgUrl": "/items/12002.png"
   },
   {
     "date": "02-16",
@@ -599,7 +599,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69115.png"
+    "imgUrl": "/items/69115.png"
   },
   {
     "date": "02-17",
@@ -611,7 +611,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/96109.png"
+    "imgUrl": "/items/96109.png"
   },
   {
     "date": "02-18",
@@ -623,7 +623,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/96670.png"
+    "imgUrl": "/items/96670.png"
   },
   {
     "date": "02-19",
@@ -637,7 +637,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41305.png"
+    "imgUrl": "/items/41305.png"
   },
   {
     "date": "02-20",
@@ -649,7 +649,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15022.png"
+    "imgUrl": "/items/15022.png"
   },
   {
     "date": "02-21",
@@ -673,7 +673,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59609.png"
+    "imgUrl": "/items/59609.png"
   },
   {
     "date": "02-23",
@@ -697,7 +697,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56670.png"
+    "imgUrl": "/items/56670.png"
   },
   {
     "date": "02-25",
@@ -709,7 +709,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164139.png"
+    "imgUrl": "/items/164139.png"
   },
   {
     "date": "02-26",
@@ -735,7 +735,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69789.png"
+    "imgUrl": "/items/69789.png"
   },
   {
     "date": "02-28",
@@ -747,7 +747,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53663.png"
+    "imgUrl": "/items/53663.png"
   },
   {
     "date": "02-29",
@@ -760,7 +760,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15096.png"
+    "imgUrl": "/items/15096.png"
   },
   {
     "date": "03-01",
@@ -774,7 +774,7 @@
     "metiersConcernes": [
       "Bijoutier"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/1012.png"
+    "imgUrl": "/items/1012.png"
   },
   {
     "date": "03-02",
@@ -786,7 +786,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47031.png"
+    "imgUrl": "/items/47031.png"
   },
   {
     "date": "03-03",
@@ -800,7 +800,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38138.png"
+    "imgUrl": "/items/38138.png"
   },
   {
     "date": "03-04",
@@ -812,7 +812,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/119002.png"
+    "imgUrl": "/items/119002.png"
   },
   {
     "date": "03-05",
@@ -825,7 +825,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54364.png"
+    "imgUrl": "/items/54364.png"
   },
   {
     "date": "03-06",
@@ -837,7 +837,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/3002.png"
+    "imgUrl": "/items/3002.png"
   },
   {
     "date": "03-07",
@@ -861,7 +861,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/103440.png"
+    "imgUrl": "/items/103440.png"
   },
   {
     "date": "03-09",
@@ -875,7 +875,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34080.png"
+    "imgUrl": "/items/34080.png"
   },
   {
     "date": "03-10",
@@ -887,7 +887,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/93004.png"
+    "imgUrl": "/items/93004.png"
   },
   {
     "date": "03-11",
@@ -899,7 +899,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47234.png"
+    "imgUrl": "/items/47234.png"
   },
   {
     "date": "03-12",
@@ -913,7 +913,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/49071.png"
+    "imgUrl": "/items/49071.png"
   },
   {
     "date": "03-13",
@@ -925,7 +925,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109602.png"
+    "imgUrl": "/items/109602.png"
   },
   {
     "date": "03-14",
@@ -939,7 +939,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36067.png"
+    "imgUrl": "/items/36067.png"
   },
   {
     "date": "03-15",
@@ -951,7 +951,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/60001.png"
+    "imgUrl": "/items/60001.png"
   },
   {
     "date": "03-16",
@@ -963,7 +963,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15099.png"
+    "imgUrl": "/items/15099.png"
   },
   {
     "date": "03-17",
@@ -975,7 +975,7 @@
       "autre"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17105.png"
+    "imgUrl": "/items/17105.png"
   },
   {
     "date": "03-18",
@@ -989,7 +989,7 @@
     "metiersConcernes": [
       "Façomage"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/78076.png"
+    "imgUrl": "/items/78076.png"
   },
   {
     "date": "03-19",
@@ -1003,7 +1003,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39397.png"
+    "imgUrl": "/items/39397.png"
   },
   {
     "date": "03-20",
@@ -1015,7 +1015,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/65769.png"
+    "imgUrl": "/items/65769.png"
   },
   {
     "date": "03-21",
@@ -1028,7 +1028,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15988.png"
+    "imgUrl": "/items/15988.png"
   },
   {
     "date": "03-22",
@@ -1040,7 +1040,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47809.png"
+    "imgUrl": "/items/47809.png"
   },
   {
     "date": "03-23",
@@ -1064,7 +1064,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/104213.png"
+    "imgUrl": "/items/104213.png"
   },
   {
     "date": "03-25",
@@ -1076,7 +1076,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164046.png"
+    "imgUrl": "/items/164046.png"
   },
   {
     "date": "03-26",
@@ -1088,7 +1088,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47686.png"
+    "imgUrl": "/items/47686.png"
   },
   {
     "date": "03-27",
@@ -1102,7 +1102,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69744.png"
+    "imgUrl": "/items/69744.png"
   },
   {
     "date": "03-28",
@@ -1114,7 +1114,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47814.png"
+    "imgUrl": "/items/47814.png"
   },
   {
     "date": "03-29",
@@ -1126,7 +1126,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15820.png"
+    "imgUrl": "/items/15820.png"
   },
   {
     "date": "03-30",
@@ -1138,7 +1138,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/65771.png"
+    "imgUrl": "/items/65771.png"
   },
   {
     "date": "03-31",
@@ -1162,7 +1162,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15100.png"
+    "imgUrl": "/items/15100.png"
   },
   {
     "date": "04-02",
@@ -1174,7 +1174,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/93001.png"
+    "imgUrl": "/items/93001.png"
   },
   {
     "date": "04-03",
@@ -1198,7 +1198,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/10007.png"
+    "imgUrl": "/items/10007.png"
   },
   {
     "date": "04-05",
@@ -1212,7 +1212,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35191.png"
+    "imgUrl": "/items/35191.png"
   },
   {
     "date": "04-06",
@@ -1224,7 +1224,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47106.png"
+    "imgUrl": "/items/47106.png"
   },
   {
     "date": "04-07",
@@ -1238,7 +1238,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34082.png"
+    "imgUrl": "/items/34082.png"
   },
   {
     "date": "04-08",
@@ -1250,7 +1250,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/24018.png"
+    "imgUrl": "/items/24018.png"
   },
   {
     "date": "04-09",
@@ -1262,7 +1262,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53658.png"
+    "imgUrl": "/items/53658.png"
   },
   {
     "date": "04-10",
@@ -1274,7 +1274,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/9029.png"
+    "imgUrl": "/items/9029.png"
   },
   {
     "date": "04-11",
@@ -1287,7 +1287,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15281.png"
+    "imgUrl": "/items/15281.png"
   },
   {
     "date": "04-12",
@@ -1313,7 +1313,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38001.png"
+    "imgUrl": "/items/38001.png"
   },
   {
     "date": "04-14",
@@ -1325,7 +1325,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53113.png"
+    "imgUrl": "/items/53113.png"
   },
   {
     "date": "04-15",
@@ -1339,7 +1339,7 @@
     "metiersConcernes": [
       "Bricoleur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/93005.png"
+    "imgUrl": "/items/93005.png"
   },
   {
     "date": "04-16",
@@ -1353,7 +1353,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41292.png"
+    "imgUrl": "/items/41292.png"
   },
   {
     "date": "04-17",
@@ -1365,7 +1365,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/42026.png"
+    "imgUrl": "/items/42026.png"
   },
   {
     "date": "04-18",
@@ -1377,7 +1377,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56668.png"
+    "imgUrl": "/items/56668.png"
   },
   {
     "date": "04-19",
@@ -1391,7 +1391,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39022.png"
+    "imgUrl": "/items/39022.png"
   },
   {
     "date": "04-20",
@@ -1415,7 +1415,7 @@
       "autre"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51008.png"
+    "imgUrl": "/items/51008.png"
   },
   {
     "date": "04-22",
@@ -1427,7 +1427,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47851.png"
+    "imgUrl": "/items/47851.png"
   },
   {
     "date": "04-23",
@@ -1439,7 +1439,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15093.png"
+    "imgUrl": "/items/15093.png"
   },
   {
     "date": "04-24",
@@ -1451,7 +1451,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51127.png"
+    "imgUrl": "/items/51127.png"
   },
   {
     "date": "04-25",
@@ -1465,7 +1465,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63473.png"
+    "imgUrl": "/items/63473.png"
   },
   {
     "date": "04-26",
@@ -1477,7 +1477,7 @@
       "kamas_bonus"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15881.png"
+    "imgUrl": "/items/15881.png"
   },
   {
     "date": "04-27",
@@ -1489,7 +1489,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/106562.png"
+    "imgUrl": "/items/106562.png"
   },
   {
     "date": "04-28",
@@ -1503,7 +1503,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/50098.png"
+    "imgUrl": "/items/50098.png"
   },
   {
     "date": "04-29",
@@ -1529,7 +1529,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/58067.png"
+    "imgUrl": "/items/58067.png"
   },
   {
     "date": "05-01",
@@ -1541,7 +1541,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15711.png"
+    "imgUrl": "/items/15711.png"
   },
   {
     "date": "05-02",
@@ -1566,7 +1566,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164039.png"
+    "imgUrl": "/items/164039.png"
   },
   {
     "date": "05-04",
@@ -1590,7 +1590,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51455.png"
+    "imgUrl": "/items/51455.png"
   },
   {
     "date": "05-06",
@@ -1616,7 +1616,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/40713.png"
+    "imgUrl": "/items/40713.png"
   },
   {
     "date": "05-08",
@@ -1628,7 +1628,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/68135.png"
+    "imgUrl": "/items/68135.png"
   },
   {
     "date": "05-09",
@@ -1641,7 +1641,7 @@
       "metier"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81026.png"
+    "imgUrl": "/items/81026.png"
   },
   {
     "date": "05-10",
@@ -1653,7 +1653,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47597.png"
+    "imgUrl": "/items/47597.png"
   },
   {
     "date": "05-11",
@@ -1665,7 +1665,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/71057.png"
+    "imgUrl": "/items/71057.png"
   },
   {
     "date": "05-12",
@@ -1679,7 +1679,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34083.png"
+    "imgUrl": "/items/34083.png"
   },
   {
     "date": "05-13",
@@ -1691,7 +1691,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15804.png"
+    "imgUrl": "/items/15804.png"
   },
   {
     "date": "05-14",
@@ -1703,7 +1703,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/82021.png"
+    "imgUrl": "/items/82021.png"
   },
   {
     "date": "05-15",
@@ -1715,7 +1715,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/1273.png"
+    "imgUrl": "/items/1273.png"
   },
   {
     "date": "05-16",
@@ -1729,7 +1729,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35638.png"
+    "imgUrl": "/items/35638.png"
   },
   {
     "date": "05-17",
@@ -1741,7 +1741,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/55019.png"
+    "imgUrl": "/items/55019.png"
   },
   {
     "date": "05-18",
@@ -1780,7 +1780,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/68031.png"
+    "imgUrl": "/items/68031.png"
   },
   {
     "date": "05-21",
@@ -1796,7 +1796,7 @@
       "Cordonnier",
       "Tailleur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17065.png"
+    "imgUrl": "/items/17065.png"
   },
   {
     "date": "05-22",
@@ -1808,7 +1808,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81027.png"
+    "imgUrl": "/items/81027.png"
   },
   {
     "date": "05-23",
@@ -1822,7 +1822,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41400.png"
+    "imgUrl": "/items/41400.png"
   },
   {
     "date": "05-24",
@@ -1836,7 +1836,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34082.png"
+    "imgUrl": "/items/34082.png"
   },
   {
     "date": "05-25",
@@ -1848,7 +1848,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54012.png"
+    "imgUrl": "/items/54012.png"
   },
   {
     "date": "05-26",
@@ -1860,7 +1860,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47699.png"
+    "imgUrl": "/items/47699.png"
   },
   {
     "date": "05-27",
@@ -1874,7 +1874,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/49151.png"
+    "imgUrl": "/items/49151.png"
   },
   {
     "date": "05-28",
@@ -1888,7 +1888,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63464.png"
+    "imgUrl": "/items/63464.png"
   },
   {
     "date": "05-29",
@@ -1914,7 +1914,7 @@
     "metiersConcernes": [
       "Forgemage"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/78016.png"
+    "imgUrl": "/items/78016.png"
   },
   {
     "date": "05-31",
@@ -1926,7 +1926,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/119001.png"
+    "imgUrl": "/items/119001.png"
   },
   {
     "date": "06-01",
@@ -1950,7 +1950,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/33012.png"
+    "imgUrl": "/items/33012.png"
   },
   {
     "date": "06-03",
@@ -1962,7 +1962,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/58472.png"
+    "imgUrl": "/items/58472.png"
   },
   {
     "date": "06-04",
@@ -1974,7 +1974,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/82020.png"
+    "imgUrl": "/items/82020.png"
   },
   {
     "date": "06-05",
@@ -1986,7 +1986,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/111753.png"
+    "imgUrl": "/items/111753.png"
   },
   {
     "date": "06-06",
@@ -1998,7 +1998,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109603.png"
+    "imgUrl": "/items/109603.png"
   },
   {
     "date": "06-07",
@@ -2010,7 +2010,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47680.png"
+    "imgUrl": "/items/47680.png"
   },
   {
     "date": "06-08",
@@ -2023,7 +2023,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15977.png"
+    "imgUrl": "/items/15977.png"
   },
   {
     "date": "06-09",
@@ -2037,7 +2037,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35192.png"
+    "imgUrl": "/items/35192.png"
   },
   {
     "date": "06-10",
@@ -2049,7 +2049,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15424.png"
+    "imgUrl": "/items/15424.png"
   },
   {
     "date": "06-11",
@@ -2061,7 +2061,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15962.png"
+    "imgUrl": "/items/15962.png"
   },
   {
     "date": "06-12",
@@ -2073,7 +2073,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15840.png"
+    "imgUrl": "/items/15840.png"
   },
   {
     "date": "06-13",
@@ -2087,7 +2087,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38673.png"
+    "imgUrl": "/items/38673.png"
   },
   {
     "date": "06-14",
@@ -2101,7 +2101,7 @@
     "metiersConcernes": [
       "Bricoleur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84013.png"
+    "imgUrl": "/items/84013.png"
   },
   {
     "date": "06-15",
@@ -2113,7 +2113,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47012.png"
+    "imgUrl": "/items/47012.png"
   },
   {
     "date": "06-16",
@@ -2137,7 +2137,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/98102.png"
+    "imgUrl": "/items/98102.png"
   },
   {
     "date": "06-18",
@@ -2177,7 +2177,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34009.png"
+    "imgUrl": "/items/34009.png"
   },
   {
     "date": "06-21",
@@ -2201,7 +2201,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47017.png"
+    "imgUrl": "/items/47017.png"
   },
   {
     "date": "06-23",
@@ -2225,7 +2225,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59652.png"
+    "imgUrl": "/items/59652.png"
   },
   {
     "date": "06-25",
@@ -2249,7 +2249,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/82017.png"
+    "imgUrl": "/items/82017.png"
   },
   {
     "date": "06-27",
@@ -2261,7 +2261,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/103729.png"
+    "imgUrl": "/items/103729.png"
   },
   {
     "date": "06-28",
@@ -2274,7 +2274,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/50727.png"
+    "imgUrl": "/items/50727.png"
   },
   {
     "date": "06-29",
@@ -2288,7 +2288,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63439.png"
+    "imgUrl": "/items/63439.png"
   },
   {
     "date": "06-30",
@@ -2324,7 +2324,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/105646.png"
+    "imgUrl": "/items/105646.png"
   },
   {
     "date": "07-03",
@@ -2338,7 +2338,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12750.png"
+    "imgUrl": "/items/12750.png"
   },
   {
     "date": "07-04",
@@ -2351,7 +2351,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69752.png"
+    "imgUrl": "/items/69752.png"
   },
   {
     "date": "07-05",
@@ -2377,7 +2377,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41394.png"
+    "imgUrl": "/items/41394.png"
   },
   {
     "date": "07-07",
@@ -2391,7 +2391,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34554.png"
+    "imgUrl": "/items/34554.png"
   },
   {
     "date": "07-08",
@@ -2403,7 +2403,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15129.png"
+    "imgUrl": "/items/15129.png"
   },
   {
     "date": "07-09",
@@ -2417,7 +2417,7 @@
     "metiersConcernes": [
       "Cordomage"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/78020.png"
+    "imgUrl": "/items/78020.png"
   },
   {
     "date": "07-10",
@@ -2429,7 +2429,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/2015.png"
+    "imgUrl": "/items/2015.png"
   },
   {
     "date": "07-11",
@@ -2443,7 +2443,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39076.png"
+    "imgUrl": "/items/39076.png"
   },
   {
     "date": "07-12",
@@ -2455,7 +2455,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54713.png"
+    "imgUrl": "/items/54713.png"
   },
   {
     "date": "07-13",
@@ -2479,7 +2479,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15245.png"
+    "imgUrl": "/items/15245.png"
   },
   {
     "date": "07-15",
@@ -2493,7 +2493,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63487.png"
+    "imgUrl": "/items/63487.png"
   },
   {
     "date": "07-16",
@@ -2506,7 +2506,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15793.png"
+    "imgUrl": "/items/15793.png"
   },
   {
     "date": "07-17",
@@ -2518,7 +2518,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59034.png"
+    "imgUrl": "/items/59034.png"
   },
   {
     "date": "07-18",
@@ -2530,7 +2530,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/21001.png"
+    "imgUrl": "/items/21001.png"
   },
   {
     "date": "07-19",
@@ -2542,7 +2542,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59651.png"
+    "imgUrl": "/items/59651.png"
   },
   {
     "date": "07-20",
@@ -2556,7 +2556,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/60061.png"
+    "imgUrl": "/items/60061.png"
   },
   {
     "date": "07-21",
@@ -2568,7 +2568,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51467.png"
+    "imgUrl": "/items/51467.png"
   },
   {
     "date": "07-22",
@@ -2580,7 +2580,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/49096.png"
+    "imgUrl": "/items/49096.png"
   },
   {
     "date": "07-23",
@@ -2592,7 +2592,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18001.png"
+    "imgUrl": "/items/18001.png"
   },
   {
     "date": "07-24",
@@ -2606,7 +2606,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38140.png"
+    "imgUrl": "/items/38140.png"
   },
   {
     "date": "07-25",
@@ -2618,7 +2618,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15819.png"
+    "imgUrl": "/items/15819.png"
   },
   {
     "date": "07-26",
@@ -2644,7 +2644,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69750.png"
+    "imgUrl": "/items/69750.png"
   },
   {
     "date": "07-28",
@@ -2668,7 +2668,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15948.png"
+    "imgUrl": "/items/15948.png"
   },
   {
     "date": "07-30",
@@ -2681,7 +2681,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56534.png"
+    "imgUrl": "/items/56534.png"
   },
   {
     "date": "07-31",
@@ -2693,7 +2693,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15960.png"
+    "imgUrl": "/items/15960.png"
   },
   {
     "date": "08-01",
@@ -2707,7 +2707,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36643.png"
+    "imgUrl": "/items/36643.png"
   },
   {
     "date": "08-02",
@@ -2719,7 +2719,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53659.png"
+    "imgUrl": "/items/53659.png"
   },
   {
     "date": "08-03",
@@ -2731,7 +2731,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12144.png"
+    "imgUrl": "/items/12144.png"
   },
   {
     "date": "08-04",
@@ -2743,7 +2743,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/48282.png"
+    "imgUrl": "/items/48282.png"
   },
   {
     "date": "08-05",
@@ -2757,7 +2757,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41403.png"
+    "imgUrl": "/items/41403.png"
   },
   {
     "date": "08-06",
@@ -2769,7 +2769,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15814.png"
+    "imgUrl": "/items/15814.png"
   },
   {
     "date": "08-07",
@@ -2781,7 +2781,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/98001.png"
+    "imgUrl": "/items/98001.png"
   },
   {
     "date": "08-08",
@@ -2795,7 +2795,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/40660.png"
+    "imgUrl": "/items/40660.png"
   },
   {
     "date": "08-09",
@@ -2807,7 +2807,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35632.png"
+    "imgUrl": "/items/35632.png"
   },
   {
     "date": "08-10",
@@ -2819,7 +2819,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/93002.png"
+    "imgUrl": "/items/93002.png"
   },
   {
     "date": "08-11",
@@ -2845,7 +2845,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63372.png"
+    "imgUrl": "/items/63372.png"
   },
   {
     "date": "08-13",
@@ -2857,7 +2857,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15794.png"
+    "imgUrl": "/items/15794.png"
   },
   {
     "date": "08-14",
@@ -2881,7 +2881,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15815.png"
+    "imgUrl": "/items/15815.png"
   },
   {
     "date": "08-16",
@@ -2895,7 +2895,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36644.png"
+    "imgUrl": "/items/36644.png"
   },
   {
     "date": "08-17",
@@ -2909,7 +2909,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39109.png"
+    "imgUrl": "/items/39109.png"
   },
   {
     "date": "08-18",
@@ -2933,7 +2933,7 @@
       "craft"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/11038.png"
+    "imgUrl": "/items/11038.png"
   },
   {
     "date": "08-20",
@@ -2947,7 +2947,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63426.png"
+    "imgUrl": "/items/63426.png"
   },
   {
     "date": "08-21",
@@ -2973,7 +2973,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41413.png"
+    "imgUrl": "/items/41413.png"
   },
   {
     "date": "08-23",
@@ -2985,7 +2985,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54682.png"
+    "imgUrl": "/items/54682.png"
   },
   {
     "date": "08-24",
@@ -3011,7 +3011,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34555.png"
+    "imgUrl": "/items/34555.png"
   },
   {
     "date": "08-26",
@@ -3037,7 +3037,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41322.png"
+    "imgUrl": "/items/41322.png"
   },
   {
     "date": "08-28",
@@ -3051,7 +3051,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38095.png"
+    "imgUrl": "/items/38095.png"
   },
   {
     "date": "08-29",
@@ -3063,7 +3063,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35008.png"
+    "imgUrl": "/items/35008.png"
   },
   {
     "date": "08-30",
@@ -3075,7 +3075,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59617.png"
+    "imgUrl": "/items/59617.png"
   },
   {
     "date": "08-31",
@@ -3089,7 +3089,7 @@
     "metiersConcernes": [
       "Costumage"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/78030.png"
+    "imgUrl": "/items/78030.png"
   },
   {
     "date": "09-01",
@@ -3113,7 +3113,7 @@
       "autre"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12038.png"
+    "imgUrl": "/items/12038.png"
   },
   {
     "date": "09-03",
@@ -3139,7 +3139,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/95001.png"
+    "imgUrl": "/items/95001.png"
   },
   {
     "date": "09-05",
@@ -3151,7 +3151,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53004.png"
+    "imgUrl": "/items/53004.png"
   },
   {
     "date": "09-06",
@@ -3163,7 +3163,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54005.png"
+    "imgUrl": "/items/54005.png"
   },
   {
     "date": "09-07",
@@ -3175,7 +3175,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36010.png"
+    "imgUrl": "/items/36010.png"
   },
   {
     "date": "09-08",
@@ -3187,7 +3187,7 @@
       "metier"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39399.png"
+    "imgUrl": "/items/39399.png"
   },
   {
     "date": "09-09",
@@ -3199,7 +3199,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15512.png"
+    "imgUrl": "/items/15512.png"
   },
   {
     "date": "09-10",
@@ -3211,7 +3211,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/104593.png"
+    "imgUrl": "/items/104593.png"
   },
   {
     "date": "09-11",
@@ -3235,7 +3235,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15247.png"
+    "imgUrl": "/items/15247.png"
   },
   {
     "date": "09-13",
@@ -3249,7 +3249,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34122.png"
+    "imgUrl": "/items/34122.png"
   },
   {
     "date": "09-14",
@@ -3261,7 +3261,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15850.png"
+    "imgUrl": "/items/15850.png"
   },
   {
     "date": "09-15",
@@ -3273,7 +3273,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36639.png"
+    "imgUrl": "/items/36639.png"
   },
   {
     "date": "09-16",
@@ -3285,7 +3285,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/107739.png"
+    "imgUrl": "/items/107739.png"
   },
   {
     "date": "09-17",
@@ -3297,7 +3297,7 @@
       "metier"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/26016.png"
+    "imgUrl": "/items/26016.png"
   },
   {
     "date": "09-18",
@@ -3309,7 +3309,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47015.png"
+    "imgUrl": "/items/47015.png"
   },
   {
     "date": "09-19",
@@ -3321,7 +3321,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15177.png"
+    "imgUrl": "/items/15177.png"
   },
   {
     "date": "09-20",
@@ -3335,7 +3335,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69773.png"
+    "imgUrl": "/items/69773.png"
   },
   {
     "date": "09-21",
@@ -3359,7 +3359,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/48691.png"
+    "imgUrl": "/items/48691.png"
   },
   {
     "date": "09-23",
@@ -3371,7 +3371,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36002.png"
+    "imgUrl": "/items/36002.png"
   },
   {
     "date": "09-24",
@@ -3383,7 +3383,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/50718.png"
+    "imgUrl": "/items/50718.png"
   },
   {
     "date": "09-25",
@@ -3409,7 +3409,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39112.png"
+    "imgUrl": "/items/39112.png"
   },
   {
     "date": "09-27",
@@ -3421,7 +3421,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15020.png"
+    "imgUrl": "/items/15020.png"
   },
   {
     "date": "09-28",
@@ -3433,7 +3433,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/2003.png"
+    "imgUrl": "/items/2003.png"
   },
   {
     "date": "09-29",
@@ -3445,7 +3445,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38680.png"
+    "imgUrl": "/items/38680.png"
   },
   {
     "date": "09-30",
@@ -3469,7 +3469,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/111754.png"
+    "imgUrl": "/items/111754.png"
   },
   {
     "date": "10-02",
@@ -3495,7 +3495,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/2004.png"
+    "imgUrl": "/items/2004.png"
   },
   {
     "date": "10-04",
@@ -3521,7 +3521,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41309.png"
+    "imgUrl": "/items/41309.png"
   },
   {
     "date": "10-06",
@@ -3533,7 +3533,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36008.png"
+    "imgUrl": "/items/36008.png"
   },
   {
     "date": "10-07",
@@ -3559,7 +3559,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63453.png"
+    "imgUrl": "/items/63453.png"
   },
   {
     "date": "10-09",
@@ -3583,7 +3583,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47419.png"
+    "imgUrl": "/items/47419.png"
   },
   {
     "date": "10-11",
@@ -3595,7 +3595,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15524.png"
+    "imgUrl": "/items/15524.png"
   },
   {
     "date": "10-12",
@@ -3631,7 +3631,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69758.png"
+    "imgUrl": "/items/69758.png"
   },
   {
     "date": "10-15",
@@ -3645,7 +3645,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34121.png"
+    "imgUrl": "/items/34121.png"
   },
   {
     "date": "10-16",
@@ -3657,7 +3657,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47009.png"
+    "imgUrl": "/items/47009.png"
   },
   {
     "date": "10-17",
@@ -3671,7 +3671,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38143.png"
+    "imgUrl": "/items/38143.png"
   },
   {
     "date": "10-18",
@@ -3695,7 +3695,7 @@
       "metier"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41313.png"
+    "imgUrl": "/items/41313.png"
   },
   {
     "date": "10-20",
@@ -3721,7 +3721,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/69804.png"
+    "imgUrl": "/items/69804.png"
   },
   {
     "date": "10-22",
@@ -3737,7 +3737,7 @@
       "Bûcheron",
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39111.png"
+    "imgUrl": "/items/39111.png"
   },
   {
     "date": "10-23",
@@ -3749,7 +3749,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15860.png"
+    "imgUrl": "/items/15860.png"
   },
   {
     "date": "10-24",
@@ -3763,7 +3763,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39024.png"
+    "imgUrl": "/items/39024.png"
   },
   {
     "date": "10-25",
@@ -3787,7 +3787,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47758.png"
+    "imgUrl": "/items/47758.png"
   },
   {
     "date": "10-27",
@@ -3801,7 +3801,7 @@
     "metiersConcernes": [
       "Sculpteur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/4002.png"
+    "imgUrl": "/items/4002.png"
   },
   {
     "date": "10-28",
@@ -3815,7 +3815,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36645.png"
+    "imgUrl": "/items/36645.png"
   },
   {
     "date": "10-29",
@@ -3827,7 +3827,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47678.png"
+    "imgUrl": "/items/47678.png"
   },
   {
     "date": "10-30",
@@ -3851,7 +3851,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54131.png"
+    "imgUrl": "/items/54131.png"
   },
   {
     "date": "11-01",
@@ -3863,7 +3863,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56572.png"
+    "imgUrl": "/items/56572.png"
   },
   {
     "date": "11-02",
@@ -3889,7 +3889,7 @@
     "metiersConcernes": [
       "Tailleur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17181.png"
+    "imgUrl": "/items/17181.png"
   },
   {
     "date": "11-04",
@@ -3913,7 +3913,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47863.png"
+    "imgUrl": "/items/47863.png"
   },
   {
     "date": "11-06",
@@ -3927,7 +3927,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38086.png"
+    "imgUrl": "/items/38086.png"
   },
   {
     "date": "11-07",
@@ -3951,7 +3951,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/103727.png"
+    "imgUrl": "/items/103727.png"
   },
   {
     "date": "11-09",
@@ -3963,7 +3963,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15014.png"
+    "imgUrl": "/items/15014.png"
   },
   {
     "date": "11-10",
@@ -3975,7 +3975,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41294.png"
+    "imgUrl": "/items/41294.png"
   },
   {
     "date": "11-11",
@@ -3987,7 +3987,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59233.png"
+    "imgUrl": "/items/59233.png"
   },
   {
     "date": "11-12",
@@ -3999,7 +3999,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15939.png"
+    "imgUrl": "/items/15939.png"
   },
   {
     "date": "11-13",
@@ -4011,7 +4011,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/58405.png"
+    "imgUrl": "/items/58405.png"
   },
   {
     "date": "11-14",
@@ -4025,7 +4025,7 @@
     "metiersConcernes": [
       "Joaillomage"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/78052.png"
+    "imgUrl": "/items/78052.png"
   },
   {
     "date": "11-15",
@@ -4037,7 +4037,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/5009.png"
+    "imgUrl": "/items/5009.png"
   },
   {
     "date": "11-16",
@@ -4049,7 +4049,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59622.png"
+    "imgUrl": "/items/59622.png"
   },
   {
     "date": "11-17",
@@ -4063,7 +4063,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63506.png"
+    "imgUrl": "/items/63506.png"
   },
   {
     "date": "11-18",
@@ -4075,7 +4075,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/103034.png"
+    "imgUrl": "/items/103034.png"
   },
   {
     "date": "11-19",
@@ -4089,7 +4089,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12729.png"
+    "imgUrl": "/items/12729.png"
   },
   {
     "date": "11-20",
@@ -4113,7 +4113,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/104019.png"
+    "imgUrl": "/items/104019.png"
   },
   {
     "date": "11-22",
@@ -4125,7 +4125,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47834.png"
+    "imgUrl": "/items/47834.png"
   },
   {
     "date": "11-23",
@@ -4137,7 +4137,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15987.png"
+    "imgUrl": "/items/15987.png"
   },
   {
     "date": "11-24",
@@ -4151,7 +4151,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34154.png"
+    "imgUrl": "/items/34154.png"
   },
   {
     "date": "11-25",
@@ -4163,7 +4163,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47661.png"
+    "imgUrl": "/items/47661.png"
   },
   {
     "date": "11-26",
@@ -4175,7 +4175,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164049.png"
+    "imgUrl": "/items/164049.png"
   },
   {
     "date": "11-27",
@@ -4189,7 +4189,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38094.png"
+    "imgUrl": "/items/38094.png"
   },
   {
     "date": "11-28",
@@ -4201,7 +4201,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54657.png"
+    "imgUrl": "/items/54657.png"
   },
   {
     "date": "11-29",
@@ -4215,7 +4215,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39077.png"
+    "imgUrl": "/items/39077.png"
   },
   {
     "date": "11-30",
@@ -4227,7 +4227,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/57658.png"
+    "imgUrl": "/items/57658.png"
   },
   {
     "date": "12-01",
@@ -4239,7 +4239,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109617.png"
+    "imgUrl": "/items/109617.png"
   },
   {
     "date": "12-02",
@@ -4256,7 +4256,7 @@
       "Forgeron",
       "Sculpteur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/82155.png"
+    "imgUrl": "/items/82155.png"
   },
   {
     "date": "12-03",
@@ -4268,7 +4268,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59049.png"
+    "imgUrl": "/items/59049.png"
   },
   {
     "date": "12-04",
@@ -4282,7 +4282,7 @@
     "metiersConcernes": [
       "Bûcheron"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38481.png"
+    "imgUrl": "/items/38481.png"
   },
   {
     "date": "12-05",
@@ -4306,7 +4306,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39075.png"
+    "imgUrl": "/items/39075.png"
   },
   {
     "date": "12-07",
@@ -4318,7 +4318,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/55720.png"
+    "imgUrl": "/items/55720.png"
   },
   {
     "date": "12-08",
@@ -4332,7 +4332,7 @@
     "metiersConcernes": [
       "Alchimiste"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35635.png"
+    "imgUrl": "/items/35635.png"
   },
   {
     "date": "12-09",
@@ -4344,7 +4344,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54672.png"
+    "imgUrl": null
   },
   {
     "date": "12-10",
@@ -4356,7 +4356,7 @@
       "elevage"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/65595.png"
+    "imgUrl": "/items/65595.png"
   },
   {
     "date": "12-11",
@@ -4370,7 +4370,7 @@
     "metiersConcernes": [
       "Cordonnier"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/11206.png"
+    "imgUrl": "/items/11206.png"
   },
   {
     "date": "12-12",
@@ -4382,7 +4382,7 @@
       "quete"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12145.png"
+    "imgUrl": "/items/12145.png"
   },
   {
     "date": "12-13",
@@ -4396,7 +4396,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39110.png"
+    "imgUrl": "/items/39110.png"
   },
   {
     "date": "12-14",
@@ -4408,7 +4408,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15953.png"
+    "imgUrl": "/items/15953.png"
   },
   {
     "date": "12-15",
@@ -4420,7 +4420,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56429.png"
+    "imgUrl": "/items/56429.png"
   },
   {
     "date": "12-16",
@@ -4446,7 +4446,7 @@
     "metiersConcernes": [
       "Pêcheur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41407.png"
+    "imgUrl": "/items/41407.png"
   },
   {
     "date": "12-18",
@@ -4458,7 +4458,7 @@
       "pvm"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/9032.png"
+    "imgUrl": "/items/9032.png"
   },
   {
     "date": "12-19",
@@ -4470,7 +4470,7 @@
       "xp"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/153007.png"
+    "imgUrl": "/items/153007.png"
   },
   {
     "date": "12-20",
@@ -4484,7 +4484,7 @@
     "metiersConcernes": [
       "Mineur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/40658.png"
+    "imgUrl": "/items/40658.png"
   },
   {
     "date": "12-21",
@@ -4508,7 +4508,7 @@
       "metier"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41269.png"
+    "imgUrl": "/items/41269.png"
   },
   {
     "date": "12-23",
@@ -4522,7 +4522,7 @@
     "metiersConcernes": [
       "Chasseur"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63483.png"
+    "imgUrl": "/items/63483.png"
   },
   {
     "date": "12-24",
@@ -4558,7 +4558,7 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54674.png"
+    "imgUrl": "/items/54674.png"
   },
   {
     "date": "12-27",
@@ -4596,7 +4596,7 @@
     "metiersConcernes": [
       "Paysan"
     ],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34010.png"
+    "imgUrl": "/items/34010.png"
   },
   {
     "date": "12-30",
@@ -4622,6 +4622,6 @@
       "drop"
     ],
     "metiersConcernes": [],
-    "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/63420.png"
+    "imgUrl": "/items/63420.png"
   }
 ]
