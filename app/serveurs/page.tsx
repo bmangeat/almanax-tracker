@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   JEUX_ORDRE,
   JEU_LABELS,
@@ -47,7 +47,10 @@ export default function ServeursPage() {
     return () => clearInterval(interval);
   }, []);
 
-  const affiches = filtreJeu ? serveurs.filter((s) => s.jeu === filtreJeu) : serveurs;
+  const affiches = useMemo(() => {
+    const filtres = filtreJeu ? serveurs.filter((s) => s.jeu === filtreJeu) : serveurs;
+    return [...filtres].sort((a, b) => Number(estFavori(b.id)) - Number(estFavori(a.id)));
+  }, [serveurs, filtreJeu, estFavori]);
   const enMaintenance = serveurs.filter((s) => estIndisponible(s.statut));
 
   return (
