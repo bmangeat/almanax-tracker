@@ -1,10 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-
-type Props = {
-  favoris: string[];
-};
+import { useFavorites } from "@/lib/use-favorites";
 
 type Etat = "indisponible" | "inactif" | "actif" | "refuse";
 
@@ -15,17 +12,23 @@ function urlBase64ToUint8Array(base64String: string): Uint8Array {
   return Uint8Array.from([...rawData].map((c) => c.charCodeAt(0)));
 }
 
-async function envoyerSubscription(subscription: PushSubscription, favoris: string[]) {
+async function envoyerSubscription(
+  subscription: PushSubscription,
+  favorisAlmanax: string[],
+  favorisServeurs: string[]
+) {
   await fetch("/api/push/subscribe", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ subscription: subscription.toJSON(), favoris }),
+    body: JSON.stringify({ subscription: subscription.toJSON(), favorisAlmanax, favorisServeurs }),
   });
 }
 
-export default function NotificationSettings({ favoris }: Props) {
+export default function NotificationSettings() {
   const [etat, setEtat] = useState<Etat>("inactif");
   const [chargement, setChargement] = useState(false);
+  const { favoris: favorisAlmanax } = useFavorites("almanax-favoris");
+  const { favoris: favorisServeurs } = useFavorites("almanax-serveurs-favoris");
 
   useEffect(() => {
     if (!("serviceWorker" in navigator) || !("PushManager" in window)) {
@@ -42,15 +45,15 @@ export default function NotificationSettings({ favoris }: Props) {
     });
   }, []);
 
-  // Resynchronise la liste de favoris côté serveur si les notifs sont déjà actives.
+  // Resynchronise les favoris côté serveur si les notifs sont déjà actives.
   useEffect(() => {
     if (etat !== "actif") return;
     navigator.serviceWorker.ready.then(async (registration) => {
       const subscription = await registration.pushManager.getSubscription();
-      if (subscription) await envoyerSubscription(subscription, favoris);
+      if (subscription) await envoyerSubscription(subscription, favorisAlmanax, favorisServeurs);
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [favoris]);
+  }, [favorisAlmanax, favorisServeurs]);
 
   async function activer() {
     setChargement(true);
@@ -67,7 +70,7 @@ export default function NotificationSettings({ favoris }: Props) {
           process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY!
         ) as BufferSource,
       });
-      await envoyerSubscription(subscription, favoris);
+      await envoyerSubscription(subscription, favorisAlmanax, favorisServeurs);
       setEtat("actif");
     } finally {
       setChargement(false);
@@ -99,7 +102,7 @@ export default function NotificationSettings({ favoris }: Props) {
     return (
       <p className="text-xs text-ink/50 font-body">
         Notifications bloquées — autorise-les dans les réglages de ton navigateur pour être
-        prévenu de tes offrandes favorites.
+        prévenu de tes favoris.
       </p>
     );
   }

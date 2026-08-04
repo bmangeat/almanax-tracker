@@ -3,13 +3,17 @@ import { saveSubscription } from "@/lib/kv";
 
 export async function POST(req: NextRequest) {
   const body = await req.json();
-  const { subscription, favoris } = body;
+  const { subscription, favorisAlmanax, favorisServeurs } = body;
 
   if (!subscription?.endpoint || !subscription?.keys?.p256dh || !subscription?.keys?.auth) {
     return NextResponse.json({ error: "subscription invalide" }, { status: 400 });
   }
 
-  await saveSubscription({ subscription, favoris: favoris ?? [] });
+  await saveSubscription({
+    subscription,
+    favorisAlmanax: favorisAlmanax ?? [],
+    favorisServeurs: favorisServeurs ?? [],
+  });
 
   return NextResponse.json({ ok: true });
 }

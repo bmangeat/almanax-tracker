@@ -41,7 +41,7 @@ export async function GET(req: NextRequest) {
   let sent = 0;
   await Promise.all(
     subscriptions
-      .filter((record) => record.favoris.includes(today))
+      .filter((record) => record.favorisAlmanax.includes(today))
       .map(async (record) => {
         try {
           await webpush.sendNotification(record.subscription, payload);

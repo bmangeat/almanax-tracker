@@ -13,7 +13,8 @@ export type PushSubscriptionRecord = {
     endpoint: string;
     keys: { p256dh: string; auth: string };
   };
-  favoris: string[]; // dates "MM-DD"
+  favorisAlmanax: string[]; // dates "MM-DD"
+  favorisServeurs: string[]; // ids "jeu:nom"
 };
 
 const SET_KEY = "push:endpoints";
@@ -40,4 +41,21 @@ export async function listSubscriptions(): Promise<PushSubscriptionRecord[]> {
     endpoints.map((e) => redis.get<PushSubscriptionRecord>(keyFor(e)))
   );
   return records.filter((r): r is PushSubscriptionRecord => r !== null);
+}
+
+// Dernier état connu de chaque serveur ("maintenance" pendant qu'il est
+// indisponible), pour ne notifier qu'au changement d'état et savoir quand
+// arrêter la chaîne de vérifications rapides (toutes les 30s).
+export type EtatServeur = "up" | "maintenance";
+
+function etatKeyFor(serveurId: string) {
+  return `serveur:etat:${serveurId}`;
+}
+
+export async function getEtatServeur(serveurId: string): Promise<EtatServeur | null> {
+  return redis.get<EtatServeur>(etatKeyFor(serveurId));
+}
+
+export async function setEtatServeur(serveurId: string, etat: EtatServeur) {
+  await redis.set(etatKeyFor(serveurId), etat);
 }
